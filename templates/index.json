@@ -144,6 +144,42 @@
         "logo_item_border": ""
       }
     },
+    "impact_text_bEGmqa": {
+      "type": "impact-text",
+      "blocks": {
+        "item_eVyQEg": {
+          "type": "item",
+          "settings": {
+            "title": "Pourquoi chosir BébéSafe ?",
+            "subheading": "",
+            "content": "",
+            "button_text": "",
+            "button_url": "",
+            "animate_impact_text": false,
+            "animate_impact_text_duration": 2
+          }
+        }
+      },
+      "block_order": [
+        "item_eVyQEg"
+      ],
+      "name": "Impact text",
+      "settings": {
+        "full_width": true,
+        "stack_mobile": true,
+        "text_alignment": "center",
+        "impact_text_style": "fill",
+        "text_divider": "none",
+        "impact_text_size_ratio": 0.7,
+        "background": "",
+        "background_gradient": "",
+        "heading_text_color": "",
+        "heading_gradient": "",
+        "text_color": "#233249",
+        "button_background": "#233249",
+        "button_text_color": ""
+      }
+    },
     "faq": {
       "type": "faq",
       "blocks": {
@@ -201,6 +237,7 @@
     "slideshow",
     "impact_text_zzFUhR",
     "logo_list_WDizdB",
+    "impact_text_bEGmqa",
     "faq"
   ]
 }
