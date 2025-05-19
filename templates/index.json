@@ -180,6 +180,22 @@
         "button_text_color": ""
       }
     },
+    "image_with_text_overlay_rgtGhd": {
+      "type": "image-with-text-overlay",
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/Pomme_d_Api.png",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
     "faq": {
       "type": "faq",
       "blocks": {
@@ -238,6 +254,7 @@
     "impact_text_zzFUhR",
     "logo_list_WDizdB",
     "impact_text_bEGmqa",
+    "image_with_text_overlay_rgtGhd",
     "faq"
   ]
 }
