@@ -293,6 +293,107 @@
         "background_gradient": "",
         "text_color": ""
       }
+    },
+    "featured_product_fF8Jyr": {
+      "type": "featured-product",
+      "blocks": {
+        "vendor_NpTTgF": {
+          "type": "vendor",
+          "settings": {}
+        },
+        "title_xexw7d": {
+          "type": "title",
+          "settings": {
+            "heading_tag": "h2"
+          }
+        },
+        "badges_GLnamh": {
+          "type": "badges",
+          "settings": {}
+        },
+        "price_3zz63f": {
+          "type": "price",
+          "settings": {
+            "show_taxes_notice": false
+          }
+        },
+        "rating_6PmN86": {
+          "type": "rating",
+          "settings": {
+            "show_empty": false
+          }
+        },
+        "separator_E7d4kj": {
+          "type": "separator",
+          "settings": {}
+        },
+        "description_eLfd3n": {
+          "type": "description",
+          "settings": {
+            "collapse_content": false
+          }
+        },
+        "variant_picker_D3VU9X": {
+          "type": "variant_picker",
+          "settings": {
+            "hide_sold_out_variants": false,
+            "stack_blocks": true,
+            "selector_mode": "block",
+            "color_mode": "color",
+            "size_chart_page": ""
+          }
+        },
+        "quantity_selector_4xyJLD": {
+          "type": "quantity_selector",
+          "settings": {}
+        },
+        "buy_buttons_MQQf4g": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_payment_button": true,
+            "show_gift_card_recipient": true,
+            "atc_button_background": "",
+            "atc_button_text_color": "",
+            "payment_button_background": "",
+            "payment_button_text_color": ""
+          }
+        },
+        "pickup_availability_gDibVj": {
+          "type": "pickup_availability",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "vendor_NpTTgF",
+        "title_xexw7d",
+        "badges_GLnamh",
+        "price_3zz63f",
+        "rating_6PmN86",
+        "separator_E7d4kj",
+        "description_eLfd3n",
+        "variant_picker_D3VU9X",
+        "quantity_selector_4xyJLD",
+        "buy_buttons_MQQf4g",
+        "pickup_availability_gDibVj"
+      ],
+      "name": "Featured product",
+      "settings": {
+        "full_width": true,
+        "product": "1pcs-childrens-anti-fall-pillow-baby-toddler-head-pillow-breathable-pillow-learning-to-walk-head-protection-pad-head-protection",
+        "desktop_media_width": 55,
+        "desktop_media_layout": "carousel_thumbnails_left",
+        "mobile_media_size": "expanded",
+        "mobile_carousel_control": "floating_dots",
+        "enable_video_autoplay": true,
+        "enable_video_looping": false,
+        "enable_image_zoom": true,
+        "max_image_zoom_level": 3,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "input_background": "rgba(0,0,0,0)",
+        "input_text_color": ""
+      }
     }
   },
   "order": [
@@ -302,6 +403,7 @@
     "impact_text_bEGmqa",
     "image_with_text_overlay_rgtGhd",
     "impact_text_Jim3Kk",
-    "multi_column_NJwHCh"
+    "multi_column_NJwHCh",
+    "featured_product_fF8Jyr"
   ]
 }
