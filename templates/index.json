@@ -232,56 +232,66 @@
         "button_text_color": ""
       }
     },
-    "faq": {
-      "type": "faq",
+    "multi_column_NJwHCh": {
+      "type": "multi-column",
       "blocks": {
-        "166442457738b23caf-0": {
+        "item_bQar9C": {
           "type": "item",
           "settings": {
-            "title": "Do you ship overseas?",
-            "content": "<p>Yes, we ship all over the world. Shipping costs will apply, and will be added at checkout. We run discounts and promotions all year, so stay tuned for exclusive deals.</p>"
+            "image": "shopify://shop_images/Image_6.jpg",
+            "column_size": "3",
+            "title": " Claire, maman de Léo.",
+            "heading_tag": "h4",
+            "content": "<p><em>Depuis qu’on utilise ce petit sac, Léo explore sans peur. Il est tombé deux fois et n’a rien senti. En plus, il adore le porter !</em></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
           }
         },
-        "166442457738b23caf-1": {
+        "item_9d6fta": {
           "type": "item",
           "settings": {
-            "title": "How long will it take to get my orders?",
-            "content": "<p>It depends on where you are. Orders processed here will take 5-7 business days to arrive. Overseas deliveries can take anywhere from 7-16 days. Delivery details will be provided in your confirmation email.</p>"
+            "image": "shopify://shop_images/Image_8.jpg",
+            "column_size": "3",
+            "title": "Julien, papa de jumelles.",
+            "heading_tag": "h4",
+            "content": "<p><em>Super produit, léger et rassurant. On a enfin l’esprit tranquille quand elles marchent partout à la maison.</em></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
           }
         },
-        "166442457738b23caf-2": {
+        "item_xjEnJg": {
           "type": "item",
           "settings": {
-            "title": "Any question?",
-            "content": "<p>You can contact us through our contact page! We will be happy to assist you.</p>"
+            "image": "shopify://shop_images/Image_7.jpg",
+            "column_size": "3",
+            "title": " Émilie, maman de Naël.",
+            "heading_tag": "h4",
+            "content": "<p><em>Mon fils tombe souvent en arrière… ce sac a sauvé plusieurs bosses ! Et il est trop mignon avec.</em></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
           }
         }
       },
       "block_order": [
-        "166442457738b23caf-0",
-        "166442457738b23caf-1",
-        "166442457738b23caf-2"
+        "item_bQar9C",
+        "item_9d6fta",
+        "item_xjEnJg"
       ],
+      "name": "Multi-column",
       "settings": {
-        "full_width": false,
-        "subheading": "",
-        "title": "FAQ",
-        "content": "<p>Use this text to share information about your product or shipping policies.</p>",
-        "team_avatar_width": 160,
-        "support_hours": "Our customer support is available Monday to Friday: 8am-8:30pm.",
-        "answer_time": "Average answer time: 24h",
-        "button_text": "",
-        "button_url": "",
-        "text_position": "start",
-        "background": "#ffffff",
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "start",
+        "subheading": "About",
+        "title": "Featured content",
+        "content": "<p>Organize content into multiple columns to share useful information to your customers about your products, values...</p>",
+        "background": "",
         "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": "",
-        "button_background": "",
-        "button_text_color": "",
-        "accordion_background": "",
-        "accordion_text_color": ""
+        "text_color": ""
       }
     }
   },
@@ -292,6 +302,6 @@
     "impact_text_bEGmqa",
     "image_with_text_overlay_rgtGhd",
     "impact_text_Jim3Kk",
-    "faq"
+    "multi_column_NJwHCh"
   ]
 }
