@@ -11,6 +11,62 @@
   "type": "footer",
   "name": "Footer group",
   "sections": {
+    "tabs_it3Xat": {
+      "type": "tabs",
+      "blocks": {
+        "tab_TCnHDH": {
+          "type": "tab",
+          "settings": {
+            "title": "Caractéristiques",
+            "content": "<p><strong>Confort et sécurité</strong> : Le matériau est doux et agréable au toucher, assurant le confort de bébé tout en le protégeant.</p>",
+            "page": ""
+          }
+        },
+        "tab_xGPQUB": {
+          "type": "tab",
+          "settings": {
+            "title": "Garantie Sérénité – Remboursement en cas de chute dans les 30 jours",
+            "content": "<p>La sécurité de votre enfant est notre priorité. Si, malgré l’utilisation de notre coussin de protection, votre enfant subit une chute entraînant un incident ou un inconfort notable, <strong>vous pouvez demander un remboursement complet dans un délai de 30 jours suivant la date d’achat</strong>.</p>",
+            "page": ""
+          }
+        },
+        "tab_et7VRk": {
+          "type": "tab",
+          "settings": {
+            "title": "Livraison gratuite à domicile",
+            "content": "<p>En raison du succès, les livraisons peuvent être légèrement retardées en France et en Belgique. La livraison à domicile est gratuite, avec un délai estimé entre 5 à 10 jours ouvrés.</p>",
+            "page": ""
+          }
+        },
+        "tab_QwdrTj": {
+          "type": "tab",
+          "settings": {
+            "title": "Service client 7J/7",
+            "content": "<p>Votre équipe est à disposition pour répondre à vos questions sept jours sur sept.</p><p>Vous pouvez nous contacter par email ou téléphone aux horaires suivants : du lundi au vendredi de 9h à 12h et de 14h à 18h, et le samedi et dimanche de 10h à 12h. N'hésitez pas à nous joindre.</p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "tab_TCnHDH",
+        "tab_xGPQUB",
+        "tab_et7VRk",
+        "tab_QwdrTj"
+      ],
+      "name": "Tabs",
+      "settings": {
+        "full_width": true,
+        "content_size": "medium",
+        "subheading": "",
+        "title": "",
+        "first_tab_open": false,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
+      }
+    },
     "text-with-icons": {
       "type": "text-with-icons",
       "blocks": {
@@ -129,6 +185,7 @@
     }
   },
   "order": [
+    "tabs_it3Xat",
     "text-with-icons",
     "footer"
   ]
