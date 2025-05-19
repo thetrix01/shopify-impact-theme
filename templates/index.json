@@ -248,23 +248,10 @@
             "link_style": "link"
           }
         },
-        "item_9d6fta": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/Image_8.jpg",
-            "column_size": "3",
-            "title": "Julien, papa de jumelles.",
-            "heading_tag": "h4",
-            "content": "<p><em>Super produit, léger et rassurant. On a enfin l’esprit tranquille quand elles marchent partout à la maison.</em></p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
         "item_xjEnJg": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Image_7.jpg",
+            "image": "shopify://shop_images/Image_10.jpg",
             "column_size": "3",
             "title": " Émilie, maman de Naël.",
             "heading_tag": "h4",
@@ -273,12 +260,25 @@
             "link_text": "",
             "link_style": "link"
           }
+        },
+        "item_9d6fta": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Image_11_3b5b6f8a-adc0-4107-a9ec-6f7023a58d35.jpg",
+            "column_size": "3",
+            "title": "Julien, papa de jumelles.",
+            "heading_tag": "h4",
+            "content": "<p><em>Super produit, léger et rassurant. On a enfin l’esprit tranquille quand elles marchent partout à la maison.</em></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
         }
       },
       "block_order": [
         "item_bQar9C",
-        "item_9d6fta",
-        "item_xjEnJg"
+        "item_xjEnJg",
+        "item_9d6fta"
       ],
       "name": "Multi-column",
       "settings": {
