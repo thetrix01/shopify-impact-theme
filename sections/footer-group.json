@@ -11,6 +11,83 @@
   "type": "footer",
   "name": "Footer group",
   "sections": {
+    "faq_TrdJnD": {
+      "type": "faq",
+      "blocks": {
+        "item_MkxbPH": {
+          "type": "item",
+          "settings": {
+            "title": "Jusqu'à combien de mois peut-il être utilisé ?",
+            "content": "<p>Ce coussin est adapté aux bébés dès 4 mois et jusqu'à environ 24 mois, période durant laquelle l'enfant commence à se tenir debout et à marcher. Il offre une protection efficace pendant cette phase d'apprentissage.<br/></p>"
+          }
+        },
+        "item_jixrxe": {
+          "type": "item",
+          "settings": {
+            "title": "Quels sont les matériaux utilisés ?",
+            "content": "<p>Le coussin est fabriqué à partir de tissus doux et respirants, assurant un confort optimal pour la peau sensible de votre bébé. Il est léger et conçu pour ne pas gêner les mouvements de l'enfant.</p>"
+          }
+        },
+        "item_yKt3Fx": {
+          "type": "item",
+          "settings": {
+            "title": "Le produit est-il conforme aux normes de sécurité ?",
+            "content": "<p>Oui, le coussin respecte les normes de sécurité applicables aux accessoires pour bébés (notamment en termes de <strong>matières non toxiques</strong> et <strong>design sans pièces détachables</strong>).</p>"
+          }
+        },
+        "item_CGkEwW": {
+          "type": "item",
+          "settings": {
+            "title": "Que faire si mon bébé ne veut pas le porter ?",
+            "content": "<p>Certains bébés peuvent être réticents au début. Essayez de <strong>le présenter comme un jouet ou un sac à dos amusant</strong>. Choisissez un modèle avec un design ludique (licorne, animal, ailes, etc.) pour le rendre plus attrayant. Une courte période d’adaptation est souvent suffisante.</p>"
+          }
+        },
+        "item_beh8AG": {
+          "type": "item",
+          "settings": {
+            "title": "Comment le maintenir en place sur mon bébé ?",
+            "content": "<p>Le coussin est équipé de bretelles ajustables, permettant un maintien sécurisé sans gêner les mouvements de l'enfant. Il est conçu pour être porté confortablement tout au long de la journée. </p>"
+          }
+        },
+        "item_YwdWk8": {
+          "type": "item",
+          "settings": {
+            "title": "Est-il lavable ?",
+            "content": "<p>Oui, le coussin est lavable à la main ou en machine à 30°C. Il est recommandé de le sécher à l'air libre pour préserver sa forme et sa qualité.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_MkxbPH",
+        "item_jixrxe",
+        "item_yKt3Fx",
+        "item_CGkEwW",
+        "item_beh8AG",
+        "item_YwdWk8"
+      ],
+      "name": "FAQ",
+      "settings": {
+        "full_width": true,
+        "subheading": "",
+        "title": "FAQ",
+        "content": "",
+        "team_avatar_width": 160,
+        "support_hours": "Our customer support is available Monday to Friday: 8am-8:30pm.",
+        "answer_time": "Average answer time: 24h",
+        "button_text": "",
+        "button_url": "",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "button_background": "",
+        "button_text_color": "",
+        "accordion_background": "",
+        "accordion_text_color": ""
+      }
+    },
     "tabs_it3Xat": {
       "type": "tabs",
       "blocks": {
@@ -186,6 +263,7 @@
     }
   },
   "order": [
+    "faq_TrdJnD",
     "tabs_it3Xat",
     "text-with-icons",
     "footer"

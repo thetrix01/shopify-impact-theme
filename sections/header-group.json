@@ -14,15 +14,31 @@
     "announcement-bar": {
       "type": "announcement-bar",
       "blocks": {
+        "message_DmLE7R": {
+          "type": "message",
+          "settings": {
+            "text": "Offre de Fête Des Mères -10€ !",
+            "url": ""
+          }
+        },
+        "message_kLb9m9": {
+          "type": "message",
+          "settings": {
+            "text": "Satisfait ou remboursé !",
+            "url": ""
+          }
+        },
         "message": {
           "type": "message",
           "settings": {
-            "text": "Announce something here",
+            "text": "Paiement 100% sécurisé !",
             "url": ""
           }
         }
       },
       "block_order": [
+        "message_DmLE7R",
+        "message_kLb9m9",
         "message"
       ],
       "settings": {
