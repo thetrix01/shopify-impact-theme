@@ -440,6 +440,22 @@
         "review_button_background": "#000000",
         "review_button_text_color": "#ffffff"
       }
+    },
+    "17477839192020f227": {
+      "type": "apps",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "enable_review_integration": true,
+        "review_header_gradient": "linear-gradient(135deg, rgba(255, 194, 102, 1), rgba(255, 163, 26, 1) 100%)",
+        "review_header_text_color": "#000000",
+        "review_button_background": "#000000",
+        "review_button_text_color": "#ffffff"
+      }
     }
   },
   "order": [
@@ -452,6 +468,7 @@
     "impact_text_Jim3Kk",
     "multi_column_NJwHCh",
     "featured_product_fF8Jyr",
-    "17477599406aa7e8b3"
+    "17477599406aa7e8b3",
+    "17477839192020f227"
   ]
 }
