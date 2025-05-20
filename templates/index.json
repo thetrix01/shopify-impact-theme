@@ -348,6 +348,12 @@
             "show_taxes_notice": false
           }
         },
+        "liquid_LMXcJe": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<!-- Bannière Livraison Offerte - Style pastel -->\n<div id=\"free-shipping\" style=\"font-family: 'Arial Rounded MT Bold', sans-serif; max-width: 500px; margin: 20px auto; padding: 16px 20px; background-color: #e0f7fa; border: 2px solid #b2ebf2; border-radius: 16px; text-align: center; box-shadow: 0 4px 8px rgba(0,0,0,0.05);\">\n  <p style=\"font-size: 18px; color: #005f73; margin: 0;\">\n    🚚 <strong>Livraison offerte !</strong> Profitez-en 💙\n  </p>\n</div>"
+          }
+        },
         "separator_E7d4kj": {
           "type": "separator",
           "settings": {}
@@ -382,6 +388,7 @@
         "badges_GLnamh",
         "judge_me_reviews_preview_badge_homepage_cWWj6V",
         "price_3zz63f",
+        "liquid_LMXcJe",
         "separator_E7d4kj",
         "description_eLfd3n",
         "liquid_L4nQ8Q",
