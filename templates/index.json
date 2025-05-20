@@ -406,6 +406,33 @@
         "input_background": "rgba(0,0,0,0)",
         "input_text_color": ""
       }
+    },
+    "17477599406aa7e8b3": {
+      "type": "apps",
+      "blocks": {
+        "judge_me_reviews_review_widget_homepage_rDbhHQ": {
+          "type": "shopify://apps/judge-me-reviews/blocks/review_widget_homepage/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {
+            "product": "1pcs-childrens-anti-fall-pillow-baby-toddler-head-pillow-breathable-pillow-learning-to-walk-head-protection-pad-head-protection"
+          }
+        }
+      },
+      "block_order": [
+        "judge_me_reviews_review_widget_homepage_rDbhHQ"
+      ],
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "enable_review_integration": true,
+        "review_header_gradient": "linear-gradient(135deg, rgba(255, 194, 102, 1), rgba(255, 163, 26, 1) 100%)",
+        "review_header_text_color": "#000000",
+        "review_button_background": "#000000",
+        "review_button_text_color": "#ffffff"
+      }
     }
   },
   "order": [
@@ -417,6 +444,7 @@
     "1747759876fb60a3ac",
     "impact_text_Jim3Kk",
     "multi_column_NJwHCh",
-    "featured_product_fF8Jyr"
+    "featured_product_fF8Jyr",
+    "17477599406aa7e8b3"
   ]
 }
