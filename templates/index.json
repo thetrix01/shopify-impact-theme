@@ -348,12 +348,6 @@
             "show_taxes_notice": false
           }
         },
-        "rating_6PmN86": {
-          "type": "rating",
-          "settings": {
-            "show_empty": false
-          }
-        },
         "separator_E7d4kj": {
           "type": "separator",
           "settings": {}
@@ -382,7 +376,6 @@
         "badges_GLnamh",
         "judge_me_reviews_preview_badge_homepage_cWWj6V",
         "price_3zz63f",
-        "rating_6PmN86",
         "separator_E7d4kj",
         "description_eLfd3n",
         "pumper_bundles_quantity_breaks_app_block_bundle_LJkcBe",
