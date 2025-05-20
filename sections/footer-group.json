@@ -147,8 +147,9 @@
         "newsletter": {
           "type": "newsletter",
           "settings": {
-            "image_width": 150,
-            "heading_size": "h3",
+            "image": "shopify://shop_images/Design_sans_titre-16.png",
+            "image_width": 120,
+            "heading_size": "h5",
             "title": "Sign up for new stories and personal offers",
             "content": ""
           }
