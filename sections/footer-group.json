@@ -25,16 +25,16 @@
         "tab_xGPQUB": {
           "type": "tab",
           "settings": {
-            "title": "Garantie Sérénité – Remboursement en cas de chute dans les 30 jours",
-            "content": "<p>La sécurité de votre enfant est notre priorité. Si, malgré l’utilisation de notre coussin de protection, votre enfant subit une chute entraînant un incident ou un inconfort notable, <strong>vous pouvez demander un remboursement complet dans un délai de 30 jours suivant la date d’achat</strong>.</p>",
+            "title": "Garantie Sérénité – Remboursement en cas de chute dans les 14 jours",
+            "content": "<p>La sécurité de votre enfant est notre priorité. Si, malgré l’utilisation de notre coussin de protection, votre enfant subit une chute entraînant un incident ou un inconfort notable, <strong>vous pouvez demander un remboursement complet dans un délai de 14 jours suivant la date d’achat</strong>.</p>",
             "page": ""
           }
         },
         "tab_et7VRk": {
           "type": "tab",
           "settings": {
-            "title": "Livraison gratuite à domicile",
-            "content": "<p>En raison du succès, les livraisons peuvent être légèrement retardées en France et en Belgique. La livraison à domicile est gratuite, avec un délai estimé entre 5 à 10 jours ouvrés.</p>",
+            "title": "Livraison offerte à domicile",
+            "content": "<p>En raison du succès, les livraisons peuvent être légèrement retardées en France et en Belgique. La livraison à domicile est offerte, avec un délai estimé entre 5 à 10 jours ouvrés.</p>",
             "page": ""
           }
         },
