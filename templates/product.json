@@ -36,6 +36,12 @@
             "show_taxes_notice": false
           }
         },
+        "liquid_jdGC6A": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div class=\"container-bouton-accueil\">\n  <a href=\"{{ routes.root_url }}\" class=\"btn-retour-accueil\">\n    ✨ Découvrir en détail\n  </a>\n</div>\n\n<style>\n  .container-bouton-accueil {\n    text-align: center;\n    margin: 40px 0;\n  }\n\n  .btn-retour-accueil {\n    display: inline-block;\n    padding: 14px 24px;\n    background-color: #aec6cf; /* bleu pastel */\n    color: #ffffff;\n    text-decoration: none;\n    border-radius: 10px;\n    font-weight: bold;\n    font-size: 16px;\n    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);\n    transition: background-color 0.3s ease;\n    animation: flotter 3s ease-in-out infinite;\n  }\n\n  .btn-retour-accueil:hover {\n    background-color: #98b9c3;\n  }\n\n  @keyframes flotter {\n    0%   { transform: translateY(0); }\n    50%  { transform: translateY(-6px); }\n    100% { transform: translateY(0); }\n  }\n</style>"
+          }
+        },
         "separator": {
           "type": "separator",
           "settings": {}
@@ -60,6 +66,7 @@
         "badges",
         "judge_me_reviews_preview_badge_Aga8UF",
         "price",
+        "liquid_jdGC6A",
         "separator",
         "description",
         "pumper_bundles_quantity_breaks_app_block_bundle_dphU3R"
