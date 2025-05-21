@@ -49,6 +49,11 @@
         "type": "shopify://apps/judge-me-reviews/blocks/judgeme_core/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
         "disabled": false,
         "settings": {}
+      },
+      "6096544053266484610": {
+        "type": "shopify://apps/comparexpert/blocks/app-embed/c855b225-94ed-4209-962c-0fcdc53b09bf",
+        "disabled": false,
+        "settings": {}
       }
     }
   },
