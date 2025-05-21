@@ -279,7 +279,7 @@
           "type": "text",
           "settings": {
             "title": "About",
-            "content": "<p>Use this text area to tell your customers about your brand and vision. You can change it in the theme editor.</p>",
+            "content": "<p><strong>Service</strong> <strong>client</strong>: support@bebesafe.com</p><p><strong>Horaire</strong>: : Du Lun au Ven de 9h à 12h et de 14h à 18h / Sam et Dim de 10h à 12h</p>",
             "enable_follow_on_shop": true
           }
         }
