@@ -380,6 +380,14 @@
         "pickup_availability_gDibVj": {
           "type": "pickup_availability",
           "settings": {}
+        },
+        "image_i7hayh": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Image_21-05-2025_a_20.40-removebg-preview.png",
+            "alignment": "center",
+            "max_width": 500
+          }
         }
       },
       "block_order": [
@@ -393,7 +401,8 @@
         "description_eLfd3n",
         "liquid_L4nQ8Q",
         "pumper_bundles_quantity_breaks_app_block_bundle_LJkcBe",
-        "pickup_availability_gDibVj"
+        "pickup_availability_gDibVj",
+        "image_i7hayh"
       ],
       "name": "Featured product",
       "settings": {
