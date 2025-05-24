@@ -404,6 +404,14 @@
             "alignment": "center",
             "max_width": 500
           }
+        },
+        "image_jJGiGj": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Design_sans_titre-17-removebg-preview.png",
+            "alignment": "center",
+            "max_width": 500
+          }
         }
       },
       "block_order": [
@@ -418,7 +426,8 @@
         "liquid_L4nQ8Q",
         "pumper_bundles_quantity_breaks_app_block_bundle_LJkcBe",
         "pickup_availability_gDibVj",
-        "image_i7hayh"
+        "image_i7hayh",
+        "image_jJGiGj"
       ],
       "name": "Featured product",
       "settings": {
