@@ -13,6 +13,7 @@
   "sections": {
     "17477838966c88d2ca": {
       "type": "apps",
+      "disabled": true,
       "settings": {
         "full_width": true,
         "remove_vertical_spacing": false,
@@ -81,6 +82,7 @@
         "item_beh8AG",
         "item_YwdWk8"
       ],
+      "disabled": true,
       "name": "FAQ",
       "settings": {
         "full_width": true,
@@ -146,6 +148,7 @@
         "tab_et7VRk",
         "tab_QwdrTj"
       ],
+      "disabled": true,
       "name": "Tabs",
       "settings": {
         "full_width": true,
@@ -162,6 +165,7 @@
     },
     "contact_mCdkxE": {
       "type": "contact",
+      "disabled": true,
       "name": "Contact form",
       "settings": {
         "full_width": true,
