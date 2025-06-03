@@ -9878,3 +9878,10 @@ split-lines {
   display: -webkit-box;
   overflow: hidden;
 }
+
+.site-header__search,
+.header__search,
+.search-icon,
+.icon-search {
+  display: none !important;
+}
