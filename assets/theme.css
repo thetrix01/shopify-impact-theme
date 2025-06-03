@@ -9885,3 +9885,10 @@ split-lines {
 .icon-search {
   display: none !important;
 }
+
+.header__icon--account,
+.icon-account,
+.customer-login,
+.site-header__account {
+  display: none !important;
+}
