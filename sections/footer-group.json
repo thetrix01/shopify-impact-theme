@@ -284,7 +284,7 @@
           "settings": {
             "title": "About",
             "content": "<p><strong>Service</strong> <strong>client</strong>: support@bebesafe.fr</p><p><strong>Horaires</strong>: Du Lun au Ven de 9h à 12h et de 14h à 18h / Sam et Dim de 10h à 12h</p>",
-            "enable_follow_on_shop": true
+            "enable_follow_on_shop": false
           }
         }
       },
