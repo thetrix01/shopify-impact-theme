@@ -345,7 +345,7 @@
         "price_3zz63f": {
           "type": "price",
           "settings": {
-            "show_taxes_notice": false
+            "show_taxes_notice": true
           }
         },
         "liquid_LMXcJe": {
