@@ -351,7 +351,7 @@
         "liquid_LMXcJe": {
           "type": "liquid",
           "settings": {
-            "liquid": "<!-- Bannière Livraison Offerte - Style pastel -->\n<div id=\"free-shipping\" style=\"font-family: 'Arial Rounded MT Bold', sans-serif; max-width: 500px; margin: 20px auto; padding: 16px 20px; background-color: #e0f7fa; border: 2px solid #b2ebf2; border-radius: 16px; text-align: center; box-shadow: 0 4px 8px rgba(0,0,0,0.05);\">\n  <p style=\"font-size: 18px; color: #005f73; margin: 0;\">\n    🚚 <strong>Livraison offerte !</strong> Profitez-en 💙\n  </p>\n</div>"
+            "liquid": "<!-- Bannière Livraison Offerte - Compacte et sans bordure -->\n<div style=\"font-family: Arial, sans-serif; max-width: 400px; margin: 16px auto; padding: 10px 16px; background-color: #e0f7fa; text-align: center;\">\n  <p style=\"font-size: 16px; color: #007780; margin: 0;\">\n    🚚 <strong>Livraison offerte !</strong> Profitez-en 💙\n  </p>\n</div>"
           }
         },
         "separator_E7d4kj": {
