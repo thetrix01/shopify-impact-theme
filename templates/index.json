@@ -11,32 +11,6 @@
   "sections": {
     "slideshow": {
       "type": "slideshow",
-      "blocks": {
-        "slide-1": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/Pomme_d_Api-2.png",
-            "content_max_width": 780,
-            "mobile_text_position": "place-self-center text-center",
-            "desktop_text_position": "sm:place-self-center sm:text-center",
-            "subheading": "",
-            "title": "",
-            "heading_tag": "h0",
-            "button_text": "",
-            "button_link": "",
-            "text_color": "#ffffff",
-            "button_background": "#233249",
-            "button_text_color": "#000000",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0,
-            "background": "",
-            "background_gradient": ""
-          }
-        }
-      },
-      "block_order": [
-        "slide-1"
-      ],
       "settings": {
         "full_width": true,
         "allow_transparent_header": true,
@@ -47,6 +21,22 @@
         "cycle_speed": 6,
         "background": "#f2f2f2",
         "background_gradient": "linear-gradient(60deg, rgba(60, 65, 68, 1), rgba(23, 29, 33, 1) 98%)"
+      }
+    },
+    "image_with_text_overlay_8RcdxQ": {
+      "type": "image-with-text-overlay",
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/35B82543-8C8E-45A3-B6F4-E3F0C2E25F64.png",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
       }
     },
     "impact_text_zzFUhR": {
@@ -78,7 +68,7 @@
         "impact_text_size_ratio": 0.8,
         "background": "",
         "background_gradient": "",
-        "heading_text_color": "#233249",
+        "heading_text_color": "#b3871b",
         "heading_gradient": "",
         "text_color": "#233249",
         "button_background": "#233249",
@@ -91,7 +81,7 @@
         "logo_EVXhNq": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/Image-removebg-preview-2.png",
+            "logo": "shopify://shop_images/Image_9-removebg-preview.png",
             "logo_width": 300,
             "link": ""
           }
@@ -99,7 +89,7 @@
         "logo_QRBAqn": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/Image_4-Photoroom.png",
+            "logo": "shopify://shop_images/Image-Photoroom.png",
             "logo_width": 300,
             "link": ""
           }
@@ -107,7 +97,7 @@
         "logo_bwCHhH": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/Image_3-Photoroom-2.png",
+            "logo": "shopify://shop_images/Image_3-Photoroom.png",
             "logo_width": 120,
             "link": ""
           }
@@ -115,7 +105,7 @@
         "logo_dtUAEF": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/Image_2-Photoroom-2.png",
+            "logo": "shopify://shop_images/Image_1-Photoroom.png",
             "logo_width": 120,
             "link": ""
           }
@@ -150,7 +140,7 @@
         "item_eVyQEg": {
           "type": "item",
           "settings": {
-            "title": "Pourquoi chosir BébéSafe ?",
+            "title": "Pourquoi chosir CurcuGlow ?",
             "subheading": "",
             "content": "",
             "button_text": "",
@@ -175,7 +165,7 @@
         "background_gradient": "",
         "heading_text_color": "",
         "heading_gradient": "",
-        "text_color": "#233249",
+        "text_color": "#b3871b",
         "button_background": "#233249",
         "button_text_color": ""
       }
@@ -490,6 +480,7 @@
   },
   "order": [
     "slideshow",
+    "image_with_text_overlay_8RcdxQ",
     "impact_text_zzFUhR",
     "logo_list_WDizdB",
     "impact_text_bEGmqa",

@@ -46,7 +46,7 @@
         "text_size": "text-xs",
         "navigation_mode": "scrolling",
         "scrolling_speed": 10,
-        "background": "#233249",
+        "background": "#b3871b",
         "background_gradient": "",
         "text_color": "#ffffff"
       }
@@ -56,7 +56,7 @@
       "settings": {
         "enable_sticky": true,
         "hide_on_scroll": false,
-        "logo": "shopify://shop_images/Design_sans_titre-15-removebg-preview.png",
+        "logo": "shopify://shop_images/3A6DEDD9-A02B-4E44-A8E4-BF6C08B44744_4_5005_c.jpg",
         "logo_max_width": 120,
         "logo_mobile_max_width": 100,
         "menu": "main-menu",
@@ -71,7 +71,7 @@
         "show_country_flag": true,
         "show_country_name": false,
         "transparent_header_text_color": "#233249",
-        "transparent_logo": "shopify://shop_images/2e2d42de-b964-4123-9069-f92130824033_removalai_preview.png",
+        "transparent_logo": "shopify://shop_images/3A6DEDD9-A02B-4E44-A8E4-BF6C08B44744_4_5005_c.jpg",
         "reduce_padding": false,
         "background_opacity": 100,
         "background_blur_radius": 0
