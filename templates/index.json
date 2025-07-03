@@ -39,40 +39,20 @@
         "overlay_opacity": 0
       }
     },
-    "impact_text_zzFUhR": {
-      "type": "impact-text",
-      "blocks": {
-        "item_fPxBdL": {
-          "type": "item",
-          "settings": {
-            "title": "Vu sur :",
-            "subheading": "",
-            "content": "",
-            "button_text": "",
-            "button_url": "",
-            "animate_impact_text": false,
-            "animate_impact_text_duration": 2
-          }
-        }
-      },
-      "block_order": [
-        "item_fPxBdL"
-      ],
-      "name": "Impact text",
+    "image_with_text_overlay_KeUmki": {
+      "type": "image-with-text-overlay",
+      "name": "Image with text overlay",
       "settings": {
         "full_width": true,
-        "stack_mobile": true,
-        "text_alignment": "center",
-        "impact_text_style": "fill",
-        "text_divider": "none",
-        "impact_text_size_ratio": 0.8,
-        "background": "",
-        "background_gradient": "",
-        "heading_text_color": "#b86d0a",
-        "heading_gradient": "",
-        "text_color": "#233249",
-        "button_background": "#233249",
-        "button_text_color": "#233249"
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/Vu_dur.png",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
       }
     },
     "logo_list_WDizdB": {
@@ -464,7 +444,7 @@
   "order": [
     "slideshow",
     "image_with_text_overlay_8RcdxQ",
-    "impact_text_zzFUhR",
+    "image_with_text_overlay_KeUmki",
     "logo_list_WDizdB",
     "impact_text_bEGmqa",
     "image_with_text_overlay_rgtGhd",
