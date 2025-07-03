@@ -68,7 +68,7 @@
         "impact_text_size_ratio": 0.8,
         "background": "",
         "background_gradient": "",
-        "heading_text_color": "#b3871b",
+        "heading_text_color": "#b86d0a",
         "heading_gradient": "",
         "text_color": "#233249",
         "button_background": "#233249",
@@ -136,23 +136,6 @@
     },
     "impact_text_bEGmqa": {
       "type": "impact-text",
-      "blocks": {
-        "item_eVyQEg": {
-          "type": "item",
-          "settings": {
-            "title": "Pourquoi chosir CurcuGlow ?",
-            "subheading": "",
-            "content": "",
-            "button_text": "",
-            "button_url": "",
-            "animate_impact_text": false,
-            "animate_impact_text_duration": 2
-          }
-        }
-      },
-      "block_order": [
-        "item_eVyQEg"
-      ],
       "name": "Impact text",
       "settings": {
         "full_width": true,
@@ -178,7 +161,7 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/Untitled_design_5.jpg",
+        "image": "shopify://shop_images/Untitled_design_11.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
