@@ -232,11 +232,11 @@
         "item_bQar9C": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Image_6.jpg",
+            "image": "shopify://shop_images/Image_3_e786dc69-f7ac-48a6-808c-d26b92df9795.jpg",
             "column_size": "3",
-            "title": " Claire, maman de Léo.",
+            "title": "Sophie",
             "heading_tag": "h4",
-            "content": "<p><em>Depuis qu’on utilise ce petit sac, Léo explore sans peur. Il est tombé deux fois et n’a rien senti. En plus, il adore le porter !</em></p>",
+            "content": "<p>Utilisé chaque jour, il laisse ma peau propre et sans tiraillement. Le curcuma donne un joli éclat.</p><p></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -245,11 +245,11 @@
         "item_xjEnJg": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Image_10.jpg",
+            "image": "shopify://shop_images/Image_1.jpg",
             "column_size": "3",
             "title": " Émilie, maman de Naël.",
             "heading_tag": "h4",
-            "content": "<p><em>Mon fils tombe souvent en arrière… ce sac a sauvé plusieurs bosses ! Et il est trop mignon avec.</em></p>",
+            "content": "<p>Je suis conquise : mes boutons ont diminué et mon teint est plus uniforme.</p><p></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -258,7 +258,7 @@
         "item_9d6fta": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Image_11_3b5b6f8a-adc0-4107-a9ec-6f7023a58d35.jpg",
+            "image": "shopify://shop_images/Image_2_56161184-e660-485b-8b43-4f43d2ae749c.jpg",
             "column_size": "3",
             "title": "Julien, papa de jumelles.",
             "heading_tag": "h4",
