@@ -432,6 +432,33 @@
         "review_button_background": "#000000",
         "review_button_text_color": "#ffffff"
       }
+    },
+    "image_with_text_overlay_XiyqyW": {
+      "type": "image-with-text-overlay",
+      "blocks": {
+        "richtext_JJGaPw": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "richtext_JJGaPw"
+      ],
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": false,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/Image_9_a764076a-585d-48f4-a195-7d6fc07dc6a8.jpg",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
+      }
     }
   },
   "order": [
@@ -447,6 +474,7 @@
     "impact_text_Jim3Kk",
     "multi_column_NJwHCh",
     "featured_product_fF8Jyr",
-    "17477599406aa7e8b3"
+    "17477599406aa7e8b3",
+    "image_with_text_overlay_XiyqyW"
   ]
 }
