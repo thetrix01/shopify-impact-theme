@@ -513,6 +513,59 @@
         "heading_gradient": ""
       }
     },
+    "images_with_text_scrolling_iJt4m7": {
+      "type": "images-with-text-scrolling",
+      "blocks": {
+        "item_7LhEWk": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/49935511-curcuma-poudre-dans-une-en-bois-cuillere-gratuit-photo.jpg",
+            "icon": "none",
+            "icon_width": 48,
+            "title": "Curcuma",
+            "content": "<p><strong>Anti-taches</strong> : inhibe la production de mélanine, ce qui aide à atténuer les taches brunes et l’hyperpigmentation.<br/><strong>Anti-inflammatoire</strong> : calme les irritations, rougeurs et imperfections.<br/><strong>Antioxydant</strong> : protège la peau des radicaux libres et du vieillissement prématuré.<br/><strong>Éclat du teint</strong> : ravive les teints ternes et unifie la peau.<br/><br/><br/><br/><br/></p>"
+          }
+        },
+        "item_DAMhFQ": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/wmremove-transformed.webp",
+            "icon": "none",
+            "icon_width": 48,
+            "title": "Acide Kojique",
+            "content": "<p><strong>Éclaircissant puissant</strong> : freine la tyrosinase, enzyme responsable de la production de mélanine.<br/><strong>Réduction des taches pigmentaires</strong> : efficace contre les taches d’acné, taches de soleil, taches de vieillesse.<br/><strong>Unification du teint</strong> : adoucit et homogénéise les différences de couleur de la peau.<br/><strong>Effet doux</strong> : alternative plus naturelle aux agents dépigmentants agressifs comme l’hydroquinone.<br/><br/><br/></p>"
+          }
+        },
+        "item_br4UeK": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/42351.webp",
+            "icon": "none",
+            "icon_width": 48,
+            "title": "Vitamine C",
+            "content": "<p><strong>Antioxydant majeur</strong> : neutralise les radicaux libres.<br/><strong>Boost de collagène</strong> : améliore l’élasticité de la peau.<br/><strong>Anti-taches</strong> : freine l’oxydation de la mélanine et réduit les taches brunes.<br/><strong>Éclat instantané</strong> : rend la peau plus lumineuse et plus saine.<br/><br/><br/><br/></p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_7LhEWk",
+        "item_DAMhFQ",
+        "item_br4UeK"
+      ],
+      "name": "Images and text scrolling",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "show_counter": false,
+        "desktop_image_effect": "reveal",
+        "image_position": "end",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
+      }
+    },
     "faq_L94DEx": {
       "type": "faq",
       "blocks": {
@@ -591,59 +644,6 @@
         "background_gradient": "",
         "text_color": ""
       }
-    },
-    "images_with_text_scrolling_iJt4m7": {
-      "type": "images-with-text-scrolling",
-      "blocks": {
-        "item_7LhEWk": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/49935511-curcuma-poudre-dans-une-en-bois-cuillere-gratuit-photo.jpg",
-            "icon": "none",
-            "icon_width": 48,
-            "title": "Curcuma",
-            "content": "<p><strong>Anti-taches</strong> : inhibe la production de mélanine, ce qui aide à atténuer les taches brunes et l’hyperpigmentation.<br/><strong>Anti-inflammatoire</strong> : calme les irritations, rougeurs et imperfections.<br/><strong>Antioxydant</strong> : protège la peau des radicaux libres et du vieillissement prématuré.<br/><strong>Éclat du teint</strong> : ravive les teints ternes et unifie la peau.<br/><br/><br/><br/><br/></p>"
-          }
-        },
-        "item_DAMhFQ": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/wmremove-transformed.webp",
-            "icon": "none",
-            "icon_width": 48,
-            "title": "Acide Kojique",
-            "content": "<p><strong>Éclaircissant puissant</strong> : freine la tyrosinase, enzyme responsable de la production de mélanine.<br/><strong>Réduction des taches pigmentaires</strong> : efficace contre les taches d’acné, taches de soleil, taches de vieillesse.<br/><strong>Unification du teint</strong> : adoucit et homogénéise les différences de couleur de la peau.<br/><strong>Effet doux</strong> : alternative plus naturelle aux agents dépigmentants agressifs comme l’hydroquinone.<br/><br/><br/></p>"
-          }
-        },
-        "item_br4UeK": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/42351.webp",
-            "icon": "none",
-            "icon_width": 48,
-            "title": "Vitamine C",
-            "content": "<p><strong>Antioxydant majeur</strong> : neutralise les radicaux libres.<br/><strong>Boost de collagène</strong> : améliore l’élasticité de la peau.<br/><strong>Anti-taches</strong> : freine l’oxydation de la mélanine et réduit les taches brunes.<br/><strong>Éclat instantané</strong> : rend la peau plus lumineuse et plus saine.<br/><br/><br/><br/></p>"
-          }
-        }
-      },
-      "block_order": [
-        "item_7LhEWk",
-        "item_DAMhFQ",
-        "item_br4UeK"
-      ],
-      "name": "Images and text scrolling",
-      "settings": {
-        "full_width": true,
-        "stack_on_mobile": false,
-        "show_counter": false,
-        "desktop_image_effect": "reveal",
-        "image_position": "end",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": ""
-      }
     }
   },
   "order": [
@@ -661,8 +661,8 @@
     "featured_product_fF8Jyr",
     "17477599406aa7e8b3",
     "tabs_wAL73B",
+    "images_with_text_scrolling_iJt4m7",
     "faq_L94DEx",
-    "rich_text_DbCKP4",
-    "images_with_text_scrolling_iJt4m7"
+    "rich_text_DbCKP4"
   ]
 }
