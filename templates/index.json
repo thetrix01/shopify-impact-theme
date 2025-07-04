@@ -332,7 +332,7 @@
         "liquid_LMXcJe": {
           "type": "liquid",
           "settings": {
-            "liquid": "<!-- Bannière Livraison Offerte - Marron clair et bords arrondis -->\n<div style=\"font-family: Arial, sans-serif; max-width: 400px; margin: 16px auto; padding: 10px 16px; background-color: #d8c2aa; border-radius: 16px; text-align: center;\">\n  <p style=\"font-size: 16px; color: #5a3e2b; margin: 0;\">\n    🚚 <strong>Livraison offerte !</strong> Profitez-en !\n  </p>\n</div>"
+            "liquid": "<!-- Bannière Livraison Offerte - Texte seul et épuré -->\n<div style=\"\n  font-family: Arial, sans-serif;\n  max-width: 400px;\n  margin: 16px auto;\n  padding: 0;\n  text-align: center;\n\">\n  <p style=\"font-size: 16px; color: #5a3e2b; margin: 0;\">\n    Livraison offerte ! Profitez-en !\n  </p>\n</div>"
           }
         },
         "separator_E7d4kj": {
