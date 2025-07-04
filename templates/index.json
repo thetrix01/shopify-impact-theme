@@ -448,6 +448,71 @@
         "review_button_text_color": "#ffffff"
       }
     },
+    "tabs_wAL73B": {
+      "type": "tabs",
+      "blocks": {
+        "tab_bUdrEh": {
+          "type": "tab",
+          "settings": {
+            "title": "Mode d'utilisation",
+            "content": "<ol><li><strong>Humidifier</strong> : Mouille bien ton visage ou ton corps avec de l’eau tiède.</li><li><strong>Faire mousser</strong> : Frotte le savon entre tes mains pour créer une mousse riche.</li><li><strong>Appliquer</strong> : Masse doucement la mousse sur la peau en mouvements circulaires</li><li><strong>Laisser agir</strong> : Laisse poser 30 à 60 secondes.</li><li><strong>Rincer</strong> : Rince abondamment à l’eau tiède.</li><li><strong>Sécher</strong> : Tamponne la peau avec une serviette propre et douce.</li><li><strong>Hydrater</strong> : Applique ta crème hydratante pour optimiser les résultats.</li></ol><p><strong>Conseils :</strong></p><ul><li>À utiliser <strong>tous les jours</strong> pour de meilleurs résultats.</li><li>Évite le contact direct avec les yeux.</li><li>Garde le savon dans un endroit sec entre chaque usage pour prolonger sa durée de vie.</li></ul>",
+            "page": ""
+          }
+        },
+        "tab_Cjm4bF": {
+          "type": "tab",
+          "settings": {
+            "title": "Les Ingrédients",
+            "content": "<p><strong>Huiles végétales nourrissantes</strong> : huile de coco, huile de palme, huile de carthame.<br/><strong>Actifs hydratants/adoucissants</strong> : glycérine, lait de chèvre, miel, sorbitol<br/><strong>Agents anti‑tâches & unifiants</strong> : curcuma, acide kojique, alpha-arbutine, vitamine C<br/><strong>Extraits naturels</strong> : huile de rose musquée, citronnelle, huiles essentielles<br/><strong>Protecteurs & apaisants</strong> : vitamine E, protéines d’avoine<br/><strong>Base nettoyante</strong> : eau purifiée, hydroxyde de sodium<br/><br/><br/><br/><br/><br/></p><p><br/><br/></p><p><br/></p>",
+            "page": ""
+          }
+        },
+        "tab_hyR8CG": {
+          "type": "tab",
+          "settings": {
+            "title": "Mode d’utilisation & résultats",
+            "content": "<p>Votre savon CurcuGlow s'utilise visage et corp, les résultats seront visible à partir de 7 jours avec usage régulier.</p>",
+            "page": ""
+          }
+        },
+        "tab_WxGjiG": {
+          "type": "tab",
+          "settings": {
+            "title": "60 Jours d'essai",
+            "content": "<p>Nous avons confiance en notre produit et savons que vous l’adorerez !<br/><br/>Cela veut dire que nous vous offrons <strong>60 jours d'essai gratuit </strong>!</p><p>En cas de non satisfaction, nous vous remboursons !</p>",
+            "page": ""
+          }
+        },
+        "tab_e8aWrQ": {
+          "type": "tab",
+          "settings": {
+            "title": "Service client 7J/7",
+            "content": "<p>Notre service client est à votre écoute 7J/7.<br/></p><p>Vous pouvez nous contacter par en utilisant l'onglet \"Contact\" de notre boutique ou par email à l'adresse contact@curcuglow.fr</p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "tab_bUdrEh",
+        "tab_Cjm4bF",
+        "tab_hyR8CG",
+        "tab_WxGjiG",
+        "tab_e8aWrQ"
+      ],
+      "name": "Tabs",
+      "settings": {
+        "full_width": true,
+        "content_size": "medium",
+        "subheading": "",
+        "title": "",
+        "first_tab_open": false,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
+      }
+    },
     "image_with_text_overlay_XiyqyW": {
       "type": "image-with-text-overlay",
       "name": "Image with text overlay",
@@ -462,6 +527,59 @@
         "text_color": "#ffffff",
         "overlay_color": "#000000",
         "overlay_opacity": 0
+      }
+    },
+    "faq_L94DEx": {
+      "type": "faq",
+      "blocks": {
+        "item_tp6Hbp": {
+          "type": "item",
+          "settings": {
+            "title": "Do you ship overseas?",
+            "content": "<p>Yes, we ship all over the world. Shipping costs will apply, and will be added at checkout. We run discounts and promotions all year, so stay tuned for exclusive deals.</p>"
+          }
+        },
+        "item_iBME89": {
+          "type": "item",
+          "settings": {
+            "title": "How long will it take to get my orders?",
+            "content": "<p>It depends on where you are. Orders processed here will take 5-7 business days to arrive. Overseas deliveries can take anywhere from 7-16 days. Delivery details will be provided in your confirmation email.</p>"
+          }
+        },
+        "item_h87FTw": {
+          "type": "item",
+          "settings": {
+            "title": "Any question?",
+            "content": "<p>You can contact us through our contact page! We will be happy to assist you.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_tp6Hbp",
+        "item_iBME89",
+        "item_h87FTw"
+      ],
+      "name": "FAQ",
+      "settings": {
+        "full_width": true,
+        "subheading": "",
+        "title": "FAQ",
+        "content": "<p>Use this text to share information about your product or shipping policies.</p>",
+        "team_avatar_width": 160,
+        "support_hours": "Our customer support is available Monday to Friday: 8am-8:30pm.",
+        "answer_time": "Average answer time: 24h",
+        "button_text": "",
+        "button_url": "",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "button_background": "",
+        "button_text_color": "",
+        "accordion_background": "",
+        "accordion_text_color": ""
       }
     }
   },
@@ -479,6 +597,8 @@
     "multi_column_NJwHCh",
     "featured_product_fF8Jyr",
     "17477599406aa7e8b3",
-    "image_with_text_overlay_XiyqyW"
+    "tabs_wAL73B",
+    "image_with_text_overlay_XiyqyW",
+    "faq_L94DEx"
   ]
 }
