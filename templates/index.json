@@ -513,6 +513,32 @@
         "heading_gradient": ""
       }
     },
+    "rich_text_DbCKP4": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_Kg8hpF": {
+          "type": "heading",
+          "settings": {
+            "text": "Ingredients testé en laboratoire",
+            "heading_tag": "h1",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_Kg8hpF"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "images_with_text_scrolling_iJt4m7": {
       "type": "images-with-text-scrolling",
       "blocks": {
@@ -555,9 +581,9 @@
       "name": "Images and text scrolling",
       "settings": {
         "full_width": true,
-        "stack_on_mobile": false,
+        "stack_on_mobile": true,
         "show_counter": false,
-        "desktop_image_effect": "reveal",
+        "desktop_image_effect": "fade",
         "image_position": "end",
         "background": "",
         "background_gradient": "",
@@ -618,32 +644,6 @@
         "accordion_background": "",
         "accordion_text_color": ""
       }
-    },
-    "rich_text_DbCKP4": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_Kg8hpF": {
-          "type": "heading",
-          "settings": {
-            "text": "Ingredients testé en laboratoire",
-            "heading_tag": "h1",
-            "text_color": "",
-            "gradient": ""
-          }
-        }
-      },
-      "block_order": [
-        "heading_Kg8hpF"
-      ],
-      "name": "Rich text",
-      "settings": {
-        "full_width": true,
-        "content_width": "small",
-        "text_position": "center",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
     }
   },
   "order": [
@@ -661,8 +661,8 @@
     "featured_product_fF8Jyr",
     "17477599406aa7e8b3",
     "tabs_wAL73B",
+    "rich_text_DbCKP4",
     "images_with_text_scrolling_iJt4m7",
-    "faq_L94DEx",
-    "rich_text_DbCKP4"
+    "faq_L94DEx"
   ]
 }
