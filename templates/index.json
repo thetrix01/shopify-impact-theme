@@ -307,10 +307,6 @@
     "featured_product_fF8Jyr": {
       "type": "featured-product",
       "blocks": {
-        "vendor_NpTTgF": {
-          "type": "vendor",
-          "settings": {}
-        },
         "title_xexw7d": {
           "type": "title",
           "settings": {
@@ -346,7 +342,7 @@
         "liquid_L4nQ8Q": {
           "type": "liquid",
           "settings": {
-            "liquid": "<!-- Bloc Offre Premium - Marron clair plus arrondi -->\n<div id=\"baby-alert\" style=\"\n  font-family: Arial, sans-serif;\n  max-width: 340px;\n  margin: 12px auto;\n  padding: 10px 16px;\n  background-color: #d8c2aa;\n  border: 1px solid #b89c82;\n  border-radius: 24px;\n  text-align: center;\n  box-shadow: 0 2px 6px rgba(0,0,0,0.05);\n\">\n  <h2 style=\"\n    color: #5a3e2b;\n    font-size: 17px;\n    margin: 0 0 6px;\n    font-weight: normal;\n  \">Offre Été Exclusive</h2>\n\n  <p style=\"\n    color: #5a3e2b;\n    font-size: 14px;\n    margin: 4px 0;\n  \">\n    Temps restant : <span id=\"countdown\" style=\"font-weight: bold;\">17:34</span>\n  </p>\n\n  <p id=\"stock-text\" style=\"\n    color: #5a3e2b;\n    font-size: 14px;\n    font-weight: bold;\n    margin: 4px 0;\n  \">\n    Stock limité : 4 pièces\n  </p>\n</div>\n\n<style>\n  @keyframes blink {\n    0%, 100% { opacity: 1; }\n    50% { opacity: 0.7; }\n  }\n\n  #stock-text {\n    animation: blink 1s infinite;\n  }\n</style>\n\n<script>\n  let countdownTime = 17 * 60 + 34;\n  const countdownElement = document.getElementById(\"countdown\");\n\n  function updateCountdown() {\n    const minutes = Math.floor(countdownTime / 60);\n    const seconds = countdownTime % 60;\n    countdownElement.textContent = `${minutes}:${seconds.toString().padStart(2, '0')}`;\n    if (countdownTime > 0) countdownTime--;\n  }\n\n  setInterval(updateCountdown, 1000);\n  updateCountdown();\n</script>"
+            "liquid": "<!-- Bloc Offre Premium - Contour marron #724304 sans fond -->\n<div id=\"baby-alert\" style=\"\n  font-family: Arial, sans-serif;\n  max-width: 340px;\n  margin: 12px auto;\n  padding: 10px 16px;\n  background-color: transparent;\n  border: 1.5px solid #724304;\n  border-radius: 24px;\n  text-align: center;\n  box-shadow: none;\n\">\n  <h2 style=\"\n    color: #724304;\n    font-size: 17px;\n    margin: 0 0 6px;\n    font-weight: normal;\n  \">Offre Été Exclusive</h2>\n\n  <p style=\"\n    color: #724304;\n    font-size: 14px;\n    margin: 4px 0;\n  \">\n    Temps restant : <span id=\"countdown\" style=\"font-weight: bold;\">17:34</span>\n  </p>\n\n  <p id=\"stock-text\" style=\"\n    color: #724304;\n    font-size: 14px;\n    font-weight: bold;\n    margin: 4px 0;\n  \">\n    Stock limité : 4 pièces\n  </p>\n</div>\n\n<style>\n  @keyframes blink {\n    0%, 100% { opacity: 1; }\n    50% { opacity: 0.7; }\n  }\n\n  #stock-text {\n    animation: blink 1s infinite;\n  }\n</style>\n\n<script>\n  let countdownTime = 17 * 60 + 34;\n  const countdownElement = document.getElementById(\"countdown\");\n\n  function updateCountdown() {\n    const minutes = Math.floor(countdownTime / 60);\n    const seconds = countdownTime % 60;\n    countdownElement.textContent = `${minutes}:${seconds.toString().padStart(2, '0')}`;\n    if (countdownTime > 0) countdownTime--;\n  }\n\n  setInterval(updateCountdown, 1000);\n  updateCountdown();\n</script>"
           }
         },
         "pumper_bundles_quantity_breaks_app_block_qb_8jQhWL": {
@@ -389,7 +385,6 @@
         }
       },
       "block_order": [
-        "vendor_NpTTgF",
         "title_xexw7d",
         "badges_GLnamh",
         "judge_me_reviews_preview_badge_homepage_cWWj6V",
