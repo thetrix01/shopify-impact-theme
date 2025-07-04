@@ -149,6 +149,22 @@
         "overlay_opacity": 0
       }
     },
+    "image_with_text_overlay_wqU4Ah": {
+      "type": "image-with-text-overlay",
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/Jour_1_1.png",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
     "image_with_text_overlay_8CExTd": {
       "type": "image-with-text-overlay",
       "name": "Image with text overlay",
@@ -430,6 +446,7 @@
     "logo_list_WDizdB",
     "impact_text_bEGmqa",
     "image_with_text_overlay_rgtGhd",
+    "image_with_text_overlay_wqU4Ah",
     "image_with_text_overlay_8CExTd",
     "1747759876fb60a3ac",
     "impact_text_Jim3Kk",
