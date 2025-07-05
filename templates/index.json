@@ -427,7 +427,7 @@
         "max_image_zoom_level": 3,
         "background": "",
         "background_gradient": "",
-        "text_color": "",
+        "text_color": "#724304",
         "input_background": "rgba(0,0,0,0)",
         "input_text_color": ""
       }
