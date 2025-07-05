@@ -451,14 +451,6 @@
     "tabs_wAL73B": {
       "type": "tabs",
       "blocks": {
-        "tab_bUdrEh": {
-          "type": "tab",
-          "settings": {
-            "title": "Ingrédients",
-            "content": "<ol><li><strong>Humidifier</strong> : Mouille bien ton visage ou ton corps avec de l’eau tiède.</li><li><strong>Faire mousser</strong> : Frotte le savon entre tes mains pour créer une mousse riche.</li><li><strong>Appliquer</strong> : Masse doucement la mousse sur la peau en mouvements circulaires</li><li><strong>Laisser agir</strong> : Laisse poser 30 à 60 secondes.</li><li><strong>Rincer</strong> : Rince abondamment à l’eau tiède.</li><li><strong>Sécher</strong> : Tamponne la peau avec une serviette propre et douce.</li><li><strong>Hydrater</strong> : Applique ta crème hydratante pour optimiser les résultats.</li></ol><p><strong>Conseils :</strong></p><ul><li>À utiliser <strong>tous les jours</strong> pour de meilleurs résultats.</li><li>Évite le contact direct avec les yeux.</li><li>Garde le savon dans un endroit sec entre chaque usage pour prolonger sa durée de vie.</li></ul>",
-            "page": ""
-          }
-        },
         "tab_Cjm4bF": {
           "type": "tab",
           "settings": {
@@ -493,7 +485,6 @@
         }
       },
       "block_order": [
-        "tab_bUdrEh",
         "tab_Cjm4bF",
         "tab_hyR8CG",
         "tab_WxGjiG",
