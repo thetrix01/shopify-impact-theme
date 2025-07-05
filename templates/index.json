@@ -731,12 +731,12 @@
         "contact_form_size": "large",
         "background": "",
         "background_gradient": "",
-        "text_color": "",
+        "text_color": "#724304",
         "heading_color": "",
         "heading_gradient": "",
         "contact_background": "",
         "contact_text_color": "",
-        "button_background": "",
+        "button_background": "#724304",
         "button_text_color": ""
       }
     }
