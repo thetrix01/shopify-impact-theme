@@ -636,12 +636,34 @@
             "title": "Vitamine C",
             "content": "<p><strong>Antioxydant majeur</strong> : neutralise les radicaux libres.<br/><strong>Boost de collagène</strong> : améliore l’élasticité de la peau.<br/><strong>Anti-taches</strong> : freine l’oxydation de la mélanine et réduit les taches brunes.<br/><strong>Éclat instantané</strong> : rend la peau plus lumineuse et plus saine.<br/><br/><br/><br/></p>"
           }
+        },
+        "item_X4wyiC": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/wmremove-transformed.jpg",
+            "icon": "none",
+            "icon_width": 48,
+            "title": "Alpha Arbutine",
+            "content": "<p>Aide à reduire les taches brunes, à freiner la production de mélanine et à unifier le teint sans irriter la peau. Parfait pour les peaux sensibles sujettes à l'hyperpigmentation.</p>"
+          }
+        },
+        "item_3GeKBL": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/5701CITRON_FEUILLES_NON_TRAITES.webp",
+            "icon": "none",
+            "icon_width": 48,
+            "title": "Citron",
+            "content": "<p>Naturellement riche en Vitamine C et en acides de fruits, le citron aide à éclaircir le teint, réduire les taches et resserrer les pores. Il purifiela peau en douceur et lui apporte un effet frais et lumineux.</p>"
+          }
         }
       },
       "block_order": [
         "item_7LhEWk",
         "item_DAMhFQ",
-        "item_br4UeK"
+        "item_br4UeK",
+        "item_X4wyiC",
+        "item_3GeKBL"
       ],
       "name": "Images and text scrolling",
       "settings": {
