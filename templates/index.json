@@ -454,7 +454,7 @@
         "tab_bUdrEh": {
           "type": "tab",
           "settings": {
-            "title": "Mode d'utilisation",
+            "title": "Ingrédients",
             "content": "<ol><li><strong>Humidifier</strong> : Mouille bien ton visage ou ton corps avec de l’eau tiède.</li><li><strong>Faire mousser</strong> : Frotte le savon entre tes mains pour créer une mousse riche.</li><li><strong>Appliquer</strong> : Masse doucement la mousse sur la peau en mouvements circulaires</li><li><strong>Laisser agir</strong> : Laisse poser 30 à 60 secondes.</li><li><strong>Rincer</strong> : Rince abondamment à l’eau tiède.</li><li><strong>Sécher</strong> : Tamponne la peau avec une serviette propre et douce.</li><li><strong>Hydrater</strong> : Applique ta crème hydratante pour optimiser les résultats.</li></ol><p><strong>Conseils :</strong></p><ul><li>À utiliser <strong>tous les jours</strong> pour de meilleurs résultats.</li><li>Évite le contact direct avec les yeux.</li><li>Garde le savon dans un endroit sec entre chaque usage pour prolonger sa durée de vie.</li></ul>",
             "page": ""
           }
@@ -598,29 +598,69 @@
         "item_tp6Hbp": {
           "type": "item",
           "settings": {
-            "title": "Do you ship overseas?",
-            "content": "<p>Yes, we ship all over the world. Shipping costs will apply, and will be added at checkout. We run discounts and promotions all year, so stay tuned for exclusive deals.</p>"
+            "title": "À quoi sert le savon au curcuma ?",
+            "content": "<p>Notre savon Spalle Crucuglow nettoie en douceur tout en bénéficiant des propriétés reconnues du curcuma : il aide à unifier le teint, réduire l’apparence des taches et apaiser les peaux sujettes aux imperfections.</p>"
           }
         },
         "item_iBME89": {
           "type": "item",
           "settings": {
-            "title": "How long will it take to get my orders?",
-            "content": "<p>It depends on where you are. Orders processed here will take 5-7 business days to arrive. Overseas deliveries can take anywhere from 7-16 days. Delivery details will be provided in your confirmation email.</p>"
+            "title": "Convient-il à tous les types de peau ?",
+            "content": "<p>Oui ! Il est formulé pour convenir à tous les types de peau, y compris les peaux sensibles. Toutefois, comme pour tout soin naturel, un test préalable sur une petite zone est recommandé.</p>"
           }
         },
         "item_h87FTw": {
           "type": "item",
           "settings": {
-            "title": "Any question?",
-            "content": "<p>You can contact us through our contact page! We will be happy to assist you.</p>"
+            "title": "Peut-il être utilisé sur le visage et le corps ?",
+            "content": "<p>Absolument. Sa formule douce est adaptée aussi bien au visage qu’au corps.</p>"
+          }
+        },
+        "item_Pq3RQE": {
+          "type": "item",
+          "settings": {
+            "title": "Est-il naturel ou bio ?",
+            "content": "<p>Notre savon est fabriqué avec des ingrédients d’origine naturelle, incluant un extrait de curcuma pur et des huiles végétales soigneusement sélectionnées.</p>"
+          }
+        },
+        "item_AWHLTd": {
+          "type": "item",
+          "settings": {
+            "title": "Fait-il jaunir la peau ?",
+            "content": "<p>Non ! Il contient la juste dose de curcuma pour ses bienfaits sans colorer la peau. Il laisse simplement le teint lumineux et éclatant.</p>"
+          }
+        },
+        "item_MmmtqT": {
+          "type": "item",
+          "settings": {
+            "title": "Comment l’utiliser pour de meilleurs résultats ?",
+            "content": "<p></p><ul><li>Mouillez la peau</li><li>Faites mousser le savon</li><li>Massez délicatement</li><li>Rincez abondammentPour le visage, utilisez 1 à 2 fois par jour.</li></ul><p></p>"
+          }
+        },
+        "item_8Y9x6e": {
+          "type": "item",
+          "settings": {
+            "title": "Le savon est-il fait main ?",
+            "content": "<p>Oui ! Chaque savon Spalle Crucuglow est soigneusement fabriqué de façon artisanale pour garantir qualité et efficacité.</p>"
+          }
+        },
+        "item_fnLxh6": {
+          "type": "item",
+          "settings": {
+            "title": "Est-ce testé sur les animaux ?",
+            "content": "<p>Jamais. Nous sommes fiers de proposer un produit cruelty-free.</p>"
           }
         }
       },
       "block_order": [
         "item_tp6Hbp",
         "item_iBME89",
-        "item_h87FTw"
+        "item_h87FTw",
+        "item_Pq3RQE",
+        "item_AWHLTd",
+        "item_MmmtqT",
+        "item_8Y9x6e",
+        "item_fnLxh6"
       ],
       "name": "FAQ",
       "settings": {
