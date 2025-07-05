@@ -448,20 +448,78 @@
         "review_button_text_color": "#ffffff"
       }
     },
-    "image_with_text_overlay_AFxBwT": {
-      "type": "image-with-text-overlay",
-      "name": "Image with text overlay",
+    "accordion_content_Q434iE": {
+      "type": "accordion-content",
+      "blocks": {
+        "item_XRhTcc": {
+          "type": "item",
+          "settings": {
+            "title": "Estompe Les Taches Sombres",
+            "content": "<p>Grâce à l'acide<strong>kojique</strong>et à la<strong>curcumine</strong>, il contribue à réduire la production excessive de mélanine.<br/><br/></p>"
+          }
+        },
+        "item_qRe9cg": {
+          "type": "item",
+          "settings": {
+            "title": "Traite l'Hyperpigmentation",
+            "content": "<p>Notre savon a été formulé pour<strong>cibler efficacement les taches pigmentaires</strong>(visage, aisselles, entre-jambes, genoux, dos…).<br/>Grâce à l’action combinée du<strong>curcuma</strong>, connu pour ses propriétés anti-inflammatoires, et de<strong>l ’acide kojique</strong>, reconnu pour son effet éclaircissant naturel.</p>"
+          }
+        },
+        "item_TGj8Yr": {
+          "type": "item",
+          "settings": {
+            "title": "Unifie le teint",
+            "content": "<p>Les actifs naturels agissent<strong>sur les taches</strong>pour une peau visiblement plus uniforme.</p>"
+          }
+        },
+        "item_GYCXHU": {
+          "type": "item",
+          "settings": {
+            "title": "Nettoie en profondeur sans agresser",
+            "content": "<p>La formule douce élimine les impuretés tout en respectant la barrière cutanée.</p>"
+          }
+        },
+        "item_NJtjmh": {
+          "type": "item",
+          "settings": {
+            "title": "Réduit les boutons et les imperfections",
+            "content": "<p>Ses propriétés<strong>anti-inflammatoires</strong>et<strong>antibactériennes</strong>apaisent la peau et préviennent les impuretés.</p>"
+          }
+        },
+        "item_B6c9dM": {
+          "type": "item",
+          "settings": {
+            "title": "llumine et ravive la peau",
+            "content": "<p>Stimule le renouvellement cellulaire et apporte un éclat naturel et sain.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_XRhTcc",
+        "item_qRe9cg",
+        "item_TGj8Yr",
+        "item_GYCXHU",
+        "item_NJtjmh",
+        "item_B6c9dM"
+      ],
+      "name": "Accordion content",
       "settings": {
-        "full_width": false,
-        "allow_transparent_header": false,
-        "enable_parallax": false,
-        "image_size": "auto",
-        "image": "shopify://shop_images/Image_9_fa7c4373-9a43-4778-bb82-af6b6c451e70.jpg",
-        "mobile_text_position": "place-self-center text-center",
-        "desktop_text_position": "sm:place-self-center sm:text-center",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 0
+        "full_width": true,
+        "subheading": "",
+        "title": "Pourquoi choisir notre savon ?",
+        "content": "<p><em>Les Bienfaits de notre savon au curcuma :</em></p>",
+        "button_text": "",
+        "button_url": "",
+        "text_position": "start",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "button_background": "",
+        "button_text_color": "",
+        "accordion_background": "",
+        "accordion_text_color": ""
       }
     },
     "tabs_wAL73B": {
@@ -755,7 +813,7 @@
     "multi_column_NJwHCh",
     "featured_product_fF8Jyr",
     "17477599406aa7e8b3",
-    "image_with_text_overlay_AFxBwT",
+    "accordion_content_Q434iE",
     "tabs_wAL73B",
     "rich_text_DbCKP4",
     "images_with_text_scrolling_iJt4m7",
