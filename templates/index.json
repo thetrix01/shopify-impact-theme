@@ -330,7 +330,7 @@
         "judge_me_reviews_preview_badge_homepage_cWWj6V": {
           "type": "shopify://apps/judge-me-reviews/blocks/preview_badge_homepage/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
           "settings": {
-            "product": "1pcs-childrens-anti-fall-pillow-baby-toddler-head-pillow-breathable-pillow-learning-to-walk-head-protection-pad-head-protection"
+            "product": "100g-turmeric-hand-made-soap-lemon-kojic-acid-soap-shower-and-facial-soap-body-care-1-3-5pcs"
           }
         },
         "price_3zz63f": {
@@ -684,6 +684,33 @@
         "accordion_background": "",
         "accordion_text_color": ""
       }
+    },
+    "175170627905315381": {
+      "type": "apps",
+      "blocks": {
+        "judge_me_reviews_review_widget_homepage_YUn8zj": {
+          "type": "shopify://apps/judge-me-reviews/blocks/review_widget_homepage/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {
+            "product": "100g-turmeric-hand-made-soap-lemon-kojic-acid-soap-shower-and-facial-soap-body-care-1-3-5pcs"
+          }
+        }
+      },
+      "block_order": [
+        "judge_me_reviews_review_widget_homepage_YUn8zj"
+      ],
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "enable_review_integration": true,
+        "review_header_gradient": "linear-gradient(135deg, rgba(255, 194, 102, 1), rgba(255, 163, 26, 1) 100%)",
+        "review_header_text_color": "#000000",
+        "review_button_background": "#000000",
+        "review_button_text_color": "#ffffff"
+      }
     }
   },
   "order": [
@@ -703,6 +730,7 @@
     "tabs_wAL73B",
     "rich_text_DbCKP4",
     "images_with_text_scrolling_iJt4m7",
-    "faq_L94DEx"
+    "faq_L94DEx",
+    "175170627905315381"
   ]
 }
