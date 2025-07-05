@@ -718,6 +718,27 @@
         "review_button_background": "#000000",
         "review_button_text_color": "#ffffff"
       }
+    },
+    "contact_aaCBpt": {
+      "type": "contact",
+      "name": "Contact form",
+      "settings": {
+        "full_width": true,
+        "subheading": "",
+        "title": "Nous contacter",
+        "content": "",
+        "text_position": "start",
+        "contact_form_size": "large",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "contact_background": "",
+        "contact_text_color": "",
+        "button_background": "",
+        "button_text_color": ""
+      }
     }
   },
   "order": [
@@ -739,6 +760,7 @@
     "rich_text_DbCKP4",
     "images_with_text_scrolling_iJt4m7",
     "faq_L94DEx",
-    "175170627905315381"
+    "175170627905315381",
+    "contact_aaCBpt"
   ]
 }
