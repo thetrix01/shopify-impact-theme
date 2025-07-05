@@ -191,22 +191,6 @@
         "overlay_opacity": 0
       }
     },
-    "image_with_text_overlay_AWjYqw": {
-      "type": "image-with-text-overlay",
-      "name": "Image with text overlay",
-      "settings": {
-        "full_width": false,
-        "allow_transparent_header": false,
-        "enable_parallax": false,
-        "image_size": "auto",
-        "image": "shopify://shop_images/Image_9_fa7c4373-9a43-4778-bb82-af6b6c451e70.jpg",
-        "mobile_text_position": "place-self-center text-center",
-        "desktop_text_position": "sm:place-self-center sm:text-center",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 0
-      }
-    },
     "1747759876fb60a3ac": {
       "type": "apps",
       "blocks": {
@@ -695,6 +679,22 @@
         "heading_gradient": ""
       }
     },
+    "image_with_text_overlay_AWjYqw": {
+      "type": "image-with-text-overlay",
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": false,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/Image_9_fa7c4373-9a43-4778-bb82-af6b6c451e70.jpg",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
     "faq_L94DEx": {
       "type": "faq",
       "blocks": {
@@ -722,7 +722,7 @@
         "item_Pq3RQE": {
           "type": "item",
           "settings": {
-            "title": "Est-il naturel ou bio ?",
+            "title": "Est-il naturel ?",
             "content": "<p>Notre savon est fabriqué avec des ingrédients d’origine naturelle, incluant un extrait de curcuma pur et des huiles végétales soigneusement sélectionnées.</p>"
           }
         },
