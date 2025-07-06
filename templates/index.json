@@ -159,6 +159,42 @@
         "overlay_opacity": 0
       }
     },
+    "impact_text_RVNU9G": {
+      "type": "impact-text",
+      "blocks": {
+        "item_rAiDJr": {
+          "type": "item",
+          "settings": {
+            "title": "AVANT/APRÈS",
+            "subheading": "",
+            "content": "",
+            "button_text": "",
+            "button_url": "",
+            "animate_impact_text": false,
+            "animate_impact_text_duration": 2
+          }
+        }
+      },
+      "block_order": [
+        "item_rAiDJr"
+      ],
+      "name": "Impact text",
+      "settings": {
+        "full_width": true,
+        "stack_mobile": true,
+        "text_alignment": "center",
+        "impact_text_style": "fill",
+        "text_divider": "none",
+        "impact_text_size_ratio": 0.6,
+        "background": "",
+        "background_gradient": "",
+        "heading_text_color": "",
+        "heading_gradient": "",
+        "text_color": "#8dcbbf",
+        "button_background": "",
+        "button_text_color": ""
+      }
+    },
     "image_with_text_overlay_wqU4Ah": {
       "type": "image-with-text-overlay",
       "name": "Image with text overlay",
@@ -895,6 +931,7 @@
     "logo_list_WDizdB",
     "impact_text_bEGmqa",
     "image_with_text_overlay_rgtGhd",
+    "impact_text_RVNU9G",
     "image_with_text_overlay_wqU4Ah",
     "image_with_text_overlay_8CExTd",
     "1747759876fb60a3ac",
