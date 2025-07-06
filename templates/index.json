@@ -147,11 +147,11 @@
       "type": "image-with-text-overlay",
       "name": "Image with text overlay",
       "settings": {
-        "full_width": false,
+        "full_width": true,
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/Untitled_design_11.webp",
+        "image": "shopify://shop_images/Camouflez._Sublimez._Rayonnez._1.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
