@@ -519,7 +519,7 @@
         "first_tab_open": false,
         "background": "",
         "background_gradient": "",
-        "text_color": "#724304",
+        "text_color": "#8dcbbf",
         "heading_color": "",
         "heading_gradient": ""
       }
@@ -607,7 +607,7 @@
           "settings": {
             "text": "Ingredients testé en laboratoire",
             "heading_tag": "h1",
-            "text_color": "#724304",
+            "text_color": "#000000",
             "gradient": ""
           }
         }
