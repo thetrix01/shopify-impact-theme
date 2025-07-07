@@ -362,7 +362,7 @@
         "liquid_LMXcJe": {
           "type": "liquid",
           "settings": {
-            "liquid": "<!-- Bannière Livraison Offerte - Texte seul et épuré -->\n<div style=\"\n  font-family: Arial, sans-serif;\n  max-width: 400px;\n  margin: 16px auto;\n  padding: 0;\n  text-align: center;\n\">\n  <p style=\"font-size: 16px; color: #5a3e2b; margin: 0;\">\n    Livraison offerte ! Profitez-en !\n  </p>\n</div>"
+            "liquid": "<!-- Bannière Livraison Offerte - Texte épuré et incitatif -->\n<div style=\"\n  font-family: Arial, sans-serif;\n  max-width: 400px;\n  margin: 16px auto;\n  padding: 0;\n  text-align: center;\n\">\n  <p style=\"font-size: 16px; color: #000000; margin: 0;\">\n    Livraison offerte – Ne ratez pas l’occasion de sublimer votre teint !\n  </p>\n</div>"
           }
         },
         "separator_E7d4kj": {
