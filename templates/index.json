@@ -375,8 +375,8 @@
             "liquid": "<!-- Bloc Offre Beauté Premium - Style élégant, police Georgia, message vendeur -->\n<div id=\"baby-alert\" style=\"\n  font-family: Georgia, serif;\n  max-width: 340px;\n  margin: 12px auto;\n  padding: 12px 18px;\n  background-color: transparent;\n  border: 1.5px solid #724304;\n  border-radius: 24px;\n  text-align: center;\n  box-shadow: none;\n\">\n  <h2 style=\"\n    color: #000000;\n    font-size: 18px;\n    margin: 0 0 8px;\n    font-weight: normal;\n    letter-spacing: 0.5px;\n  \">✨ Offre Beauté Exclusive ✨</h2>\n\n  <p style=\"\n    color: #000000;\n    font-size: 14px;\n    margin: 4px 0;\n    font-style: italic;\n  \">\n    Temps restant : <span id=\"countdown\" style=\"font-weight: bold;\">17:34</span>\n  </p>\n\n  <p id=\"stock-text\" style=\"\n    color: #000000;\n    font-size: 14px;\n    font-weight: bold;\n    margin: 4px 0;\n    display: flex;\n    justify-content: center;\n    align-items: center;\n    gap: 6px;\n  \">\n    <span class=\"red-dot\"></span>\n    Stock limité !\n  </p>\n\n  <p style=\"\n    color: #000000;\n    font-size: 14px;\n    margin: 8px 0 0;\n    line-height: 1.4;\n  \">\n    Sublimez votre teint avec notre crème à étaler, conçue pour révéler une peau parfaite. Profitez de cette offre avant qu’il ne soit trop tard !\n  </p>\n</div>\n\n<style>\n  @keyframes blink {\n    0%, 100% { opacity: 1; }\n    50% { opacity: 0.7; }\n  }\n\n  #stock-text {\n    animation: blink 1s infinite;\n  }\n\n  .red-dot {\n    width: 8px;\n    height: 8px;\n    background-color: red;\n    border-radius: 50%;\n    animation: red-blink 1s infinite;\n  }\n\n  @keyframes red-blink {\n    0%, 100% { opacity: 1; }\n    50% { opacity: 0.3; }\n  }\n</style>\n\n<script>\n  let countdownTime = 17 * 60 + 34;\n  const countdownElement = document.getElementById(\"countdown\");\n\n  function updateCountdown() {\n    const minutes = Math.floor(countdownTime / 60);\n    const seconds = countdownTime % 60;\n    countdownElement.textContent = `${minutes}:${seconds.toString().padStart(2, '0')}`;\n    if (countdownTime > 0) countdownTime--;\n  }\n\n  setInterval(updateCountdown, 1000);\n  updateCountdown();\n</script>"
           }
         },
-        "pumper_bundles_quantity_breaks_app_block_bundle_rB6N9U": {
-          "type": "shopify://apps/pumper-bundles-quantity-breaks/blocks/app-block-bundle/0856870d-2aca-4b1e-a662-cf1797f61270",
+        "pumper_bundles_quantity_breaks_app_block_qb_RHrcYJ": {
+          "type": "shopify://apps/pumper-bundles-quantity-breaks/blocks/app-block-qb/0856870d-2aca-4b1e-a662-cf1797f61270",
           "settings": {
             "selected_product": "{{section.settings.product}}",
             "using_page_builder": false
@@ -426,7 +426,7 @@
         "liquid_LMXcJe",
         "separator_E7d4kj",
         "liquid_L4nQ8Q",
-        "pumper_bundles_quantity_breaks_app_block_bundle_rB6N9U",
+        "pumper_bundles_quantity_breaks_app_block_qb_RHrcYJ",
         "quantity_selector_piaaMk",
         "buy_buttons_tWRKkq",
         "pickup_availability_gDibVj",
