@@ -793,57 +793,57 @@
         "item_tp6Hbp": {
           "type": "item",
           "settings": {
-            "title": "À quoi sert le savon au curcuma ?",
-            "content": "<p>Notre savon Spalle Crucuglow nettoie en douceur tout en bénéficiant des propriétés reconnues du curcuma : il aide à unifier le teint, réduire l’apparence des taches et apaiser les peaux sujettes aux imperfections.</p>"
+            "title": "À qui s’adresse ce fond de teint ?",
+            "content": "<p>Ce produit convient à <strong>tous les types de peau</strong>, y compris les peaux mixtes, sèches ou matures. Il est idéal pour celles et ceux qui souhaitent <strong>camoufler les imperfections tout en prenant soin de leur peau</strong>.<br/></p>"
           }
         },
         "item_iBME89": {
           "type": "item",
           "settings": {
-            "title": "Convient-il à tous les types de peau ?",
-            "content": "<p>Oui ! Il est formulé pour convenir à tous les types de peau, y compris les peaux sensibles. Toutefois, comme pour tout soin naturel, un test préalable sur une petite zone est recommandé.</p>"
+            "title": "Ce fond de teint hydrate-t-il la peau ?",
+            "content": "<p>Oui ! Grâce à des ingrédients comme la <strong>glycérine</strong> et l’<strong>acide hyaluronique</strong>, il offre une <strong>hydratation intense</strong> tout au long de la journée, laissant la peau douce et repulpée.<br/><br/></p>"
           }
         },
         "item_h87FTw": {
           "type": "item",
           "settings": {
-            "title": "Peut-il être utilisé sur le visage et le corps ?",
-            "content": "<p>Absolument. Sa formule douce est adaptée aussi bien au visage qu’au corps.</p>"
+            "title": "Couvre-t-il bien les imperfections ?",
+            "content": "<p>Absolument. Sa formule à <strong>couvrance modulable</strong> permet de <strong>masquer les cernes, taches, rougeurs et petites imperfections</strong>, tout en gardant un rendu naturel.<br/><br/></p>"
           }
         },
         "item_Pq3RQE": {
           "type": "item",
           "settings": {
-            "title": "Est-il naturel ?",
-            "content": "<p>Notre savon est fabriqué avec des ingrédients d’origine naturelle, incluant un extrait de curcuma pur et des huiles végétales soigneusement sélectionnées.</p>"
+            "title": "Le fond de teint Novaé tient-il toute la journée ?",
+            "content": "<p>Oui, il offre une <strong>longue tenue</strong>, même en conditions humides ou chaudes. Il résiste bien à la transpiration et au sébum pour un <strong>teint frais et lumineux jusqu’au soir</strong>.<br/></p>"
           }
         },
         "item_AWHLTd": {
           "type": "item",
           "settings": {
-            "title": "Fait-il jaunir la peau ?",
-            "content": "<p>Non ! Il contient la juste dose de curcuma pour ses bienfaits sans colorer la peau. Il laisse simplement le teint lumineux et éclatant.</p>"
+            "title": "A-t-il des effets bénéfiques sur la peau ?",
+            "content": "<p>Oui ! En plus du maquillage, il agit comme un <strong>soin cosmétique</strong> :</p><p>-Lutte contre les signes de l’âge (vitamine E, acide hyaluronique)</p><p>-Unifie et illumine le teint (niacinamide)</p><p>-Protège la peau (antioxydants)<br/></p>"
           }
         },
         "item_MmmtqT": {
           "type": "item",
           "settings": {
-            "title": "Comment l’utiliser pour de meilleurs résultats ?",
-            "content": "<p></p><ul><li>Mouillez la peau</li><li>Faites mousser le savon</li><li>Massez délicatement</li><li>Rincez abondammentPour le visage, utilisez 1 à 2 fois par jour.</li></ul><p></p>"
+            "title": "Le produit est-il facile à appliquer ?",
+            "content": "<p>Très facile ! Sa texture fluide et légère s’applique <strong>au doigt, à l’éponge ou au pinceau</strong>. Il se fond instantanément à la peau sans effet masque.</p>"
           }
         },
         "item_8Y9x6e": {
           "type": "item",
           "settings": {
-            "title": "Le savon est-il fait main ?",
-            "content": "<p>Oui ! Chaque savon Spalle Crucuglow est soigneusement fabriqué de façon artisanale pour garantir qualité et efficacité.</p>"
+            "title": "Peut-il remplacer une base de maquillage ?",
+            "content": "<p>Oui ! Sa formule 2-en-1 fait <strong>à la fois base lissante et fond de teint</strong>, ce qui simplifie la routine maquillage.</p>"
           }
         },
         "item_fnLxh6": {
           "type": "item",
           "settings": {
-            "title": "Est-ce testé sur les animaux ?",
-            "content": "<p>Jamais. Nous sommes fiers de proposer un produit cruelty-free.</p>"
+            "title": "Ce fond de teint obstrue-t-il les pores ?",
+            "content": "<p>Non. Sa formule légère est conçue pour <strong>laisser respirer la peau</strong>, tout en assurant une belle couvrance sans effet comédogène.</p>"
           }
         }
       },
