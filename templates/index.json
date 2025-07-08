@@ -579,7 +579,7 @@
         "item_DAMhFQ": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/INGREDIENT_5HA_HYALU-FILLER_RVB_600X400_1_25e266b4-9e2d-4c34-b5b9-4a4911169d89.webp",
+            "image": "shopify://shop_images/image_3_4.webp",
             "icon": "none",
             "icon_width": 48,
             "title": "Acide hyaluronique",
@@ -599,9 +599,9 @@
         "item_X4wyiC": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/niacinamide.png",
+            "image": "shopify://shop_images/istockphoto-1693733872-612x612.jpg",
             "icon": "none",
-            "icon_width": 48,
+            "icon_width": 44,
             "title": "Niacinamide",
             "content": "<p><em><strong>Anti-taches & anti-inflammatoire</strong></em><strong> </strong>: atténue les taches brunes, réduit les rougeurs et resserre les pores.<br/><br/></p>"
           }
