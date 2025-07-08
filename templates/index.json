@@ -412,7 +412,7 @@
         "image_jJGiGj": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Untitled_design_25.png",
+            "image": "shopify://shop_images/Untitled_design_16.png",
             "alignment": "center",
             "max_width": 500
           }
@@ -475,7 +475,7 @@
           "type": "tab",
           "settings": {
             "title": "Les Ingrédients",
-            "content": "<p><strong>Huiles végétales nourrissantes</strong> : huile de coco, huile de palme, huile de carthame.<br/><strong>Actifs hydratants/adoucissants</strong> : glycérine, lait de chèvre, miel, sorbitol<br/><strong>Agents anti‑tâches & unifiants</strong> : curcuma, acide kojique, alpha-arbutine, vitamine C<br/><strong>Extraits naturels</strong> : huile de rose musquée, citronnelle, huiles essentielles<br/><strong>Protecteurs & apaisants</strong> : vitamine E, protéines d’avoine<br/><strong>Base nettoyante</strong> : eau purifiée, hydroxyde de sodium<br/><br/><br/><br/><br/><br/></p><p><br/><br/></p><p><br/></p>",
+            "content": "<p><strong>Ingrédient<br/>Eau </strong>Base du produit, donne une texture fluide<br/><strong>Glycérine </strong>Hydrate la peau en profondeur<br/><strong>Dioxyde de titane </strong>Pigment couvrant + protection solaire naturelle<br/><strong>Oxydes de fer (CI 77491/92/99) </strong>Colorent et s’adaptent au teint<br/><strong>Acide hyaluronique </strong>Repulpe la peau, lisse les rides<br/><strong>Vitamine E </strong>Antioxydant, protège la peau<br/><strong>Huile d'arbre à thé </strong>Antibactérien naturel, bon pour l’acné<br/><strong>Huile de menthe poivrée </strong>Effet frais, parfumant<br/><strong>Sodium Lauryl Sulfate (SLS) </strong>Nettoyant/émulsifiant (peut être irritant)<br/><strong>Parfums naturels (citral, etc.) </strong>Donnent une bonne odeur<br/><br/><br/><br/><br/><br/><br/></p><p><br/><br/></p><p><br/></p>",
             "page": ""
           }
         },
