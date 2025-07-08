@@ -631,51 +631,51 @@
         "item_7LhEWk": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/49935511-curcuma-poudre-dans-une-en-bois-cuillere-gratuit-photo.jpg",
+            "image": "shopify://shop_images/glycerines-cosmetiques.jpg",
             "icon": "none",
             "icon_width": 48,
-            "title": "Curcuma",
-            "content": "<p><strong>Anti-taches</strong> : inhibe la production de mélanine, ce qui aide à atténuer les taches brunes et l’hyperpigmentation.<br/><strong>Anti-inflammatoire</strong> : calme les irritations, rougeurs et imperfections.<br/><strong>Antioxydant</strong> : protège la peau des radicaux libres et du vieillissement prématuré.<br/><strong>Éclat du teint</strong> : ravive les teints ternes et unifie la peau.<br/><br/><br/><br/><br/></p>"
+            "title": "Glycérine",
+            "content": "<p><em><strong>Hydratant naturel</strong></em> : attire l’eau dans la peau, maintient l’hydratation et prévient la sécheresse cutanée.<br/><br/><br/><br/><br/><br/><br/></p>"
           }
         },
         "item_DAMhFQ": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/wmremove-transformed.webp",
+            "image": "shopify://shop_images/INGREDIENT_5HA_HYALU-FILLER_RVB_600X400_1_25e266b4-9e2d-4c34-b5b9-4a4911169d89.webp",
             "icon": "none",
             "icon_width": 48,
-            "title": "Acide Kojique",
-            "content": "<p><strong>Éclaircissant puissant</strong> : freine la tyrosinase, enzyme responsable de la production de mélanine.<br/><strong>Réduction des taches pigmentaires</strong> : efficace contre les taches d’acné, taches de soleil, taches de vieillesse.<br/><strong>Unification du teint</strong> : adoucit et homogénéise les différences de couleur de la peau.<br/><strong>Effet doux</strong> : alternative plus naturelle aux agents dépigmentants agressifs comme l’hydroquinone.<br/><br/><br/></p>"
+            "title": "Acide hyaluronique",
+            "content": "<p><em><strong>Repulpant et hydratant intensif</strong></em> : comble les ridules, améliore l’élasticité et lisse la peau.<br/><br/><br/><br/></p>"
           }
         },
         "item_br4UeK": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/42351.webp",
+            "image": "shopify://shop_images/Dioxyde_de_titane_toxique.jpg",
             "icon": "none",
             "icon_width": 48,
-            "title": "Vitamine C",
-            "content": "<p><strong>Antioxydant majeur</strong> : neutralise les radicaux libres.<br/><strong>Boost de collagène</strong> : améliore l’élasticité de la peau.<br/><strong>Anti-taches</strong> : freine l’oxydation de la mélanine et réduit les taches brunes.<br/><strong>Éclat instantané</strong> : rend la peau plus lumineuse et plus saine.<br/><br/><br/><br/></p>"
+            "title": "Dioxyde de titane",
+            "content": "<p><em><strong>Pigment minéral & filtre UV</strong></em> : unifie le teint tout en protégeant la peau des rayons UV.<br/><br/><br/><br/><br/></p>"
           }
         },
         "item_X4wyiC": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/wmremove-transformed.jpg",
+            "image": "shopify://shop_images/niacinamide.png",
             "icon": "none",
             "icon_width": 48,
-            "title": "Alpha Arbutine",
-            "content": "<p>Aide à reduire les taches brunes, à freiner la production de mélanine et à unifier le teint sans irriter la peau. Parfait pour les peaux sensibles sujettes à l'hyperpigmentation.</p>"
+            "title": "Niacinamide",
+            "content": "<p><em><strong>Anti-taches & anti-inflammatoire</strong></em><strong> </strong>: atténue les taches brunes, réduit les rougeurs et resserre les pores.<br/><br/></p>"
           }
         },
         "item_3GeKBL": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/5701CITRON_FEUILLES_NON_TRAITES.webp",
+            "image": "shopify://shop_images/39.jpg",
             "icon": "none",
             "icon_width": 48,
-            "title": "Citron",
-            "content": "<p>Naturellement riche en Vitamine C et en acides de fruits, le citron aide à éclaircir le teint, réduire les taches et resserrer les pores. Il purifiela peau en douceur et lui apporte un effet frais et lumineux.</p>"
+            "title": "Vitamine E",
+            "content": "<p><em><strong>Antioxydant</strong></em><strong> </strong>: protège la peau contre les radicaux libres et le vieillissement prématuré.</p>"
           }
         }
       },
