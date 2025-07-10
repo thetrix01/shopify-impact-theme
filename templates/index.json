@@ -211,110 +211,6 @@
         "overlay_opacity": 0
       }
     },
-    "multi_column_CRtGAn": {
-      "type": "multi-column",
-      "blocks": {
-        "item_eNe7my": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/before-after.png",
-            "column_size": "3",
-            "title": "Alexandre",
-            "heading_tag": "h4",
-            "content": "<p><em>\"J’ai une peau sensible et réactive, surtout au niveau du visage. Cette crème a atténué mes boutons autour de la bouche et sur le front. Je l’applique matin et soir, et ma peau respire enfin\"</em></p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_btbyPT": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/wmremove-transformed.png",
-            "column_size": "3",
-            "title": "Louane",
-            "heading_tag": "h4",
-            "content": "<p><em>\"Avant : rougeurs, boutons, et peau terne. Après 1 mois avec cette crème : peau nette, teint éclatant, plus de sensations de tiraillements. Une vraie révélation !\"</em><br/><br/></p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_XiWYzT": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/aviclear-ba-right.jpg",
-            "column_size": "3",
-            "title": "Camille",
-            "heading_tag": "h4",
-            "content": "<p><em>\"J’avais toujours des boutons et des taches sur les joues, surtout après mon cycle. Après deux semaines avec cette crème, ma peau s’est vraiment apaisée. Les imperfections ont diminué et les marques s’estompent. Très satisfaite\"</em></p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_MEeUBV": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/karina-acne-bf-after--ht-thg-180313_16x9_992.jpg",
-            "column_size": "3",
-            "title": "Émilie",
-            "heading_tag": "h4",
-            "content": "<p><em>\"Avant, j’avais des imperfections un peu partout : joues, front, menton… Depuis que j’utilise cette crème, mon visage est beaucoup plus uniforme. Les boutons ont disparu, les pores sont resserrés. Le teint est plus net et lumineux. Rien à redire !\"</em></p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_MVHUCd": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/Image.jpg",
-            "column_size": "3",
-            "title": "Noémie",
-            "heading_tag": "h4",
-            "content": "<p>\"Je l’applique matin et soir, et franchement elle a changé ma peau. Plus de boutons sur le front ni sur les joues, et même le menton est plus propre. C’est devenu un réflexe dans ma routine.\"</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_r3PcK6": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/wmremove-transformed_1.jpg",
-            "column_size": "3",
-            "title": "Chloé",
-            "heading_tag": "h4",
-            "content": "<p><em>\"Ma peau était en crise : boutons sur les tempes, rougeurs sur le nez, microkystes sur le menton. Cette crème a tout amélioré en une quinzaine de jours. J’ai même moins de brillance sur la zone T !\"</em></p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        }
-      },
-      "block_order": [
-        "item_eNe7my",
-        "item_btbyPT",
-        "item_XiWYzT",
-        "item_MEeUBV",
-        "item_MVHUCd",
-        "item_r3PcK6"
-      ],
-      "name": "Multi-column",
-      "settings": {
-        "full_width": true,
-        "stack_on_mobile": false,
-        "gap": "medium",
-        "text_alignment": "center",
-        "subheading": "",
-        "title": "Nos clients en parlent le mieux",
-        "content": "",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
     "1747759876fb60a3ac": {
       "type": "apps",
       "blocks": {
@@ -960,7 +856,6 @@
     "image_with_text_overlay_rgtGhd",
     "impact_text_RVNU9G",
     "image_with_text_overlay_wqU4Ah",
-    "multi_column_CRtGAn",
     "1747759876fb60a3ac",
     "impact_text_Jim3Kk",
     "featured_product_fF8Jyr",
