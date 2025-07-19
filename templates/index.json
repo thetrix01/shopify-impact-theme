@@ -71,7 +71,7 @@
         "logo_EVXhNq": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/Image_9-removebg-preview.png",
+            "logo": "shopify://shop_images/Image-removebg-preview-2.png",
             "logo_width": 300,
             "link": ""
           }
@@ -79,7 +79,7 @@
         "logo_QRBAqn": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/Image-Photoroom.png",
+            "logo": "shopify://shop_images/Image_2-Photoroom-2.png",
             "logo_width": 300,
             "link": ""
           }
@@ -87,16 +87,16 @@
         "logo_bwCHhH": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/Image_3-Photoroom.png",
-            "logo_width": 120,
+            "logo": "shopify://shop_images/Image_3-Photoroom-2.png",
+            "logo_width": 300,
             "link": ""
           }
         },
         "logo_dtUAEF": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/Image_1-Photoroom.png",
-            "logo_width": 120,
+            "logo": "shopify://shop_images/Image_4-Photoroom.png",
+            "logo_width": 300,
             "link": ""
           }
         }
@@ -147,11 +147,11 @@
       "type": "image-with-text-overlay",
       "name": "Image with text overlay",
       "settings": {
-        "full_width": true,
+        "full_width": false,
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/Camouflez._Sublimez._Rayonnez._1.png",
+        "image": "shopify://shop_images/Pomme_d_Api.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
