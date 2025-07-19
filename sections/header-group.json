@@ -56,7 +56,7 @@
       "settings": {
         "enable_sticky": true,
         "hide_on_scroll": false,
-        "logo": "shopify://shop_images/Novae-removebg-preview.png",
+        "logo": "shopify://shop_images/Design_sans_titre-15-removebg-preview.png",
         "logo_max_width": 145,
         "logo_mobile_max_width": 100,
         "menu": "main-menu",
@@ -71,7 +71,7 @@
         "show_country_flag": true,
         "show_country_name": false,
         "transparent_header_text_color": "#000000",
-        "transparent_logo": "shopify://shop_images/Novae-removebg-preview.png",
+        "transparent_logo": "shopify://shop_images/Design_sans_titre-15-removebg-preview.png",
         "reduce_padding": false,
         "background_opacity": 100,
         "background_blur_radius": 0

@@ -31,7 +31,7 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/Camouflez._Sublimez._Rayonnez..png",
+        "image": "shopify://shop_images/Pomme_d_Api-2.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -315,7 +315,7 @@
           }
         },
         "pumper_bundles_quantity_breaks_app_block_qb_RHrcYJ": {
-          "type": "shopify://apps/pumper-bundles-quantity-breaks/blocks/app-block-qb/0856870d-2aca-4b1e-a662-cf1797f61270",
+          "type": "shopify://apps/pumper-bundles/blocks/app-block-qb/0856870d-2aca-4b1e-a662-cf1797f61270",
           "settings": {
             "selected_product": "{{section.settings.product}}",
             "using_page_builder": false
