@@ -362,7 +362,7 @@
           "type": "tab",
           "settings": {
             "title": "Les Ingrédients",
-            "content": "<p><strong>Ingrédient<br/>Eau </strong>Base du produit, donne une texture fluide<br/><strong>Glycérine </strong>Hydrate la peau en profondeur<br/><strong>Dioxyde de titane </strong>Pigment couvrant + protection solaire naturelle<br/><strong>Oxydes de fer (CI 77491/92/99) </strong>Colorent et s’adaptent au teint<br/><strong>Acide hyaluronique </strong>Repulpe la peau, lisse les rides<br/><strong>Vitamine E </strong>Antioxydant, protège la peau<br/><strong>Huile d'arbre à thé </strong>Antibactérien naturel, bon pour l’acné<br/><strong>Huile de menthe poivrée </strong>Effet frais, parfumant<br/><strong>Sodium Lauryl Sulfate (SLS) </strong>Nettoyant/émulsifiant (peut être irritant)<br/><strong>Parfums naturels (citral, etc.) </strong>Donnent une bonne odeur<br/><br/><br/><br/><br/><br/><br/></p><p><br/><br/></p><p><br/></p>",
+            "content": "<p><strong>Revêtement extérieur</strong> :<br/><strong>Tissu en polyester doux</strong> ou <strong>velours peluche</strong><br/>Pour le confort et la douceur au contact de la peau.<br/></p><p><strong>Rembourrage intérieur</strong> :<br/><strong>Coton PP (polypropylène)</strong> ou <strong>mousse amortissante</strong><br/>Pour absorber les chocs en cas de chute.<br/><br/><strong>Bretelles réglables</strong> :<br/><strong>Sangles en nylon ou polyester</strong><br/>Pour bien maintenir le coussin sur les épaules de bébé.<br/></p><p><strong>Boucles de fixation</strong> :<br/><strong>Plastique léger et sécurisé</strong><br/>Pour ajuster facilement la taille sans blesser.<br/><br/><br/><br/></p>",
             "page": ""
           }
         },
@@ -370,15 +370,23 @@
           "type": "tab",
           "settings": {
             "title": "Mode d’utilisation & résultats",
-            "content": "<p><strong>1 Nettoie et hydrate</strong> ton visage.<br/>2 <strong>Secoue</strong> le flacon (si liquide).<br/>3 <strong>Applique une petite quantité</strong> sur les zones clés (front, joues, nez, menton).<br/>4 <strong>Étale</strong> avec les doigts, une éponge ou un pinceau.<br/>5 <strong>Estompe vers l’extérieur</strong> pour un fini naturel.<br/>6 <strong>Ajoute une 2ᵉ couche</strong> si besoin (cernes, imperfections).<br/><br/></p><p><br/><br/></p><p><br/><br/></p><p><br/><br/></p><p><br/></p>",
+            "content": "<p><strong>1.Mettez-le comme un sac à dos</strong> :<br/>Placez le coussin dans le dos de bébé, bretelles sur les épaules.</p><p><strong>2.Ajustez les bretelles</strong> :<br/>Ni trop serrées, ni trop lâches. Le coussin doit bien couvrir l’arrière de la tête.</p><p><strong>3.Laissez bébé bouger</strong> :<br/>Idéal pour marcher, ramper ou se tenir debout. Ne gêne pas les mouvements.<br/><br/><strong>4.Surveillez toujours bébé</strong> :<br/>Ne pas utiliser pendant le sommeil ou en poussette.<br/><br/><br/><br/><br/></p><p><br/><br/></p><p><br/><br/></p><p><br/><br/></p><p><br/></p>",
+            "page": ""
+          }
+        },
+        "tab_mnyPtA": {
+          "type": "tab",
+          "settings": {
+            "title": "Entretien",
+            "content": "<p>Lavable à la <strong>main</strong> ou en <strong>machine</strong> à  <strong>30°C.</strong><br/><br/><strong>Séchage</strong> à l’<strong>air libre</strong> conseillé pour préserver le rembourrage.<br/><br/></p>",
             "page": ""
           }
         },
         "tab_WxGjiG": {
           "type": "tab",
           "settings": {
-            "title": "60 Jours d'essai",
-            "content": "<p>Nous avons confiance en notre produit et savons que vous l’adorerez !<br/><br/>Cela veut dire que nous vous offrons <strong>60 jours d'essai gratuit </strong>!</p><p>En cas de non satisfaction, nous vous remboursons !</p>",
+            "title": "15 Jours d'essai",
+            "content": "<p>Nous avons confiance en notre produit et savons que vous l’adorerez !<br/><br/>Cela veut dire que nous vous offrons 15<strong> jours d'essai gratuit </strong>!</p><p>En cas de non satisfaction, nous vous remboursons !</p>",
             "page": ""
           }
         },
@@ -394,6 +402,7 @@
       "block_order": [
         "tab_Cjm4bF",
         "tab_hyR8CG",
+        "tab_mnyPtA",
         "tab_WxGjiG",
         "tab_e8aWrQ"
       ],
@@ -573,6 +582,7 @@
         "item_X4wyiC",
         "item_3GeKBL"
       ],
+      "disabled": true,
       "name": "Images and text scrolling",
       "settings": {
         "full_width": true,
@@ -589,6 +599,7 @@
     },
     "image_with_text_overlay_AWjYqw": {
       "type": "image-with-text-overlay",
+      "disabled": true,
       "name": "Image with text overlay",
       "settings": {
         "full_width": false,
@@ -609,15 +620,15 @@
         "row_Q4jffA": {
           "type": "row",
           "settings": {
-            "feature": "<p><strong>Scientifiquement prouvé </strong></p>",
+            "feature": "<p><strong>Très confortable</strong></p>",
             "icon_type_1": "check",
-            "icon_type_2": "check"
+            "icon_type_2": "x"
           }
         },
         "row_TrEfAU": {
           "type": "row",
           "settings": {
-            "feature": "<p><strong>Effet visible en quelques jours</strong></p>",
+            "feature": "<p><strong>Ultra léger</strong></p>",
             "icon_type_1": "check",
             "icon_type_2": "x"
           }
@@ -625,7 +636,7 @@
         "row_V9C9NV": {
           "type": "row",
           "settings": {
-            "feature": "<p><strong>Prix abordable </strong></p>",
+            "feature": "<p><strong>Bien accepté par bébé</strong></p>",
             "icon_type_1": "check",
             "icon_type_2": "x"
           }
@@ -633,7 +644,7 @@
         "row_wjD7KB": {
           "type": "row",
           "settings": {
-            "feature": "<p><strong>Simple et rapide d'utilisation</strong></p>",
+            "feature": "<p><strong>Idéal pour intérieur sécurisé</strong></p>",
             "icon_type_1": "check",
             "icon_type_2": "x"
           }
@@ -641,7 +652,7 @@
         "row_wKdezn": {
           "type": "row",
           "settings": {
-            "feature": "<p><strong>Sans risque pour la peau</strong></p>",
+            "feature": "<p><strong>Facile à laver et entretenir</strong></p>",
             "icon_type_1": "check",
             "icon_type_2": "x"
           }
@@ -649,7 +660,7 @@
         "row_6PW8ed": {
           "type": "row",
           "settings": {
-            "feature": "<p><strong>Satisfait ou remboursé</strong></p>",
+            "feature": "<p><strong>Ne chauffe pas la tête (bonne respirabilité)</strong></p>",
             "icon_type_1": "check",
             "icon_type_2": "x"
           }
@@ -667,9 +678,9 @@
       "settings": {
         "heading": "Pourquoi choisir Novaé ?",
         "column_1_heading": "",
-        "image": "shopify://shop_images/Novae-removebg-preview.png",
+        "image": "shopify://shop_images/Design_sans_titre-15-removebg-preview.png",
         "logo_size": 100,
-        "column_3_heading": "Autres",
+        "column_3_heading": "Casque Anti Chute",
         "padding_top": 36,
         "padding_bottom": 36
       }
