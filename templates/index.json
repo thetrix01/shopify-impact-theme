@@ -888,22 +888,22 @@
         "item_MmmtqT": {
           "type": "item",
           "settings": {
-            "title": "Le produit est-il facile à appliquer ?",
-            "content": "<p>Très facile ! Sa texture fluide et légère s’applique <strong>au doigt, à l’éponge ou au pinceau</strong>. Il se fond instantanément à la peau sans effet masque.</p>"
+            "title": "Le coussin est-il conforme aux normes de sécurité ?",
+            "content": "<p><strong>Oui</strong>, il répond aux normes européennes strictes relatives aux produits pour enfants.</p>"
           }
         },
         "item_8Y9x6e": {
           "type": "item",
           "settings": {
-            "title": "Peut-il remplacer une base de maquillage ?",
-            "content": "<p>Oui ! Sa formule 2-en-1 fait <strong>à la fois base lissante et fond de teint</strong>, ce qui simplifie la routine maquillage.</p>"
+            "title": "Peut-on utiliser ce coussin en garderie ou crèche ?",
+            "content": "<p><strong>Oui</strong>, c’est un excellent moyen d’assurer la sécurité des bébés en collectivité, sous la surveillance du personnel.</p>"
           }
         },
         "item_fnLxh6": {
           "type": "item",
           "settings": {
-            "title": "Ce fond de teint obstrue-t-il les pores ?",
-            "content": "<p>Non. Sa formule légère est conçue pour <strong>laisser respirer la peau</strong>, tout en assurant une belle couvrance sans effet comédogène.</p>"
+            "title": "Ce coussin est-il recommandé par des spécialistes de la santé infantile ?",
+            "content": "<p><strong>Oui</strong>, de nombreux pédiatres et professionnels de la petite enfance le conseillent comme solution douce et efficace pour la sécurité des premiers pas.</p>"
           }
         }
       },
