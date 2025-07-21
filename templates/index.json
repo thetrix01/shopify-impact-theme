@@ -159,6 +159,124 @@
         "overlay_opacity": 0
       }
     },
+    "multi_column_M4Yqht": {
+      "type": "multi-column",
+      "blocks": {
+        "item_DUfHWX": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Af751e68a752b4d9db4cbf927383abf94G.jpg",
+            "column_size": "3",
+            "title": "Camille M. maman de Léo, 10 mois",
+            "heading_tag": "h4",
+            "content": "<p><em>\"Depuis que mon fils commence à marcher, ce coussin est un vrai soulagement. Il est tombé plusieurs fois en arrière sans se faire mal. Il ne le sent même pas sur son dos et continue à jouer comme si de rien n'était. Je recommande à 100 % !\"</em></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_XAjB8D": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Oreiller-de-protection-de-la-t-te-et-du-dos-pour-b-b-quipement-de-sauna_1.webp",
+            "column_size": "3",
+            "title": "Thomas D. papa de Jade, 11 mois",
+            "heading_tag": "h4",
+            "content": "<p><em>\"Simple à mettre, super léger et tout doux ! Jade l’a tout de suite adopté. On a beaucoup moins peur maintenant quand elle se lance debout toute seule.\"</em></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_nHk86F": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/coussin-anti-chute-bebe-tendertots-864884.webp",
+            "column_size": "3",
+            "title": "Anaïs D. maman de Léa, 11 mois",
+            "heading_tag": "h4",
+            "content": "<p><em>\"Le coussin est super doux et facile à mettre. Léa est beaucoup plus confiante quand elle se tient debout, et on voit qu’elle n’est pas gênée du tout.\"</em></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_Y3C3L7": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/coussin-antichute-protecteur-de-tete-pour-bebe-de-4-a-24-mois-en-en-coton-doux-pour-leur-securite-et-confort.webp",
+            "column_size": "3",
+            "title": "Antoine R. papa de Théo 8 mois",
+            "heading_tag": "h4",
+            "content": "<p><em>\"On a acheté ce coussin pour Théo qui commençait à marcher. C’est rassurant, il protège bien sa tête et ne le gêne pas du tout. Très facile à mettre.\"</em></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_HY4zJy": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/A136ff7f57ae3488095ceebf4bc116f9b0.jpg",
+            "column_size": "3",
+            "title": "Pierre M. papa de Ethan 10 mois",
+            "heading_tag": "h4",
+            "content": "<p><em>\"Très bon produit, facile à enfiler et à ajuster. Ethan ne le remarque même pas, et ça me tranquillise de savoir qu’il est protégé.\"</em></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_pdBkcg": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/A95df7b5aae774ae79970819f899c7650i.jpg",
+            "column_size": "3",
+            "title": "Lucas P. papa de Maxime, 8 mois",
+            "heading_tag": "h4",
+            "content": "<p><em>\"Maxime est beaucoup plus sûr de lui depuis qu’il porte ce coussin. Il peut explorer la maison sans se faire mal en tombant. Super produit, léger et confortable.\"</em></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_wMGANg": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/A81844fa295894d298a5dbae0f2d1454au.jpg",
+            "column_size": "3",
+            "title": "Marine B. maman de Juliette 10 mois",
+            "heading_tag": "h4",
+            "content": "<p><em>\"Ce coussin est une vraie protection sans embêter ma fille. Juliette joue partout et même quand elle tombe, elle ne se fait pas mal. Je recommande vivement.\"</em></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_DUfHWX",
+        "item_XAjB8D",
+        "item_nHk86F",
+        "item_Y3C3L7",
+        "item_HY4zJy",
+        "item_pdBkcg",
+        "item_wMGANg"
+      ],
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "center",
+        "subheading": "",
+        "title": "Nos clients en parlent le mieux",
+        "content": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "1747759876fb60a3ac": {
       "type": "apps",
       "blocks": {
@@ -495,6 +613,22 @@
         "accordion_text_color": ""
       }
     },
+    "image_with_text_overlay_PDrTHB": {
+      "type": "image-with-text-overlay",
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": false,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/Pomme_d_Api.png",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
     "rich_text_DbCKP4": {
       "type": "rich-text",
       "blocks": {
@@ -511,6 +645,7 @@
       "block_order": [
         "heading_Kg8hpF"
       ],
+      "disabled": true,
       "name": "Rich text",
       "settings": {
         "full_width": true,
@@ -718,36 +853,36 @@
         "item_tp6Hbp": {
           "type": "item",
           "settings": {
-            "title": "À qui s’adresse ce fond de teint ?",
-            "content": "<p>Ce produit convient à <strong>tous les types de peau</strong>, y compris les peaux mixtes, sèches ou matures. Il est idéal pour celles et ceux qui souhaitent <strong>camoufler les imperfections tout en prenant soin de leur peau</strong>.<br/></p>"
+            "title": "À quel âge peut-on utiliser ce coussin anti-chute ?",
+            "content": "<p>Le coussin est idéal dès que bébé commence à ramper, se tenir debout ou marcher, généralement à partir de<strong> 6-7 mois</strong>. Il protège efficacement la tête sans gêner ses mouvements naturels.</p>"
           }
         },
         "item_iBME89": {
           "type": "item",
           "settings": {
-            "title": "Ce fond de teint hydrate-t-il la peau ?",
-            "content": "<p>Oui ! Grâce à des ingrédients comme la <strong>glycérine</strong> et l’<strong>acide hyaluronique</strong>, il offre une <strong>hydratation intense</strong> tout au long de la journée, laissant la peau douce et repulpée.<br/><br/></p>"
+            "title": "Est-ce que le coussin est confortable pour bébé ?",
+            "content": "<p><strong>Absolument </strong>! Le coussin est fabriqué avec des matériaux doux et respirants, ultra légers, ce qui garantit un confort optimal toute la journée, sans chaleur ni gêne.</p>"
           }
         },
         "item_h87FTw": {
           "type": "item",
           "settings": {
-            "title": "Couvre-t-il bien les imperfections ?",
-            "content": "<p>Absolument. Sa formule à <strong>couvrance modulable</strong> permet de <strong>masquer les cernes, taches, rougeurs et petites imperfections</strong>, tout en gardant un rendu naturel.<br/><br/></p>"
+            "title": "Est-ce que le coussin limite la liberté de mouvement de bébé ?",
+            "content": "<p><strong>Pas du tout</strong> ! Sa conception ergonomique respecte la motricité naturelle, permettant à bébé de bouger, ramper et marcher librement tout en restant protégé.<br/></p>"
           }
         },
         "item_Pq3RQE": {
           "type": "item",
           "settings": {
-            "title": "Le fond de teint Novaé tient-il toute la journée ?",
-            "content": "<p>Oui, il offre une <strong>longue tenue</strong>, même en conditions humides ou chaudes. Il résiste bien à la transpiration et au sébum pour un <strong>teint frais et lumineux jusqu’au soir</strong>.<br/></p>"
+            "title": "Pourquoi choisir un coussin anti-chute plutôt qu’un casque ?",
+            "content": "<p>Le coussin est beaucoup plus léger, confortable et facile à porter toute la journée. Il <strong>protège efficacement l’arrière de la tête</strong>, là où bébé tombe le plus souvent, sans gêner ses mouvements naturels ni sa motricité<br/></p>"
           }
         },
         "item_AWHLTd": {
           "type": "item",
           "settings": {
-            "title": "A-t-il des effets bénéfiques sur la peau ?",
-            "content": "<p>Oui ! En plus du maquillage, il agit comme un <strong>soin cosmétique</strong> :</p><p>-Lutte contre les signes de l’âge (vitamine E, acide hyaluronique)</p><p>-Unifie et illumine le teint (niacinamide)</p><p>-Protège la peau (antioxydants)<br/></p>"
+            "title": "Comment savoir si le coussin est bien ajusté ?",
+            "content": "<p>Les bretelles réglables permettent un maintien parfait, ni trop serré ni trop lâche. Le coussin doit rester centré dans le dos pour assurer une protection optimale.</p>"
           }
         },
         "item_MmmtqT": {
@@ -813,12 +948,14 @@
     "logo_list_WDizdB",
     "impact_text_bEGmqa",
     "image_with_text_overlay_rgtGhd",
+    "multi_column_M4Yqht",
     "1747759876fb60a3ac",
     "impact_text_Jim3Kk",
     "featured_product_fF8Jyr",
     "17477599406aa7e8b3",
     "tabs_wAL73B",
     "accordion_content_Q434iE",
+    "image_with_text_overlay_PDrTHB",
     "rich_text_DbCKP4",
     "images_with_text_scrolling_iJt4m7",
     "image_with_text_overlay_AWjYqw",
