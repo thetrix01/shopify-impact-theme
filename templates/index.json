@@ -997,6 +997,27 @@
         "accordion_background": "",
         "accordion_text_color": ""
       }
+    },
+    "contact_8wcwtJ": {
+      "type": "contact",
+      "name": "Contact form",
+      "settings": {
+        "full_width": true,
+        "subheading": "",
+        "title": "Des questions ?",
+        "content": "",
+        "text_position": "start",
+        "contact_form_size": "large",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "#333c61",
+        "heading_color": "",
+        "heading_gradient": "",
+        "contact_background": "",
+        "contact_text_color": "",
+        "button_background": "#333c61",
+        "button_text_color": ""
+      }
     }
   },
   "order": [
@@ -1021,6 +1042,7 @@
     "comparaison_table_yxj6cM",
     "175208247266443a67",
     "17532200472bbf7885",
-    "faq_L94DEx"
+    "faq_L94DEx",
+    "contact_8wcwtJ"
   ]
 }
