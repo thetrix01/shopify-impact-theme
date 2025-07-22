@@ -51,6 +51,19 @@
         "text_color": "#ffffff"
       }
     },
+    "custom_liquid_gWrfUy": {
+      "type": "custom-liquid",
+      "name": "Custom Liquid",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "liquid": "<!-- 🔥 Barre promo été avec minuteur -->\n<div id=\"summer-promo-bar\">\n  ☀️ Promo Été : jusqu'à -45% pendant encore <span id=\"summer-timer\">03:00:00</span> !\n</div>\n\n<style>\n  #summer-promo-bar {\n    position: fixed;\n    top: 0;\n    left: 0;\n    width: 100%;\n    background-color: #333C61;\n    color: white;\n    font-family: Arial, sans-serif;\n    font-size: 15px;\n    text-align: center;\n    padding: 10px 0;\n    z-index: 9999;\n    box-shadow: 0 2px 5px rgba(0,0,0,0.2);\n  }\n\n  #summer-promo-bar span {\n    font-weight: bold;\n    margin-left: 4px;\n  }\n\n  body {\n    padding-top: 40px; /* Pour éviter que la barre cache le haut du site */\n  }\n\n  @media screen and (max-width: 480px) {\n    #summer-promo-bar {\n      font-size: 13px;\n      padding: 8px;\n    }\n  }\n</style>\n\n<script>\n  // Minuteur de 3 heures (en secondes)\n  let countdownTime = 3 * 60 * 60;\n  const timerElement = document.getElementById(\"summer-timer\");\n\n  function updateTimer() {\n    const hours = Math.floor(countdownTime / 3600);\n    const minutes = Math.floor((countdownTime % 3600) / 60);\n    const seconds = countdownTime % 60;\n\n    timerElement.textContent = \n      `${String(hours).padStart(2, '0')}:${String(minutes).padStart(2, '0')}:${String(seconds).padStart(2, '0')}`;\n\n    if (countdownTime > 0) {\n      countdownTime--;\n    } else {\n      // Optionnel : cacher la barre à la fin\n      document.getElementById(\"summer-promo-bar\").style.display = \"none\";\n    }\n  }\n\n  setInterval(updateTimer, 1000);\n  updateTimer();\n</script>",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "header": {
       "type": "header",
       "settings": {
@@ -80,6 +93,7 @@
   },
   "order": [
     "announcement-bar",
+    "custom_liquid_gWrfUy",
     "header"
   ]
 }
