@@ -647,22 +647,6 @@
         "accordion_text_color": ""
       }
     },
-    "image_with_text_overlay_PDrTHB": {
-      "type": "image-with-text-overlay",
-      "name": "Image with text overlay",
-      "settings": {
-        "full_width": false,
-        "allow_transparent_header": false,
-        "enable_parallax": false,
-        "image_size": "auto",
-        "image": "shopify://shop_images/Pomme_d_Api.png",
-        "mobile_text_position": "place-self-center text-center",
-        "desktop_text_position": "sm:place-self-center sm:text-center",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 0
-      }
-    },
     "rich_text_DbCKP4": {
       "type": "rich-text",
       "blocks": {
@@ -965,7 +949,7 @@
         "text_position": "center",
         "background": "",
         "background_gradient": "",
-        "text_color": "#000000",
+        "text_color": "#333c61",
         "heading_color": "",
         "heading_gradient": "",
         "button_background": "",
@@ -991,7 +975,6 @@
     "17477599406aa7e8b3",
     "tabs_wAL73B",
     "accordion_content_Q434iE",
-    "image_with_text_overlay_PDrTHB",
     "rich_text_DbCKP4",
     "images_with_text_scrolling_iJt4m7",
     "image_with_text_overlay_AWjYqw",
