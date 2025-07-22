@@ -224,32 +224,6 @@
     "multi_column_M4Yqht": {
       "type": "multi-column",
       "blocks": {
-        "item_DUfHWX": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/Af751e68a752b4d9db4cbf927383abf94G.jpg",
-            "column_size": "3",
-            "title": "Camille M. maman de Léo, 10 mois",
-            "heading_tag": "h4",
-            "content": "<p><em>\"Depuis que mon fils commence à marcher, ce coussin est un vrai soulagement. Il est tombé plusieurs fois en arrière sans se faire mal. Il ne le sent même pas sur son dos et continue à jouer comme si de rien n'était. Je recommande à 100 % !\"</em></p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_XAjB8D": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/Oreiller-de-protection-de-la-t-te-et-du-dos-pour-b-b-quipement-de-sauna_1.webp",
-            "column_size": "3",
-            "title": "Thomas D. papa de Jade, 11 mois",
-            "heading_tag": "h4",
-            "content": "<p><em>\"Simple à mettre, super léger et tout doux ! Jade l’a tout de suite adopté. On a beaucoup moins peur maintenant quand elle se lance debout toute seule.\"</em></p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
         "item_nHk86F": {
           "type": "item",
           "settings": {
@@ -317,8 +291,6 @@
         }
       },
       "block_order": [
-        "item_DUfHWX",
-        "item_XAjB8D",
         "item_nHk86F",
         "item_Y3C3L7",
         "item_HY4zJy",
@@ -336,7 +308,7 @@
         "content": "",
         "background": "",
         "background_gradient": "",
-        "text_color": ""
+        "text_color": "#333c61"
       }
     },
     "1747759876fb60a3ac": {
@@ -503,7 +475,7 @@
       "name": "Featured product",
       "settings": {
         "full_width": true,
-        "product": "concealer-foundation-full-coverage-for-blemishes-dark-circles-wrinkles-brightening-oil-control-hydrating-facial-makeup-cosmetics",
+        "product": "1pcs-childrens-anti-fall-pillow-baby-toddler-head-pillow-breathable-pillow-learning-to-walk-head-protection-pad-head-protection",
         "desktop_media_width": 50,
         "desktop_media_layout": "carousel_thumbnails_left",
         "mobile_media_size": "expanded",
