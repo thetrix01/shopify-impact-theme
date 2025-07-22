@@ -143,11 +143,38 @@
         "button_text_color": ""
       }
     },
+    "rich_text_Kn9n7x": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_iFgaEN": {
+          "type": "heading",
+          "settings": {
+            "text": "Pourquoi choisir notre Coussin Anti-Chute BébéSafe ?",
+            "heading_tag": "h1",
+            "text_color": "#333c61",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_iFgaEN"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "rich_text_bgLRkT": {
       "type": "rich-text",
       "blocks": {
         "subheading_QHaPnD": {
           "type": "subheading",
+          "disabled": true,
           "settings": {
             "text": "Pourquoi choisir notre Coussin Anti-Chute BébéSafe ?"
           }
@@ -167,6 +194,7 @@
         "subheading_QHaPnD",
         "heading_39ApUA"
       ],
+      "disabled": true,
       "name": "Rich text",
       "settings": {
         "full_width": true,
@@ -981,6 +1009,7 @@
     "rich_text_qQGPFp",
     "logo_list_WDizdB",
     "impact_text_bEGmqa",
+    "rich_text_Kn9n7x",
     "rich_text_bgLRkT",
     "image_with_text_overlay_rgtGhd",
     "multi_column_M4Yqht",
