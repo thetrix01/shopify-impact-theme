@@ -439,10 +439,6 @@
             "using_page_builder": false
           }
         },
-        "quantity_selector_piaaMk": {
-          "type": "quantity_selector",
-          "settings": {}
-        },
         "buy_buttons_tWRKkq": {
           "type": "buy_buttons",
           "settings": {
@@ -484,7 +480,6 @@
         "separator_E7d4kj",
         "liquid_L4nQ8Q",
         "pumper_bundles_quantity_breaks_app_block_qb_RHrcYJ",
-        "quantity_selector_piaaMk",
         "buy_buttons_tWRKkq",
         "pickup_availability_gDibVj",
         "image_i7hayh",
