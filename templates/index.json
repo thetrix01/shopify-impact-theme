@@ -503,7 +503,7 @@
         "tab_WxGjiG": {
           "type": "tab",
           "settings": {
-            "title": "15 Jours d'essai",
+            "title": "15 Jours Satisfait ou Remboursé",
             "content": "<p>Nous avons confiance en notre produit et savons que vous l’adorerez !<br/><br/>Cela veut dire que nous vous offrons 15<strong> jours d'essai gratuit </strong>!</p><p>En cas de non satisfaction, nous vous remboursons !</p>",
             "page": ""
           }
@@ -512,7 +512,7 @@
           "type": "tab",
           "settings": {
             "title": "Service client 7J/7",
-            "content": "<p>Notre service client est à votre écoute 7J/7.<br/></p><p>Vous pouvez nous contacter par en utilisant l'onglet \"Contact\" de notre boutique ou par email à l'adresse contact@curcuglow.fr</p>",
+            "content": "<p>Notre service client est à votre écoute 7J/7.<br/></p><p>Vous pouvez nous contacter par en utilisant l'onglet \"Contact\" de notre boutique ou par email à l'adresse contact@bebesafe.fr</p>",
             "page": ""
           }
         }
