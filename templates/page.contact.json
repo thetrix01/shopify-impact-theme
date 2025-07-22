@@ -20,9 +20,9 @@
       "type": "contact",
       "settings": {
         "full_width": true,
-        "subheading": "",
-        "title": "Nous contacter",
-        "content": "<p><br/>Vous pouvez nous contacter par email à l'adresse contact@bebesafe.fr ou via le formulaire ci-dessous<br/><br/></p>",
+        "subheading": "Nous contacter",
+        "title": "",
+        "content": "<p>Vous pouvez nous contacter par email à l'adresse contact@bebesafe.fr ou via le formulaire ci-dessous<br/><br/></p>",
         "text_position": "start",
         "contact_form_size": "large",
         "background": "",
