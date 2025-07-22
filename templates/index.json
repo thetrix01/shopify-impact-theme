@@ -514,7 +514,7 @@
           "type": "tab",
           "settings": {
             "title": "Les Composants",
-            "content": "<p><strong>Revêtement extérieur</strong> :<br/><strong>Tissu en polyester doux</strong> ou <strong>velours peluche</strong><br/>Pour le confort et la douceur au contact de la peau.<br/></p><p><strong>Rembourrage intérieur</strong> :<br/><strong>Coton PP (polypropylène)</strong> ou <strong>mousse amortissante</strong><br/>Pour absorber les chocs en cas de chute.<br/><br/><strong>Bretelles réglables</strong> :<br/><strong>Sangles en nylon ou polyester</strong><br/>Pour bien maintenir le coussin sur les épaules de bébé.<br/></p><p><strong>Boucles de fixation</strong> :<br/><strong>Plastique léger et sécurisé</strong><br/>Pour ajuster facilement la taille sans blesser.<br/><br/><br/><br/></p>",
+            "content": "<p><strong>Revêtement extérieur</strong> :<br/><strong>Tissu en polyester doux, velours peluche</strong><br/>Pour le confort et la douceur au contact de la peau.<br/></p><p><strong>Rembourrage intérieur</strong> :<br/><strong>Mousse amortissante</strong><br/>Pour absorber les chocs en cas de chute.<br/><br/><strong>Bretelles réglables</strong> :<br/><strong>Sangles en nylon</strong><br/>Pour bien maintenir le coussin sur les épaules de bébé.<br/></p><p><strong>Boucles de fixation</strong> :<br/><strong>Plastique léger et sécurisé</strong><br/>Pour ajuster facilement la taille sans blesser.<br/><br/><br/><br/></p>",
             "page": ""
           }
         },
@@ -567,7 +567,7 @@
         "first_tab_open": false,
         "background": "",
         "background_gradient": "",
-        "text_color": "#308f7c",
+        "text_color": "#333c61",
         "heading_color": "",
         "heading_gradient": ""
       }
