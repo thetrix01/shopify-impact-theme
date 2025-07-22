@@ -146,8 +146,15 @@
     "rich_text_bgLRkT": {
       "type": "rich-text",
       "blocks": {
+        "subheading_QHaPnD": {
+          "type": "subheading",
+          "settings": {
+            "text": "Pourquoi choisir notre Coussin Anti-Chute BébéSafe ?"
+          }
+        },
         "heading_39ApUA": {
           "type": "heading",
+          "disabled": true,
           "settings": {
             "text": "Pourquoi choisir notre Coussin Anti-Chute BébéSafe ?",
             "heading_tag": "h1",
@@ -157,6 +164,7 @@
         }
       },
       "block_order": [
+        "subheading_QHaPnD",
         "heading_39ApUA"
       ],
       "name": "Rich text",
