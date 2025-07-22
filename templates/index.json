@@ -401,7 +401,7 @@
         "liquid_LMXcJe": {
           "type": "liquid",
           "settings": {
-            "liquid": "<!-- Bannière Livraison Offerte - Texte épuré et incitatif -->\n<div style=\"\n  font-family: Arial, sans-serif;\n  max-width: 400px;\n  margin: 16px auto;\n  padding: 0;\n  text-align: center;\n\">\n  <p style=\"font-size: 16px; color: #000000; margin: 0;\">\n    Livraison offerte – Ne ratez pas l’occasion de sublimer votre teint !\n  </p>\n</div>"
+            "liquid": "<!-- Bannière Anti-Chute Bébé - Texte épuré et pertinent -->\n<div style=\"\n  font-family: Arial, sans-serif;\n  max-width: 400px;\n  margin: 16px auto;\n  padding: 0;\n  text-align: center;\n  <p style=\"font-size: 16px; color: #333C61; margin: 0;\">\n    Livraison offerte – Protégez votre bébé dès ses premiers pas !\n  </p>\n</div>"
           }
         },
         "separator_E7d4kj": {
