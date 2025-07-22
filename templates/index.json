@@ -224,27 +224,14 @@
     "multi_column_M4Yqht": {
       "type": "multi-column",
       "blocks": {
-        "item_nHk86F": {
+        "item_wMGANg": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/coussin-anti-chute-bebe-tendertots-864884.webp",
+            "image": "shopify://shop_images/A81844fa295894d298a5dbae0f2d1454au.jpg",
             "column_size": "3",
-            "title": "Anaïs D. maman de Léa, 11 mois",
+            "title": "Marine B. maman de Juliette 10 mois",
             "heading_tag": "h4",
-            "content": "<p><em>\"Le coussin est super doux et facile à mettre. Léa est beaucoup plus confiante quand elle se tient debout, et on voit qu’elle n’est pas gênée du tout.\"</em></p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_Y3C3L7": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/coussin-antichute-protecteur-de-tete-pour-bebe-de-4-a-24-mois-en-en-coton-doux-pour-leur-securite-et-confort.webp",
-            "column_size": "3",
-            "title": "Antoine R. papa de Théo 8 mois",
-            "heading_tag": "h4",
-            "content": "<p><em>\"On a acheté ce coussin pour Théo qui commençait à marcher. C’est rassurant, il protège bien sa tête et ne le gêne pas du tout. Très facile à mettre.\"</em></p>",
+            "content": "<p><em>\"Ce coussin est une vraie protection sans embêter ma fille. Juliette joue partout et même quand elle tombe, elle ne se fait pas mal. Je recommande vivement.\"</em></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -263,6 +250,19 @@
             "link_style": "link"
           }
         },
+        "item_nHk86F": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/coussin-anti-chute-bebe-tendertots-864884.webp",
+            "column_size": "3",
+            "title": "Anaïs D. maman de Léa, 11 mois",
+            "heading_tag": "h4",
+            "content": "<p><em>\"Le coussin est super doux et facile à mettre. Léa est beaucoup plus confiante quand elle se tient debout, et on voit qu’elle n’est pas gênée du tout.\"</em></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
         "item_pdBkcg": {
           "type": "item",
           "settings": {
@@ -276,14 +276,14 @@
             "link_style": "link"
           }
         },
-        "item_wMGANg": {
+        "item_Y3C3L7": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/A81844fa295894d298a5dbae0f2d1454au.jpg",
+            "image": "shopify://shop_images/coussin-antichute-protecteur-de-tete-pour-bebe-de-4-a-24-mois-en-en-coton-doux-pour-leur-securite-et-confort.webp",
             "column_size": "3",
-            "title": "Marine B. maman de Juliette 10 mois",
+            "title": "Antoine R. papa de Théo 8 mois",
             "heading_tag": "h4",
-            "content": "<p><em>\"Ce coussin est une vraie protection sans embêter ma fille. Juliette joue partout et même quand elle tombe, elle ne se fait pas mal. Je recommande vivement.\"</em></p>",
+            "content": "<p><em>\"On a acheté ce coussin pour Théo qui commençait à marcher. C’est rassurant, il protège bien sa tête et ne le gêne pas du tout. Très facile à mettre.\"</em></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -291,11 +291,11 @@
         }
       },
       "block_order": [
-        "item_nHk86F",
-        "item_Y3C3L7",
+        "item_wMGANg",
         "item_HY4zJy",
+        "item_nHk86F",
         "item_pdBkcg",
-        "item_wMGANg"
+        "item_Y3C3L7"
       ],
       "name": "Multi-column",
       "settings": {
