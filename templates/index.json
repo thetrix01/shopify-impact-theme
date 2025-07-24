@@ -377,16 +377,6 @@
           "type": "badges",
           "settings": {}
         },
-        "liquid_LMXcJe": {
-          "type": "liquid",
-          "settings": {
-            "liquid": "<!-- Bannière Anti-Chute Bébé - Texte épuré et pertinent -->\n<div style=\"\n  font-family: Arial, sans-serif;\n  max-width: 400px;\n  margin: 16px auto;\n  padding: 0;\n  text-align: center;\n  <p style=\"font-size: 16px; color: #333C61; margin: 0;\">\n    Livraison offerte – Protégez votre bébé dès ses premiers pas !\n  </p>\n</div>"
-          }
-        },
-        "separator_E7d4kj": {
-          "type": "separator",
-          "settings": {}
-        },
         "loox_reviews_loox_trust_badge_PeNyy7": {
           "type": "shopify://apps/loox-reviews/blocks/loox-trust-badge/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
           "settings": {
@@ -408,6 +398,16 @@
             "rating-icon-color": "",
             "border-color": ""
           }
+        },
+        "liquid_LMXcJe": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<!-- Bannière Anti-Chute Bébé - Texte épuré et pertinent -->\n<div style=\"\n  font-family: Arial, sans-serif;\n  max-width: 400px;\n  margin: 16px auto;\n  padding: 0;\n  text-align: center;\n  <p style=\"font-size: 16px; color: #333C61; margin: 0;\">\n    Livraison offerte – Protégez votre bébé dès ses premiers pas !\n  </p>\n</div>"
+          }
+        },
+        "separator_E7d4kj": {
+          "type": "separator",
+          "settings": {}
         },
         "liquid_L4nQ8Q": {
           "type": "liquid",
@@ -457,9 +457,9 @@
       "block_order": [
         "title_xexw7d",
         "badges_GLnamh",
+        "loox_reviews_loox_trust_badge_PeNyy7",
         "liquid_LMXcJe",
         "separator_E7d4kj",
-        "loox_reviews_loox_trust_badge_PeNyy7",
         "liquid_L4nQ8Q",
         "pumper_bundles_quantity_breaks_app_block_qb_RHrcYJ",
         "buy_buttons_tWRKkq",
