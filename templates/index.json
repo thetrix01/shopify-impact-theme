@@ -424,6 +424,12 @@
             "using_page_builder": false
           }
         },
+        "liquid_ytmL3M": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<!-- Import de la police Anton depuis Google Fonts -->\n<link href=\"https://fonts.googleapis.com/css2?family=Anton&display=swap\" rel=\"stylesheet\">\n\n<div style=\"text-align: center; font-family: 'Anton', sans-serif; margin: 20px 0;\">\n  <h3 style=\"font-size: 22px; color: #333C61;\">Offre été se terminant dans...</h3>\n  <div id=\"countdown\" style=\"font-size: 26px; font-weight: bold; color: #333C61;\"></div>\n</div>\n\n<script>\n  // Durée en secondes : ici 20 minutes\n  let durationSeconds = 20 * 60;\n  let endTime = new Date().getTime() + durationSeconds * 1000;\n\n  function updateCountdown() {\n    let now = new Date().getTime();\n    let distance = endTime - now;\n\n    if (distance < 0) {\n      document.getElementById(\"countdown\").innerHTML = \"Offre expirée\";\n      clearInterval(countdownInterval);\n      return;\n    }\n\n    let days = Math.floor(distance / (1000 * 60 * 60 * 24));\n    let hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));\n    let minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));\n    let seconds = Math.floor((distance % (1000 * 60)) / 1000);\n\n    hours = hours < 10 ? \"0\" + hours : hours;\n    minutes = minutes < 10 ? \"0\" + minutes : minutes;\n    seconds = seconds < 10 ? \"0\" + seconds : seconds;\n\n    document.getElementById(\"countdown\").innerHTML =\n      days + \"j \" + hours + \"h \" + minutes + \"m \" + seconds + \"s\";\n  }\n\n  let countdownInterval = setInterval(updateCountdown, 1000);\n  updateCountdown();\n</script>"
+          }
+        },
         "buy_buttons_tWRKkq": {
           "type": "buy_buttons",
           "settings": {
@@ -464,6 +470,7 @@
         "separator_E7d4kj",
         "image_b9j88B",
         "pumper_bundles_quantity_breaks_app_block_qb_RHrcYJ",
+        "liquid_ytmL3M",
         "buy_buttons_tWRKkq",
         "pickup_availability_gDibVj",
         "image_i7hayh",
