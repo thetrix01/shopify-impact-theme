@@ -409,10 +409,12 @@
           "type": "separator",
           "settings": {}
         },
-        "liquid_L4nQ8Q": {
-          "type": "liquid",
+        "image_b9j88B": {
+          "type": "image",
           "settings": {
-            "liquid": "<!-- Bloc Offre Anti-Chute Bébé - Version compacte et épurée -->\n<div id=\"baby-alert\" style=\"\n  font-family: Arial, sans-serif;\n  max-width: 300px;\n  margin: 10px auto;\n  padding: 10px 16px;\n  background-color: transparent;\n  border: 1px solid #333C61;\n  border-radius: 14px;\n  text-align: center;\n\">\n  <h2 style=\"\n    color: #333C61;\n    font-size: 15px;\n    margin: 0 0 6px;\n    font-weight: bold;\n  \">Offre été Limitée</h2>\n\n  <p style=\"\n    color: #333C61;\n    font-size: 16px;\n    font-weight: bold;\n    margin: 4px 0;\n  \">\n    ⏱️ <span id=\"countdown\">17:34</span>\n  </p>\n\n  <p id=\"stock-text\" style=\"\n    color: #D12F2F;\n    font-size: 13px;\n    font-weight: bold;\n    margin: 4px 0;\n    display: flex;\n    justify-content: center;\n    align-items: center;\n    gap: 5px;\n  \">\n    <span class=\"red-dot\"></span>\n    Stock presque épuisé\n  </p>\n\n  <p style=\"\n    color: #333C61;\n    font-size: 13px;\n    margin: 6px 0 0;\n    line-height: 1.4;\n  \">\n    Anti-chute bébé léger et protecteur. Vite avant rupture !\n  </p>\n</div>\n\n<style>\n  @keyframes blink {\n    0%, 100% { opacity: 1; }\n    50% { opacity: 0.7; }\n  }\n\n  #stock-text {\n    animation: blink 1s infinite;\n  }\n\n  .red-dot {\n    width: 6px;\n    height: 6px;\n    background-color: red;\n    border-radius: 50%;\n    animation: red-blink 1s infinite;\n  }\n\n  @keyframes red-blink {\n    0%, 100% { opacity: 1; }\n    50% { opacity: 0.3; }\n  }\n</style>\n\n<script>\n  let countdownTime = 17 * 60 + 34;\n  const countdownElement = document.getElementById(\"countdown\");\n\n  function updateCountdown() {\n    const minutes = Math.floor(countdownTime / 60);\n    const seconds = countdownTime % 60;\n    countdownElement.textContent = `${minutes}:${seconds.toString().padStart(2, '0')}`;\n    if (countdownTime > 0) countdownTime--;\n  }\n\n  setInterval(updateCountdown, 1000);\n  updateCountdown();\n</script>"
+            "image": "shopify://shop_images/4D158A54-9A15-48D4-839D-123D8ED542FE.png",
+            "alignment": "center",
+            "max_width": 320
           }
         },
         "pumper_bundles_quantity_breaks_app_block_qb_RHrcYJ": {
@@ -460,7 +462,7 @@
         "loox_reviews_loox_trust_badge_PeNyy7",
         "liquid_LMXcJe",
         "separator_E7d4kj",
-        "liquid_L4nQ8Q",
+        "image_b9j88B",
         "pumper_bundles_quantity_breaks_app_block_qb_RHrcYJ",
         "buy_buttons_tWRKkq",
         "pickup_availability_gDibVj",
