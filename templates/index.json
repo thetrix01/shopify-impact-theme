@@ -402,7 +402,7 @@
         "liquid_LMXcJe": {
           "type": "liquid",
           "settings": {
-            "liquid": "<!-- Bannière Anti-Chute Bébé - Texte épuré et pertinent -->\n<div style=\"\n  font-family: Arial, sans-serif;\n  max-width: 400px;\n  margin: 16px auto;\n  padding: 0;\n  text-align: center;\n  <p style=\"font-size: 16px; color: #333C61; margin: 0;\">\n    Livraison offerte – Protégez votre bébé dès ses premiers pas !\n  </p>\n</div>"
+            "liquid": "<!-- Police Anton -->\n<link href=\"https://fonts.googleapis.com/css2?family=Anton&display=swap\" rel=\"stylesheet\">\n\n<!-- Bannière stylée -->\n<div style=\"\n  font-family: 'Anton', sans-serif;\n  background-color: #E4F9FF;\n  color: #333C61;\n  font-size: 14px;\n  text-align: center;\n  padding: 8px 16px;\n  margin: 16px auto;\n  max-width: 600px;\n  border-radius: 8px;\n  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.08);\n\">\n  🎁 Livraison offerte – Protégez votre bébé dès ses premiers pas !\n</div>"
           }
         },
         "separator_E7d4kj": {
