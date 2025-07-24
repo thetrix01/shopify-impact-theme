@@ -313,33 +313,6 @@
     },
     "1747759876fb60a3ac": {
       "type": "apps",
-      "blocks": {
-        "loox_reviews_loox_trust_badge_TYhMAi": {
-          "type": "shopify://apps/loox-reviews/blocks/loox-trust-badge/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
-          "settings": {
-            "layout": "horizontal",
-            "alignment": "center",
-            "scheme-type": "default",
-            "review-title": "reviews",
-            "rating-icon": true,
-            "average-rating": true,
-            "loox-branding": true,
-            "review-count": true,
-            "open-reviews": true,
-            "show-border": true,
-            "border-radius": 8,
-            "font-size": 20,
-            "background-color": "",
-            "secondary-background-color": "",
-            "text-color": "",
-            "rating-icon-color": "",
-            "border-color": ""
-          }
-        }
-      },
-      "block_order": [
-        "loox_reviews_loox_trust_badge_TYhMAi"
-      ],
       "settings": {
         "full_width": true,
         "remove_vertical_spacing": false,
@@ -414,6 +387,28 @@
           "type": "separator",
           "settings": {}
         },
+        "loox_reviews_loox_trust_badge_PeNyy7": {
+          "type": "shopify://apps/loox-reviews/blocks/loox-trust-badge/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
+          "settings": {
+            "layout": "horizontal-slim",
+            "alignment": "fillContainer",
+            "scheme-type": "default",
+            "review-title": "reviews",
+            "rating-icon": true,
+            "average-rating": true,
+            "loox-branding": true,
+            "review-count": true,
+            "open-reviews": true,
+            "show-border": true,
+            "border-radius": 8,
+            "font-size": 20,
+            "background-color": "",
+            "secondary-background-color": "",
+            "text-color": "",
+            "rating-icon-color": "",
+            "border-color": ""
+          }
+        },
         "liquid_L4nQ8Q": {
           "type": "liquid",
           "settings": {
@@ -464,6 +459,7 @@
         "badges_GLnamh",
         "liquid_LMXcJe",
         "separator_E7d4kj",
+        "loox_reviews_loox_trust_badge_PeNyy7",
         "liquid_L4nQ8Q",
         "pumper_bundles_quantity_breaks_app_block_qb_RHrcYJ",
         "buy_buttons_tWRKkq",
