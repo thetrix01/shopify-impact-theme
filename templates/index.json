@@ -404,18 +404,6 @@
           "type": "badges",
           "settings": {}
         },
-        "judge_me_reviews_preview_badge_homepage_cWWj6V": {
-          "type": "shopify://apps/judge-me-reviews/blocks/preview_badge_homepage/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-          "settings": {
-            "product": "concealer-foundation-full-coverage-for-blemishes-dark-circles-wrinkles-brightening-oil-control-hydrating-facial-makeup-cosmetics"
-          }
-        },
-        "price_3zz63f": {
-          "type": "price",
-          "settings": {
-            "show_taxes_notice": true
-          }
-        },
         "liquid_LMXcJe": {
           "type": "liquid",
           "settings": {
@@ -474,8 +462,6 @@
       "block_order": [
         "title_xexw7d",
         "badges_GLnamh",
-        "judge_me_reviews_preview_badge_homepage_cWWj6V",
-        "price_3zz63f",
         "liquid_LMXcJe",
         "separator_E7d4kj",
         "liquid_L4nQ8Q",
