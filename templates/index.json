@@ -221,6 +221,22 @@
         "overlay_opacity": 0
       }
     },
+    "image_with_text_overlay_nh8wwT": {
+      "type": "image-with-text-overlay",
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": false,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/bebe_2.webp",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
     "multi_column_M4Yqht": {
       "type": "multi-column",
       "blocks": {
@@ -992,6 +1008,7 @@
     "rich_text_Kn9n7x",
     "rich_text_bgLRkT",
     "image_with_text_overlay_rgtGhd",
+    "image_with_text_overlay_nh8wwT",
     "multi_column_M4Yqht",
     "1747759876fb60a3ac",
     "impact_text_Jim3Kk",
