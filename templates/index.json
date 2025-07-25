@@ -399,6 +399,12 @@
             "liquid": "<style>\n  .trustpilot-stars {\n    display: flex;\n    align-items: center;\n    gap: 6px;\n    font-family: Arial, sans-serif;\n  }\n\n  .star-box {\n    width: 28px;\n    height: 20px;\n    background-color: #00B67A;\n    display: flex;\n    align-items: center;\n    justify-content: center;\n    border-radius: 2px;\n  }\n\n  .star-box svg {\n    width: 14px;\n    height: 14px;\n    fill: white;\n  }\n\n  .rating-value {\n    font-size: 14px;\n    color: #333;\n    font-weight: bold;\n    margin-left: 8px;\n  }\n</style>\n\n<div class=\"trustpilot-stars\">\n  <!-- 5 étoiles pleines -->\n  <div class=\"star-box\">\n    <svg viewBox=\"0 0 24 24\"><path d=\"M12 2l2.75 7.5H23l-5.9 4.5 2.25 7.5L12 17l-7.35 4.5L6.9 14 1 9.5h8.25L12 2z\"/></svg>\n  </div>\n  <div class=\"star-box\">\n    <svg viewBox=\"0 0 24 24\"><path d=\"M12 2l2.75 7.5H23l-5.9 4.5 2.25 7.5L12 17l-7.35 4.5L6.9 14 1 9.5h8.25L12 2z\"/></svg>\n  </div>\n  <div class=\"star-box\">\n    <svg viewBox=\"0 0 24 24\"><path d=\"M12 2l2.75 7.5H23l-5.9 4.5 2.25 7.5L12 17l-7.35 4.5L6.9 14 1 9.5h8.25L12 2z\"/></svg>\n  </div>\n  <div class=\"star-box\">\n    <svg viewBox=\"0 0 24 24\"><path d=\"M12 2l2.75 7.5H23l-5.9 4.5 2.25 7.5L12 17l-7.35 4.5L6.9 14 1 9.5h8.25L12 2z\"/></svg>\n  </div>\n  <div class=\"star-box\">\n    <svg viewBox=\"0 0 24 24\"><path d=\"M12 2l2.75 7.5H23l-5.9 4.5 2.25 7.5L12 17l-7.35 4.5L6.9 14 1 9.5h8.25L12 2z\"/></svg>\n  </div>\n\n  <!-- Note -->\n  <div class=\"rating-value\">4.9/5</div>\n</div>"
           }
         },
+        "price_k4yh8T": {
+          "type": "price",
+          "settings": {
+            "show_taxes_notice": false
+          }
+        },
         "separator_E7d4kj": {
           "type": "separator",
           "settings": {}
@@ -460,6 +466,7 @@
         "title_xexw7d",
         "badges_GLnamh",
         "liquid_6KpGrj",
+        "price_k4yh8T",
         "separator_E7d4kj",
         "image_b9j88B",
         "pumper_bundles_quantity_breaks_app_block_qb_RHrcYJ",
