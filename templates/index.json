@@ -409,18 +409,16 @@
           "type": "separator",
           "settings": {}
         },
-        "image_b9j88B": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/4D158A54-9A15-48D4-839D-123D8ED542FE.png",
-            "alignment": "center",
-            "max_width": 270
-          }
-        },
         "liquid_j7gQRr": {
           "type": "liquid",
           "settings": {
             "liquid": "<span style=\"\n  display: inline-flex;\n  align-items: center;\n  background-color: #ffeaea;\n  color: inherit;\n  padding: 2px 6px;\n  border-radius: 4px;\n  font-size: 12px;\n\">\n  <span style=\"\n    width: 6px;\n    height: 6px;\n    background-color: red;\n    border-radius: 50%;\n    margin-right: 4px;\n    animation: blink 1s infinite;\n    display: inline-block;\n  \"></span>\n  Stock : 5 restants\n</span>\n\n<style>\n@keyframes blink {\n  0%, 100% { opacity: 1; }\n  50% { opacity: 0; }\n}\n</style>"
+          }
+        },
+        "liquid_j6kKVn": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<p class=\"countdown-title\">\n  ⏳ Il reste <span id=\"countdown-timer\">--</span> avant la fin de l’offre\n</p>\n\n<style>\n  .countdown-title {\n    font-family: Arial, sans-serif;\n    color: #333C61;\n    font-size: 1.2rem;\n    font-weight: bold;\n    text-align: center;\n    margin-top: 20px;\n  }\n\n  #countdown-timer {\n    font-weight: 700;\n  }\n</style>\n\n<script>\n  // Définir la date de fin (ajustable)\n  const endDate = new Date();\n  endDate.setMinutes(endDate.getMinutes() + 23); // ici 23 minutes à partir de maintenant\n\n  function updateCountdown() {\n    const now = new Date().getTime();\n    const distance = endDate - now;\n\n    if (distance <= 0) {\n      document.getElementById(\"countdown-timer\").textContent = \"0 jour 0 h 0 min 0 s\";\n      return;\n    }\n\n    const days = Math.floor(distance / (1000 * 60 * 60 * 24));\n    const hours = Math.floor((distance / (1000 * 60 * 60)) % 24);\n    const minutes = Math.floor((distance / (1000 * 60)) % 60);\n    const seconds = Math.floor((distance / 1000) % 60);\n\n    document.getElementById(\"countdown-timer\").textContent =\n      `${days} jour${days !== 1 ? \"s\" : \"\"} ${hours} h ${minutes} min ${seconds} s`;\n\n    setTimeout(updateCountdown, 1000);\n  }\n\n  updateCountdown();\n</script>"
           }
         },
         "pumper_bundles_quantity_breaks_app_block_qb_RHrcYJ": {
@@ -468,8 +466,8 @@
         "liquid_6KpGrj",
         "price_k4yh8T",
         "separator_E7d4kj",
-        "image_b9j88B",
         "liquid_j7gQRr",
+        "liquid_j6kKVn",
         "pumper_bundles_quantity_breaks_app_block_qb_RHrcYJ",
         "buy_buttons_tWRKkq",
         "pickup_availability_gDibVj",
