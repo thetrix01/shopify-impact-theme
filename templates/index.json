@@ -266,19 +266,6 @@
             "link_style": "link"
           }
         },
-        "item_nHk86F": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/coussin-anti-chute-bebe-tendertots-864884.webp",
-            "column_size": "3",
-            "title": "Anaïs D. maman de Léa, 11 mois",
-            "heading_tag": "h4",
-            "content": "<p><em>\"Le coussin est super doux et facile à mettre. Léa est beaucoup plus confiante quand elle se tient debout, et on voit qu’elle n’est pas gênée du tout.\"</em></p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
         "item_pdBkcg": {
           "type": "item",
           "settings": {
@@ -292,14 +279,14 @@
             "link_style": "link"
           }
         },
-        "item_Y3C3L7": {
+        "item_nHk86F": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/coussin-antichute-protecteur-de-tete-pour-bebe-de-4-a-24-mois-en-en-coton-doux-pour-leur-securite-et-confort.webp",
+            "image": "shopify://shop_images/coussin-anti-chute-bebe-tendertots-864884.webp",
             "column_size": "3",
-            "title": "Antoine R. papa de Théo 8 mois",
+            "title": "Anaïs D. maman de Léa, 11 mois",
             "heading_tag": "h4",
-            "content": "<p><em>\"On a acheté ce coussin pour Théo qui commençait à marcher. C’est rassurant, il protège bien sa tête et ne le gêne pas du tout. Très facile à mettre.\"</em></p>",
+            "content": "<p><em>\"Le coussin est super doux et facile à mettre. Léa est beaucoup plus confiante quand elle se tient debout, et on voit qu’elle n’est pas gênée du tout.\"</em></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -309,9 +296,8 @@
       "block_order": [
         "item_wMGANg",
         "item_HY4zJy",
-        "item_nHk86F",
         "item_pdBkcg",
-        "item_Y3C3L7"
+        "item_nHk86F"
       ],
       "name": "Multi-column",
       "settings": {
