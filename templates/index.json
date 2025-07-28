@@ -903,6 +903,13 @@
     "faq_L94DEx": {
       "type": "faq",
       "blocks": {
+        "item_LFpUUJ": {
+          "type": "item",
+          "settings": {
+            "title": "Quel est le délai de livraison ?",
+            "content": "<p>En raison du succès rencontré, la livraison peut prendre entre <strong>5 et 15 jours ouvrés</strong>.</p>"
+          }
+        },
         "item_tp6Hbp": {
           "type": "item",
           "settings": {
@@ -961,6 +968,7 @@
         }
       },
       "block_order": [
+        "item_LFpUUJ",
         "item_tp6Hbp",
         "item_iBME89",
         "item_h87FTw",
