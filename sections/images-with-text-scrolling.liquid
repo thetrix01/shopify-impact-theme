@@ -29,7 +29,7 @@
     {%- for block in section.blocks -%}
       <div class="images-scrolling-mobile__item snap-start" {{ block.shopify_attributes }}>
         {%- if block.settings.image != blank -%}
-          {{- block.settings.image | image_url: width: block.settings.image.width | image_tag: loading: 'lazy', sizes: '(max-width: 740px) 100vw, 650px', widths: '200,300,400,600,800,1000,1200,1400,1600', class: 'rounded-sm' -}}
+          {{- block.settings.image | image_url: width: block.settings.image.width | image_tag: loading: 'eager', sizes: '(max-width: 740px) 100vw, 650px', widths: '200,300,400,600,800,1000,1200,1400,1600', class: 'rounded-sm' -}}
         {%- else -%}
           {%- capture image_placeholder -%}product-{%- cycle '1', '2', '3', '4' -%}{%- endcapture -%}
           {{- image_placeholder | placeholder_svg_tag: 'placeholder' -}}
