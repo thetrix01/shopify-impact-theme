@@ -442,6 +442,12 @@
             "liquid": "<span style=\"\n  display: inline-flex;\n  align-items: center;\n  background-color: #ffeaea;\n  color: inherit;\n  padding: 2px 6px;\n  border-radius: 4px;\n  font-size: 12px;\n\">\n  <span style=\"\n    width: 6px;\n    height: 6px;\n    background-color: red;\n    border-radius: 50%;\n    margin-right: 4px;\n    animation: blink 1s infinite;\n    display: inline-block;\n  \"></span>\n  Stock : 5 restants\n</span>\n\n<style>\n@keyframes blink {\n  0%, 100% { opacity: 1; }\n  50% { opacity: 0; }\n}\n</style>"
           }
         },
+        "liquid_YpPaff": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<style>\n.elu-badge-small {\n  display: inline-block;\n  color: #000;\n  font-weight: bold;\n  font-size: 14px;\n  padding: 6px 10px;\n  border-radius: 999px;\n  font-family: 'Arial', sans-serif;\n}\n</style>\n\n<div class=\"elu-badge-small\">\n  🏅 ÉLU #1 COUSSIN ANTI‑CHUTE 2025\n</div>"
+          }
+        },
         "liquid_j6kKVn": {
           "type": "liquid",
           "settings": {
@@ -494,6 +500,7 @@
         "price_k4yh8T",
         "separator_E7d4kj",
         "liquid_j7gQRr",
+        "liquid_YpPaff",
         "liquid_j6kKVn",
         "pumper_bundles_quantity_breaks_app_block_qb_RHrcYJ",
         "buy_buttons_tWRKkq",
