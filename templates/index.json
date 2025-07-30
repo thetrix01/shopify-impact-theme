@@ -71,7 +71,7 @@
         "logo_EVXhNq": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/Image-removebg-preview-2.png",
+            "logo": "shopify://shop_images/Image-removebg-preview-2.webp",
             "logo_width": 300,
             "link": ""
           }
@@ -79,7 +79,7 @@
         "logo_QRBAqn": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/Image_2-Photoroom-2.png",
+            "logo": "shopify://shop_images/Image_2-Photoroom-2.webp",
             "logo_width": 300,
             "link": ""
           }
@@ -87,7 +87,7 @@
         "logo_bwCHhH": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/Image_3-Photoroom-2.png",
+            "logo": "shopify://shop_images/Image_3-Photoroom-2.webp",
             "logo_width": 300,
             "link": ""
           }
@@ -95,7 +95,7 @@
         "logo_dtUAEF": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/Image_4-Photoroom.png",
+            "logo": "shopify://shop_images/Image_4-Photoroom.webp",
             "logo_width": 300,
             "link": ""
           }
@@ -213,7 +213,7 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/Pomme_d_Api.png",
+        "image": "shopify://shop_images/Pomme_d_Api.webp",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -229,7 +229,7 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/C25FD066-D06C-4194-A4EB-6A0FE576E633.png",
+        "image": "shopify://shop_images/C25FD066-D06C-4194-A4EB-6A0FE576E633.webp",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -263,13 +263,28 @@
         "text_color": ""
       }
     },
+    "video_XVHXyy": {
+      "type": "video",
+      "name": "Video",
+      "settings": {
+        "full_width": false,
+        "allow_transparent_header": false,
+        "autoplay": true,
+        "video_size": "sm",
+        "video": "shopify://files/videos/ssstik.io_@littlestarparis_1753444777990.mov",
+        "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
     "multi_column_M4Yqht": {
       "type": "multi-column",
       "blocks": {
         "item_wMGANg": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/A81844fa295894d298a5dbae0f2d1454au.jpg",
+            "image": "shopify://shop_images/bebeavis1.webp",
             "column_size": "3",
             "title": "Marine B. maman de Juliette 10 mois",
             "heading_tag": "h4",
@@ -282,7 +297,7 @@
         "item_HY4zJy": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/A136ff7f57ae3488095ceebf4bc116f9b0.jpg",
+            "image": "shopify://shop_images/bebeavis2.webp",
             "column_size": "3",
             "title": "Pierre M. papa de Ethan 10 mois",
             "heading_tag": "h4",
@@ -295,7 +310,7 @@
         "item_pdBkcg": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/A95df7b5aae774ae79970819f899c7650i.jpg",
+            "image": "shopify://shop_images/bebeavis3.webp",
             "column_size": "3",
             "title": "Lucas P. papa de Maxime, 8 mois",
             "heading_tag": "h4",
@@ -308,7 +323,7 @@
         "item_nHk86F": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/coussin-anti-chute-bebe-tendertots-864884.webp",
+            "image": "shopify://shop_images/bebeavis4.webp",
             "column_size": "3",
             "title": "Anaïs D. maman de Léa, 11 mois",
             "heading_tag": "h4",
@@ -503,21 +518,6 @@
         "text_color": "#333c61",
         "input_background": "rgba(0,0,0,0)",
         "input_text_color": ""
-      }
-    },
-    "video_XVHXyy": {
-      "type": "video",
-      "name": "Video",
-      "settings": {
-        "full_width": false,
-        "allow_transparent_header": false,
-        "autoplay": true,
-        "video_size": "sm",
-        "video": "shopify://files/videos/ssstik.io_@littlestarparis_1753444777990.mov",
-        "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 0
       }
     },
     "tabs_wAL73B": {
