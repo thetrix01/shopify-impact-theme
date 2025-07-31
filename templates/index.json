@@ -426,6 +426,12 @@
             "liquid": "<style>\n  .trustpilot-stars {\n    display: flex;\n    align-items: center;\n    gap: 6px;\n    font-family: Arial, sans-serif;\n  }\n\n  .star-box {\n    width: 28px;\n    height: 20px;\n    background-color: #00B67A;\n    display: flex;\n    align-items: center;\n    justify-content: center;\n    border-radius: 2px;\n  }\n\n  .star-box svg {\n    width: 14px;\n    height: 14px;\n    fill: white;\n  }\n\n  .rating-value {\n    font-size: 14px;\n    color: #333;\n    font-weight: bold;\n    margin-left: 8px;\n  }\n</style>\n\n<div class=\"trustpilot-stars\">\n  <!-- 5 étoiles pleines -->\n  <div class=\"star-box\">\n    <svg viewBox=\"0 0 24 24\"><path d=\"M12 2l2.75 7.5H23l-5.9 4.5 2.25 7.5L12 17l-7.35 4.5L6.9 14 1 9.5h8.25L12 2z\"/></svg>\n  </div>\n  <div class=\"star-box\">\n    <svg viewBox=\"0 0 24 24\"><path d=\"M12 2l2.75 7.5H23l-5.9 4.5 2.25 7.5L12 17l-7.35 4.5L6.9 14 1 9.5h8.25L12 2z\"/></svg>\n  </div>\n  <div class=\"star-box\">\n    <svg viewBox=\"0 0 24 24\"><path d=\"M12 2l2.75 7.5H23l-5.9 4.5 2.25 7.5L12 17l-7.35 4.5L6.9 14 1 9.5h8.25L12 2z\"/></svg>\n  </div>\n  <div class=\"star-box\">\n    <svg viewBox=\"0 0 24 24\"><path d=\"M12 2l2.75 7.5H23l-5.9 4.5 2.25 7.5L12 17l-7.35 4.5L6.9 14 1 9.5h8.25L12 2z\"/></svg>\n  </div>\n  <div class=\"star-box\">\n    <svg viewBox=\"0 0 24 24\"><path d=\"M12 2l2.75 7.5H23l-5.9 4.5 2.25 7.5L12 17l-7.35 4.5L6.9 14 1 9.5h8.25L12 2z\"/></svg>\n  </div>\n\n  <!-- Note -->\n  <div class=\"rating-value\">4.9/5</div>\n</div>"
           }
         },
+        "liquid_YpPaff": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<style>\n.elu-badge-small {\n  display: inline-block;\n  color: #000;\n  font-weight: bold;\n  font-size: 14px;\n  padding: 6px 10px;\n  border-radius: 999px;\n  font-family: 'Arial', sans-serif;\n  text-align: center;\n}\n\n.elu-badge-wrapper {\n  text-align: center;\n  margin: 10px 0;\n}\n</style>\n\n<div class=\"elu-badge-wrapper\">\n  <div class=\"elu-badge-small\">\n    🏅 ÉLU #1 COUSSIN ANTI‑CHUTE DEPUIS 2023\n  </div>\n</div>"
+          }
+        },
         "price_k4yh8T": {
           "type": "price",
           "settings": {
@@ -440,12 +446,6 @@
           "type": "liquid",
           "settings": {
             "liquid": "<div style=\"background:#E4F9FF; color:#333C61; padding:5px 10px; text-align:center; font-size:14px; border-radius:4px;\">\n  <strong>Livraison OFFERTE !</strong> Livraison possible jusqu’à 10 jours en raison du succès du produit.\n</div>"
-          }
-        },
-        "liquid_YpPaff": {
-          "type": "liquid",
-          "settings": {
-            "liquid": "<style>\n.elu-badge-small {\n  display: inline-block;\n  color: #000;\n  font-weight: bold;\n  font-size: 14px;\n  padding: 6px 10px;\n  border-radius: 999px;\n  font-family: 'Arial', sans-serif;\n  text-align: center;\n}\n\n.elu-badge-wrapper {\n  text-align: center;\n  margin: 10px 0;\n}\n</style>\n\n<div class=\"elu-badge-wrapper\">\n  <div class=\"elu-badge-small\">\n    🏅 ÉLU #1 COUSSIN ANTI‑CHUTE DEPUIS 2023\n  </div>\n</div>"
           }
         },
         "liquid_j7gQRr": {
@@ -518,10 +518,10 @@
         "title_xexw7d",
         "badges_GLnamh",
         "liquid_6KpGrj",
+        "liquid_YpPaff",
         "price_k4yh8T",
         "separator_E7d4kj",
         "liquid_XAG8kF",
-        "liquid_YpPaff",
         "liquid_j7gQRr",
         "moon_bundle_upsell_gift_app_block_rMLB98",
         "pumper_bundles_quantity_breaks_app_block_qb_RHrcYJ",
