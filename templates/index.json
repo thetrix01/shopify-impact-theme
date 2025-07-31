@@ -503,7 +503,7 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/3597973B-6C0E-45F4-BEBE-927B659A8C74.png",
-            "alignment": "end",
+            "alignment": "center",
             "max_width": 310
           }
         }
