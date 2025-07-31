@@ -62,11 +62,6 @@
         "disabled": false,
         "settings": {}
       },
-      "14652898158514659544": {
-        "type": "shopify://apps/fly-bundles-quantity-breaks/blocks/app-embed/26807bdc-c2ed-4a25-afb2-06e6b1ebf843",
-        "disabled": false,
-        "settings": {}
-      },
       "16605207545338212596": {
         "type": "shopify://apps/aov-ai-bundle-upsell/blocks/aov-offer/0335d423-143c-4ad7-b224-99a1db74a9ee",
         "disabled": false,
@@ -75,6 +70,16 @@
       "14060646107696862457": {
         "type": "shopify://apps/judge-me-reviews/blocks/judgeme_core/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
         "disabled": true,
+        "settings": {}
+      },
+      "14652898158514659544": {
+        "type": "shopify://apps/fly-bundles-quantity-breaks/blocks/app-embed/26807bdc-c2ed-4a25-afb2-06e6b1ebf843",
+        "disabled": true,
+        "settings": {}
+      },
+      "7054877461618660028": {
+        "type": "shopify://apps/moon-bundle-upsell-gift/blocks/app-embed/aaf4cd95-8b9b-4a14-b929-0f7fc8fced27",
+        "disabled": false,
         "settings": {}
       }
     }
