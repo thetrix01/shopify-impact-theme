@@ -436,6 +436,12 @@
           "type": "separator",
           "settings": {}
         },
+        "liquid_XAG8kF": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div style=\"background:#E4F9FF; color:#333C61; padding:5px 10px; text-align:center; font-size:14px; border-radius:4px;\">\n  <strong>Livraison OFFERTE !</strong> Livraison possible jusqu’à 10 jours en raison du succès du produit.\n</div>"
+          }
+        },
         "liquid_YpPaff": {
           "type": "liquid",
           "settings": {
@@ -514,6 +520,7 @@
         "liquid_6KpGrj",
         "price_k4yh8T",
         "separator_E7d4kj",
+        "liquid_XAG8kF",
         "liquid_YpPaff",
         "liquid_j7gQRr",
         "liquid_j6kKVn",
