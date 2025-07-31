@@ -454,12 +454,6 @@
             "liquid": "<span style=\"\n  display: inline-flex;\n  align-items: center;\n  background-color: #ffccd5; /* Rouge rosé plus visible */\n  color: red; /* Texte en rouge */\n  padding: 2px 6px;\n  border-radius: 4px;\n  font-size: 12px;\n\">\n  <span style=\"\n    width: 6px;\n    height: 6px;\n    background-color: red;\n    border-radius: 50%;\n    margin-right: 4px;\n    animation: blink 1s infinite;\n    display: inline-block;\n  \"></span>\n  Stock : 5 restants\n</span>\n\n<style>\n@keyframes blink {\n  0%, 100% { opacity: 1; }\n  50% { opacity: 0; }\n}\n</style>"
           }
         },
-        "liquid_j6kKVn": {
-          "type": "liquid",
-          "settings": {
-            "liquid": "<div class=\"countdown-box\">\n  <p class=\"countdown-title\">\n    🕒 Fin de l’offre été dans\n  </p>\n  <div id=\"countdown-timer\" class=\"countdown-timer\">--</div>\n</div>\n\n<style>\n  .countdown-box {\n    max-width: 300px;\n    margin: 24px auto;\n    background: linear-gradient(135deg, #E4F9FF, #ffffff);\n    border: 1.5px solid #CBE7F5;\n    border-radius: 12px;\n    box-shadow: 0 6px 14px rgba(0, 0, 0, 0.04);\n    padding: 16px;\n    text-align: center;\n    font-family: 'Poppins', 'Segoe UI', sans-serif;\n  }\n\n  .countdown-title {\n    color: #333C61;\n    font-size: 1rem;\n    font-weight: 600;\n    margin-bottom: 8px;\n  }\n\n  .countdown-timer {\n    font-size: 1.2rem;\n    font-weight: 600;\n    color: #1F2A44;\n    background-color: #DDF3FF;\n    padding: 6px 14px;\n    border-radius: 10px;\n    display: inline-block;\n    min-width: 180px;\n  }\n</style>\n\n<script>\n  const endDate = new Date(Date.now() + 23 * 60 * 1000); // +23 min\n\n  function updateCountdown() {\n    const now = new Date().getTime();\n    const distance = endDate - now;\n\n    if (distance <= 0) {\n      document.getElementById(\"countdown-timer\").textContent = \"0j 0h 0m 0s\";\n      return;\n    }\n\n    const d = Math.floor(distance / (1000 * 60 * 60 * 24));\n    const h = Math.floor((distance / (1000 * 60 * 60)) % 24);\n    const m = Math.floor((distance / (1000 * 60)) % 60);\n    const s = Math.floor((distance / 1000) % 60);\n\n    document.getElementById(\"countdown-timer\").textContent =\n      `${d}j ${h}h ${m}m ${s}s`;\n\n    setTimeout(updateCountdown, 1000);\n  }\n\n  updateCountdown();\n</script>"
-          }
-        },
         "moon_bundle_upsell_gift_app_block_rMLB98": {
           "type": "shopify://apps/moon-bundle-upsell-gift/blocks/app-block/aaf4cd95-8b9b-4a14-b929-0f7fc8fced27",
           "settings": {
@@ -472,6 +466,12 @@
           "settings": {
             "selected_product": "{{section.settings.product}}",
             "using_page_builder": false
+          }
+        },
+        "liquid_j6kKVn": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div class=\"countdown-box\">\n  <p class=\"countdown-title\">\n    🕒 Fin de l’offre été dans\n  </p>\n  <div id=\"countdown-timer\" class=\"countdown-timer\">--</div>\n</div>\n\n<style>\n  .countdown-box {\n    max-width: 300px;\n    margin: 24px auto;\n    background: linear-gradient(135deg, #E4F9FF, #ffffff);\n    border: 1.5px solid #CBE7F5;\n    border-radius: 12px;\n    box-shadow: 0 6px 14px rgba(0, 0, 0, 0.04);\n    padding: 16px;\n    text-align: center;\n    font-family: 'Poppins', 'Segoe UI', sans-serif;\n  }\n\n  .countdown-title {\n    color: #333C61;\n    font-size: 1rem;\n    font-weight: 600;\n    margin-bottom: 8px;\n  }\n\n  .countdown-timer {\n    font-size: 1.2rem;\n    font-weight: 600;\n    color: #1F2A44;\n    background-color: #DDF3FF;\n    padding: 6px 14px;\n    border-radius: 10px;\n    display: inline-block;\n    min-width: 180px;\n  }\n</style>\n\n<script>\n  const endDate = new Date(Date.now() + 23 * 60 * 1000); // +23 min\n\n  function updateCountdown() {\n    const now = new Date().getTime();\n    const distance = endDate - now;\n\n    if (distance <= 0) {\n      document.getElementById(\"countdown-timer\").textContent = \"0j 0h 0m 0s\";\n      return;\n    }\n\n    const d = Math.floor(distance / (1000 * 60 * 60 * 24));\n    const h = Math.floor((distance / (1000 * 60 * 60)) % 24);\n    const m = Math.floor((distance / (1000 * 60)) % 60);\n    const s = Math.floor((distance / 1000) % 60);\n\n    document.getElementById(\"countdown-timer\").textContent =\n      `${d}j ${h}h ${m}m ${s}s`;\n\n    setTimeout(updateCountdown, 1000);\n  }\n\n  updateCountdown();\n</script>"
           }
         },
         "buy_buttons_tWRKkq": {
@@ -523,9 +523,9 @@
         "liquid_XAG8kF",
         "liquid_YpPaff",
         "liquid_j7gQRr",
-        "liquid_j6kKVn",
         "moon_bundle_upsell_gift_app_block_rMLB98",
         "pumper_bundles_quantity_breaks_app_block_qb_RHrcYJ",
+        "liquid_j6kKVn",
         "buy_buttons_tWRKkq",
         "pickup_availability_gDibVj",
         "image_i7hayh",
