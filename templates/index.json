@@ -498,6 +498,14 @@
             "alignment": "center",
             "max_width": 500
           }
+        },
+        "image_gMdUeV": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/3597973B-6C0E-45F4-BEBE-927B659A8C74.png",
+            "alignment": "end",
+            "max_width": 310
+          }
         }
       },
       "block_order": [
@@ -514,7 +522,8 @@
         "buy_buttons_tWRKkq",
         "pickup_availability_gDibVj",
         "image_i7hayh",
-        "image_jJGiGj"
+        "image_jJGiGj",
+        "image_gMdUeV"
       ],
       "name": "Featured product",
       "settings": {
