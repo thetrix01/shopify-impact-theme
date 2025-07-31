@@ -454,8 +454,15 @@
             "liquid": "<p class=\"countdown-title\">\n  Il reste <span id=\"countdown-timer\">--</span> avant la fin de l’offre\n</p>\n\n<style>\n  .countdown-title {\n    font-family: Arial, sans-serif;\n    color: #333C61;\n    font-size: 1.2rem;\n    font-weight: bold;\n    text-align: center;\n    margin-top: 20px;\n  }\n\n  #countdown-timer {\n    font-weight: 700;\n  }\n</style>\n\n<script>\n  // Définir la date de fin (ajustable)\n  const endDate = new Date();\n  endDate.setMinutes(endDate.getMinutes() + 23); // ici 23 minutes à partir de maintenant\n\n  function updateCountdown() {\n    const now = new Date().getTime();\n    const distance = endDate - now;\n\n    if (distance <= 0) {\n      document.getElementById(\"countdown-timer\").textContent = \"0 jour 0 h 0 min 0 s\";\n      return;\n    }\n\n    const days = Math.floor(distance / (1000 * 60 * 60 * 24));\n    const hours = Math.floor((distance / (1000 * 60 * 60)) % 24);\n    const minutes = Math.floor((distance / (1000 * 60)) % 60);\n    const seconds = Math.floor((distance / 1000) % 60);\n\n    document.getElementById(\"countdown-timer\").textContent =\n      `${days} jour${days !== 1 ? \"s\" : \"\"} ${hours} h ${minutes} min ${seconds} s`;\n\n    setTimeout(updateCountdown, 1000);\n  }\n\n  updateCountdown();\n</script>"
           }
         },
+        "moon_bundle_upsell_gift_app_block_rMLB98": {
+          "type": "shopify://apps/moon-bundle-upsell-gift/blocks/app-block/aaf4cd95-8b9b-4a14-b929-0f7fc8fced27",
+          "settings": {
+            "moonbundle_selected_product": "{{section.settings.product}}"
+          }
+        },
         "pumper_bundles_quantity_breaks_app_block_qb_RHrcYJ": {
           "type": "shopify://apps/pumper-bundles/blocks/app-block-qb/0856870d-2aca-4b1e-a662-cf1797f61270",
+          "disabled": true,
           "settings": {
             "selected_product": "{{section.settings.product}}",
             "using_page_builder": false
@@ -502,6 +509,7 @@
         "liquid_YpPaff",
         "liquid_j7gQRr",
         "liquid_j6kKVn",
+        "moon_bundle_upsell_gift_app_block_rMLB98",
         "pumper_bundles_quantity_breaks_app_block_qb_RHrcYJ",
         "buy_buttons_tWRKkq",
         "pickup_availability_gDibVj",
