@@ -445,7 +445,7 @@
         "liquid_YpPaff": {
           "type": "liquid",
           "settings": {
-            "liquid": "<style>\n.elu-badge-small {\n  display: inline-block;\n  color: #000;\n  font-weight: bold;\n  font-size: 14px;\n  padding: 6px 10px;\n  border-radius: 999px;\n  font-family: 'Arial', sans-serif;\n  text-align: center;\n}\n\n.elu-badge-wrapper {\n  text-align: center;\n  margin: 10px 0;\n}\n</style>\n\n<div class=\"elu-badge-wrapper\">\n  <div class=\"elu-badge-small\">\n    🏅 ÉLU #1 COUSSIN ANTI‑CHUTE 2025\n  </div>\n</div>"
+            "liquid": "<style>\n.elu-badge-small {\n  display: inline-block;\n  color: #000;\n  font-weight: bold;\n  font-size: 14px;\n  padding: 6px 10px;\n  border-radius: 999px;\n  font-family: 'Arial', sans-serif;\n  text-align: center;\n}\n\n.elu-badge-wrapper {\n  text-align: center;\n  margin: 10px 0;\n}\n</style>\n\n<div class=\"elu-badge-wrapper\">\n  <div class=\"elu-badge-small\">\n    🏅 ÉLU #1 COUSSIN ANTI‑CHUTE DEPUIS 2023\n  </div>\n</div>"
           }
         },
         "liquid_j7gQRr": {
