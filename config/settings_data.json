@@ -87,6 +87,11 @@
         "type": "shopify://apps/square-sticky-add-to-cart-bar/blocks/app-embed/e98261d9-7a53-483b-8aaa-054afd5be639",
         "disabled": false,
         "settings": {}
+      },
+      "7421546185640437913": {
+        "type": "shopify://apps/tixel-multi-pixels/blocks/app-embed/b273c4b8-95ba-409d-a87c-c46907e02629",
+        "disabled": false,
+        "settings": {}
       }
     }
   },
