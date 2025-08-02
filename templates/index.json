@@ -16,7 +16,7 @@
           "type": "heading",
           "settings": {
             "text": "Un petit coussin pour un grand soulagement.",
-            "heading_tag": "h2"
+            "heading_tag": "h3"
           }
         }
       },
@@ -32,7 +32,7 @@
         "image": "shopify://shop_images/Image1SHOP.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
-        "text_color": "#343e61",
+        "text_color": "#363677",
         "overlay_color": "#000000",
         "overlay_opacity": 12
       }
