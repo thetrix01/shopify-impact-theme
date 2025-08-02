@@ -32,9 +32,9 @@
         "image": "shopify://shop_images/Image1SHOP.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
-        "text_color": "#292966",
+        "text_color": "#fcfcff",
         "overlay_color": "#000000",
-        "overlay_opacity": 9
+        "overlay_opacity": 14
       }
     },
     "slideshow": {
