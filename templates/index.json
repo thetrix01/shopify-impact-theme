@@ -9,6 +9,34 @@
  */
 {
   "sections": {
+    "image_with_text_overlay_8pF4JW": {
+      "type": "image-with-text-overlay",
+      "blocks": {
+        "heading_TfnEPC": {
+          "type": "heading",
+          "settings": {
+            "text": "Un petit coussin pour un grand soulagement.",
+            "heading_tag": "h2"
+          }
+        }
+      },
+      "block_order": [
+        "heading_TfnEPC"
+      ],
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/Image1SHOP.png",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#343e61",
+        "overlay_color": "#000000",
+        "overlay_opacity": 12
+      }
+    },
     "slideshow": {
       "type": "slideshow",
       "settings": {
@@ -21,22 +49,6 @@
         "cycle_speed": 6,
         "background": "#f2f2f2",
         "background_gradient": "linear-gradient(60deg, rgba(60, 65, 68, 1), rgba(23, 29, 33, 1) 98%)"
-      }
-    },
-    "image_with_text_overlay_8RcdxQ": {
-      "type": "image-with-text-overlay",
-      "name": "Image with text overlay",
-      "settings": {
-        "full_width": true,
-        "allow_transparent_header": false,
-        "enable_parallax": false,
-        "image_size": "auto",
-        "image": "shopify://shop_images/Protege_votre_enfant_pendant_ses_decouvertes_doux_et_fiable_1.png",
-        "mobile_text_position": "place-self-center text-center",
-        "desktop_text_position": "sm:place-self-center sm:text-center",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 0
       }
     },
     "rich_text_qQGPFp": {
@@ -1055,8 +1067,8 @@
     }
   },
   "order": [
+    "image_with_text_overlay_8pF4JW",
     "slideshow",
-    "image_with_text_overlay_8RcdxQ",
     "rich_text_qQGPFp",
     "logo_list_WDizdB",
     "impact_text_bEGmqa",
