@@ -15,7 +15,7 @@
         "heading_TfnEPC": {
           "type": "heading",
           "settings": {
-            "text": "Un petit coussin pour un grand soulagement.",
+            "text": "Protège votre enfant pendant ses découvertes, doux et fiable !",
             "heading_tag": "h3"
           }
         }
@@ -34,7 +34,7 @@
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#fcfcff",
         "overlay_color": "#000000",
-        "overlay_opacity": 7
+        "overlay_opacity": 19
       }
     },
     "slideshow": {
