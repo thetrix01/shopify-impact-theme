@@ -1,1 +1,99 @@
-{"sections":{"main":{"type":"main-not-found","settings":{}}},"order":["main"]}
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-not-found",
+      "disabled": true,
+      "settings": {}
+    },
+    "image_with_text_overlay_VNJRhe": {
+      "type": "image-with-text-overlay",
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/4EECF737-E41E-4618-AABD-1FAB66718E4E.png",
+        "mobile_image": "shopify://shop_images/8E815252-43DB-4758-ADC0-988A50EBFB8F.png",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
+    "logo_list_9hXY9j": {
+      "type": "logo-list",
+      "blocks": {
+        "logo_RrHGVM": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/8DEF01D4-63ED-44C1-842A-D445C1946A26_4_5005_c-Photoroom.png",
+            "logo_width": 300,
+            "link": ""
+          }
+        },
+        "logo_3fKYEw": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/31C5111F-2029-4FBF-83FE-DD5D973E1E21_4_5005_c-Photoroom.png",
+            "logo_width": 120,
+            "link": ""
+          }
+        },
+        "logo_QFdmW3": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/C07DBA9E-1F54-4D43-BB7F-88DF12FDAFBD_4_5005_c-Photoroom.png",
+            "logo_width": 120,
+            "link": ""
+          }
+        },
+        "logo_AKaRBt": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/FB9BB35D-B2C9-478F-AC04-8DC05E03AE7A_4_5005_c-Photoroom.png",
+            "logo_width": 300,
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "logo_RrHGVM",
+        "logo_3fKYEw",
+        "logo_QFdmW3",
+        "logo_AKaRBt"
+      ],
+      "name": "Logo list",
+      "settings": {
+        "full_width": true,
+        "stack_mobile": true,
+        "title": "Logo list",
+        "content": "",
+        "text_alignment": "start",
+        "items_per_row": 5,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "logo_item_background": "",
+        "logo_item_border": ""
+      }
+    }
+  },
+  "order": [
+    "main",
+    "image_with_text_overlay_VNJRhe",
+    "logo_list_9hXY9j"
+  ]
+}
