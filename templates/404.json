@@ -188,11 +188,48 @@
         "enable_parallax": false,
         "image_size": "auto",
         "image": "shopify://shop_images/NOUVEAUELUPRODUITDEL_ANNEE2025CHEVEUX_1024x712px_1500x1500px_4.webp",
+        "mobile_image": "shopify://shop_images/NOUVEAUELUPRODUITDEL_ANNEE2025CHEVEUX_1024x712px_1500x1500px_4.webp",
         "mobile_text_position": "place-self-center text-center",
-        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "desktop_text_position": "sm:place-self-start-center sm:text-center",
         "text_color": "#ffffff",
         "overlay_color": "#000000",
         "overlay_opacity": 0
+      }
+    },
+    "impact_text_94GGCQ": {
+      "type": "impact-text",
+      "blocks": {
+        "item_NmYKad": {
+          "type": "item",
+          "settings": {
+            "title": "",
+            "subheading": "Nos clients en parlent le mieux",
+            "content": "",
+            "button_text": "",
+            "button_url": "",
+            "animate_impact_text": false,
+            "animate_impact_text_duration": 2
+          }
+        }
+      },
+      "block_order": [
+        "item_NmYKad"
+      ],
+      "name": "Impact text",
+      "settings": {
+        "full_width": true,
+        "stack_mobile": true,
+        "text_alignment": "center",
+        "impact_text_style": "fill",
+        "text_divider": "none",
+        "impact_text_size_ratio": 1,
+        "background": "",
+        "background_gradient": "",
+        "heading_text_color": "",
+        "heading_gradient": "",
+        "text_color": "",
+        "button_background": "",
+        "button_text_color": ""
       }
     }
   },
@@ -203,6 +240,7 @@
     "impact_text_FfCjLG",
     "image_with_text_overlay_4m7DTH",
     "impact_text_mYnp3R",
-    "image_with_text_overlay_6JTPTf"
+    "image_with_text_overlay_6JTPTf",
+    "impact_text_94GGCQ"
   ]
 }
