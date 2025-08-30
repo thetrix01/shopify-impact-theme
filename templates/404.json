@@ -214,7 +214,7 @@
         "drag_initial_position": 50,
         "background": "",
         "background_gradient": "",
-        "text_color": "",
+        "text_color": "#205275",
         "before_text_color": "#ffffff",
         "after_text_color": "#ffffff",
         "drag_cursor_background": "#ffffff",
