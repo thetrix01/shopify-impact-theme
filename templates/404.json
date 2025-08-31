@@ -256,6 +256,46 @@
         "button_background": "",
         "button_text_color": ""
       }
+    },
+    "images_with_text_scrolling_pmMKpU": {
+      "type": "images-with-text-scrolling",
+      "blocks": {
+        "item_6EY6aU": {
+          "type": "item",
+          "settings": {
+            "icon": "none",
+            "icon_width": 48,
+            "title": "Heading 1",
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+          }
+        },
+        "item_HdfMEd": {
+          "type": "item",
+          "settings": {
+            "icon": "none",
+            "icon_width": 48,
+            "title": "Heading 2",
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_6EY6aU",
+        "item_HdfMEd"
+      ],
+      "name": "Images and text scrolling",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "show_counter": true,
+        "desktop_image_effect": "reveal",
+        "image_position": "end",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
+      }
     }
   },
   "order": [
@@ -267,6 +307,7 @@
     "impact_text_mYnp3R",
     "image_with_text_overlay_6JTPTf",
     "before_after_image_6zReCy",
-    "impact_text_94GGCQ"
+    "impact_text_94GGCQ",
+    "images_with_text_scrolling_pmMKpU"
   ]
 }
