@@ -362,6 +362,12 @@
             "size_chart_page": ""
           }
         },
+        "moon_bundle_upsell_gift_app_block_wakKeQ": {
+          "type": "shopify://apps/moon-bundle-upsell-gift/blocks/app-block/aaf4cd95-8b9b-4a14-b929-0f7fc8fced27",
+          "settings": {
+            "moonbundle_selected_product": "{{section.settings.product}}"
+          }
+        },
         "buy_buttons_KUGPfM": {
           "type": "buy_buttons",
           "settings": {
@@ -387,6 +393,7 @@
         "separator_JPKTKN",
         "description_aMJiVt",
         "variant_picker_tRtajm",
+        "moon_bundle_upsell_gift_app_block_wakKeQ",
         "buy_buttons_KUGPfM",
         "pickup_availability_7pNicD"
       ],
