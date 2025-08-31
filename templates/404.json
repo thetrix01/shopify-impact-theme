@@ -369,9 +369,9 @@
         "buy_buttons_KUGPfM": {
           "type": "buy_buttons",
           "settings": {
-            "show_payment_button": true,
+            "show_payment_button": false,
             "show_gift_card_recipient": true,
-            "atc_button_background": "#205275",
+            "atc_button_background": "#25b69c",
             "atc_button_text_color": "",
             "payment_button_background": "#205275",
             "payment_button_text_color": ""
