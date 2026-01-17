@@ -210,6 +210,56 @@
         "heading_gradient": ""
       }
     },
+    "images_with_text_scrolling_UUT3wz": {
+      "type": "images-with-text-scrolling",
+      "blocks": {
+        "item_WKVYfb": {
+          "type": "item",
+          "settings": {
+            "icon": "none",
+            "icon_width": 48,
+            "title": "Heading",
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+          }
+        },
+        "item_QTfRr6": {
+          "type": "item",
+          "settings": {
+            "icon": "none",
+            "icon_width": 48,
+            "title": "Heading 1",
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+          }
+        },
+        "item_rRppMy": {
+          "type": "item",
+          "settings": {
+            "icon": "none",
+            "icon_width": 48,
+            "title": "Heading 2",
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_WKVYfb",
+        "item_QTfRr6",
+        "item_rRppMy"
+      ],
+      "name": "Images and text scrolling",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "show_counter": false,
+        "desktop_image_effect": "reveal",
+        "image_position": "start",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
+      }
+    },
     "logo_list_9hXY9j": {
       "type": "logo-list",
       "blocks": {
@@ -303,21 +353,6 @@
         "text_color": "",
         "button_background": "",
         "button_text_color": ""
-      }
-    },
-    "image_with_text_overlay_6JTPTf": {
-      "type": "image-with-text-overlay",
-      "name": "Image with text overlay",
-      "settings": {
-        "full_width": true,
-        "allow_transparent_header": false,
-        "enable_parallax": false,
-        "image_size": "auto",
-        "mobile_text_position": "place-self-center text-center",
-        "desktop_text_position": "sm:place-self-start-center sm:text-center",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 0
       }
     },
     "before_after_image_6zReCy": {
@@ -500,9 +535,9 @@
     "image_with_text_overlay_4m7DTH",
     "custom_liquid_hzyadc",
     "images_with_text_scrolling_HfY398",
+    "images_with_text_scrolling_UUT3wz",
     "logo_list_9hXY9j",
     "impact_text_mYnp3R",
-    "image_with_text_overlay_6JTPTf",
     "before_after_image_6zReCy",
     "impact_text_94GGCQ",
     "scrolling_text_rfMiXU",
