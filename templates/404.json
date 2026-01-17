@@ -41,6 +41,175 @@
         "overlay_opacity": 0
       }
     },
+    "logo_list_9DgaLX": {
+      "type": "logo-list",
+      "blocks": {
+        "logo_pikhi6": {
+          "type": "logo",
+          "settings": {
+            "logo_width": 120,
+            "link": ""
+          }
+        },
+        "logo_QU4JJV": {
+          "type": "logo",
+          "settings": {
+            "logo_width": 120,
+            "link": ""
+          }
+        },
+        "logo_GkzDRf": {
+          "type": "logo",
+          "settings": {
+            "logo_width": 120,
+            "link": ""
+          }
+        },
+        "logo_fNqqLY": {
+          "type": "logo",
+          "settings": {
+            "logo_width": 120,
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "logo_pikhi6",
+        "logo_QU4JJV",
+        "logo_GkzDRf",
+        "logo_fNqqLY"
+      ],
+      "name": "Logo list",
+      "settings": {
+        "full_width": true,
+        "stack_mobile": true,
+        "title": "VU SUR \" tf1   rmc sport",
+        "content": "",
+        "text_alignment": "center",
+        "items_per_row": 5,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "logo_item_background": "",
+        "logo_item_border": ""
+      }
+    },
+    "impact_text_FfCjLG": {
+      "type": "impact-text",
+      "blocks": {
+        "item_YhabDL": {
+          "type": "item",
+          "settings": {
+            "title": "100%",
+            "subheading": "pourquoi nous choisir :",
+            "content": "",
+            "button_text": "",
+            "button_url": "",
+            "animate_impact_text": false,
+            "animate_impact_text_duration": 2
+          }
+        }
+      },
+      "block_order": [
+        "item_YhabDL"
+      ],
+      "name": "Impact text",
+      "settings": {
+        "full_width": true,
+        "stack_mobile": true,
+        "text_alignment": "center",
+        "impact_text_style": "fill",
+        "text_divider": "none",
+        "impact_text_size_ratio": 1,
+        "background": "",
+        "background_gradient": "",
+        "heading_text_color": "",
+        "heading_gradient": "",
+        "text_color": "",
+        "button_background": "",
+        "button_text_color": ""
+      }
+    },
+    "image_with_text_overlay_4m7DTH": {
+      "type": "image-with-text-overlay",
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
+    "custom_liquid_hzyadc": {
+      "type": "custom-liquid",
+      "name": "Custom Liquid",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "liquid": "{% comment %}\n  Lumi-Trek – Grid vidéos autoplay\n  Compatible MP4 (Shopify Files)\n{% endcomment %}\n\n{% assign columns = 3 %}\n\n{% assign video_urls = \"\nhttps://cdn.shopify.com/videos/c/o/v/VIDEO1.mp4,\nhttps://cdn.shopify.com/videos/c/o/v/VIDEO2.mp4,\nhttps://cdn.shopify.com/videos/c/o/v/VIDEO3.mp4,\n\n\" | strip | split: \",\" %}\n\n<style>\n  .lt-videos {\n    display: grid;\n    grid-template-columns: repeat({{ columns }}, minmax(0, 1fr));\n    gap: 16px;\n    margin: 32px 0;\n  }\n\n  .lt-video {\n    position: relative;\n    width: 100%;\n    border-radius: 18px;\n    overflow: hidden;\n    background: #000;\n  }\n\n  /* Format vertical 9:16 (TikTok / Reels) */\n  .lt-video::before {\n    content: \"\";\n    display: block;\n    padding-top: 177.78%;\n  }\n\n  .lt-video video {\n    position: absolute;\n    inset: 0;\n    width: 100%;\n    height: 100%;\n    object-fit: cover;\n  }\n\n  /* Responsive */\n  @media (max-width: 990px) {\n    .lt-videos { grid-template-columns: repeat(2, 1fr); }\n  }\n\n  @media (max-width: 560px) {\n    .lt-videos { grid-template-columns: 1fr; }\n  }\n</style>\n\n<div class=\"lt-videos\">\n  {% for url in video_urls %}\n    {% assign u = url | strip %}\n    {% if u == blank %}{% continue %}{% endif %}\n\n    <div class=\"lt-video\">\n      <video\n        src=\"{{ u }}\"\n        autoplay\n        muted\n        loop\n        playsinline\n        preload=\"metadata\">\n      </video>\n    </div>\n  {% endfor %}\n</div>",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "images_with_text_scrolling_HfY398": {
+      "type": "images-with-text-scrolling",
+      "blocks": {
+        "item_nCcbAA": {
+          "type": "item",
+          "settings": {
+            "icon": "none",
+            "icon_width": 48,
+            "title": "Heading",
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+          }
+        },
+        "item_N9QcfH": {
+          "type": "item",
+          "settings": {
+            "icon": "none",
+            "icon_width": 48,
+            "title": "Heading 1",
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+          }
+        },
+        "item_fAKTFb": {
+          "type": "item",
+          "settings": {
+            "icon": "none",
+            "icon_width": 48,
+            "title": "Heading 2",
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_nCcbAA",
+        "item_N9QcfH",
+        "item_fAKTFb"
+      ],
+      "name": "Images and text scrolling",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "show_counter": false,
+        "desktop_image_effect": "reveal",
+        "image_position": "start",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
+      }
+    },
     "logo_list_9hXY9j": {
       "type": "logo-list",
       "blocks": {
@@ -98,70 +267,6 @@
         "heading_gradient": "",
         "logo_item_background": "",
         "logo_item_border": ""
-      }
-    },
-    "impact_text_FfCjLG": {
-      "type": "impact-text",
-      "blocks": {
-        "item_YhabDL": {
-          "type": "item",
-          "settings": {
-            "title": "100%",
-            "subheading": "Showcase a benefit of your product",
-            "content": "",
-            "button_text": "",
-            "button_url": "",
-            "animate_impact_text": false,
-            "animate_impact_text_duration": 2
-          }
-        },
-        "item_bme3tr": {
-          "type": "item",
-          "settings": {
-            "title": "",
-            "subheading": "Et si vous découvriez pourquoi tant d’hommes et de femmes adoptent la Micro-Infusion Capillia ?",
-            "content": "",
-            "button_text": "",
-            "button_url": "",
-            "animate_impact_text": false,
-            "animate_impact_text_duration": 2
-          }
-        }
-      },
-      "block_order": [
-        "item_YhabDL",
-        "item_bme3tr"
-      ],
-      "name": "Impact text",
-      "settings": {
-        "full_width": true,
-        "stack_mobile": true,
-        "text_alignment": "center",
-        "impact_text_style": "fill",
-        "text_divider": "none",
-        "impact_text_size_ratio": 1,
-        "background": "",
-        "background_gradient": "",
-        "heading_text_color": "",
-        "heading_gradient": "",
-        "text_color": "",
-        "button_background": "",
-        "button_text_color": ""
-      }
-    },
-    "image_with_text_overlay_4m7DTH": {
-      "type": "image-with-text-overlay",
-      "name": "Image with text overlay",
-      "settings": {
-        "full_width": true,
-        "allow_transparent_header": false,
-        "enable_parallax": false,
-        "image_size": "auto",
-        "mobile_text_position": "place-self-center text-center",
-        "desktop_text_position": "sm:place-self-center sm:text-center",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 0
       }
     },
     "impact_text_mYnp3R": {
@@ -272,46 +377,6 @@
         "text_color": "",
         "button_background": "",
         "button_text_color": ""
-      }
-    },
-    "images_with_text_scrolling_HfY398": {
-      "type": "images-with-text-scrolling",
-      "blocks": {
-        "item_N9QcfH": {
-          "type": "item",
-          "settings": {
-            "icon": "none",
-            "icon_width": 48,
-            "title": "Heading 1",
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
-          }
-        },
-        "item_fAKTFb": {
-          "type": "item",
-          "settings": {
-            "icon": "none",
-            "icon_width": 48,
-            "title": "Heading 2",
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "item_N9QcfH",
-        "item_fAKTFb"
-      ],
-      "name": "Images and text scrolling",
-      "settings": {
-        "full_width": true,
-        "stack_on_mobile": false,
-        "show_counter": false,
-        "desktop_image_effect": "reveal",
-        "image_position": "start",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": ""
       }
     },
     "scrolling_text_rfMiXU": {
@@ -425,34 +490,22 @@
         "input_background": "rgba(0,0,0,0)",
         "input_text_color": ""
       }
-    },
-    "custom_liquid_hzyadc": {
-      "type": "custom-liquid",
-      "name": "Custom Liquid",
-      "settings": {
-        "full_width": true,
-        "remove_vertical_spacing": false,
-        "remove_horizontal_spacing": false,
-        "liquid": "{% comment %}\n  Lumi-Trek – Grid vidéos autoplay\n  Compatible MP4 (Shopify Files)\n{% endcomment %}\n\n{% assign columns = 3 %}\n\n{% assign video_urls = \"\nhttps://cdn.shopify.com/videos/c/o/v/VIDEO1.mp4,\nhttps://cdn.shopify.com/videos/c/o/v/VIDEO2.mp4,\nhttps://cdn.shopify.com/videos/c/o/v/VIDEO3.mp4,\nhttps://cdn.shopify.com/videos/c/o/v/VIDEO4.mp4\n\" | strip | split: \",\" %}\n\n<style>\n  .lt-videos {\n    display: grid;\n    grid-template-columns: repeat({{ columns }}, minmax(0, 1fr));\n    gap: 16px;\n    margin: 32px 0;\n  }\n\n  .lt-video {\n    position: relative;\n    width: 100%;\n    border-radius: 18px;\n    overflow: hidden;\n    background: #000;\n  }\n\n  /* Format vertical 9:16 (TikTok / Reels) */\n  .lt-video::before {\n    content: \"\";\n    display: block;\n    padding-top: 177.78%;\n  }\n\n  .lt-video video {\n    position: absolute;\n    inset: 0;\n    width: 100%;\n    height: 100%;\n    object-fit: cover;\n  }\n\n  /* Responsive */\n  @media (max-width: 990px) {\n    .lt-videos { grid-template-columns: repeat(2, 1fr); }\n  }\n\n  @media (max-width: 560px) {\n    .lt-videos { grid-template-columns: 1fr; }\n  }\n</style>\n\n<div class=\"lt-videos\">\n  {% for url in video_urls %}\n    {% assign u = url | strip %}\n    {% if u == blank %}{% continue %}{% endif %}\n\n    <div class=\"lt-video\">\n      <video\n        src=\"{{ u }}\"\n        autoplay\n        muted\n        loop\n        playsinline\n        preload=\"metadata\">\n      </video>\n    </div>\n  {% endfor %}\n</div>",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
     }
   },
   "order": [
     "main",
     "image_with_text_overlay_VNJRhe",
-    "logo_list_9hXY9j",
+    "logo_list_9DgaLX",
     "impact_text_FfCjLG",
     "image_with_text_overlay_4m7DTH",
+    "custom_liquid_hzyadc",
+    "images_with_text_scrolling_HfY398",
+    "logo_list_9hXY9j",
     "impact_text_mYnp3R",
     "image_with_text_overlay_6JTPTf",
     "before_after_image_6zReCy",
     "impact_text_94GGCQ",
-    "images_with_text_scrolling_HfY398",
     "scrolling_text_rfMiXU",
-    "featured_product_ra9bF7",
-    "custom_liquid_hzyadc"
+    "featured_product_ra9bF7"
   ]
 }
