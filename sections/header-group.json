@@ -17,7 +17,7 @@
         "message_DmLE7R": {
           "type": "message",
           "settings": {
-            "text": "Offre Rentée à durée limitée !",
+            "text": "Satisfait ou Remboursé",
             "url": ""
           }
         },
@@ -46,7 +46,7 @@
         "text_size": "text-xs",
         "navigation_mode": "scrolling",
         "scrolling_speed": 10,
-        "background": "#205275",
+        "background": "#52b788",
         "background_gradient": "",
         "text_color": "#ffffff"
       }
@@ -56,7 +56,6 @@
       "settings": {
         "enable_sticky": true,
         "hide_on_scroll": false,
-        "logo": "shopify://shop_images/5A54705C-12DD-4000-A424-E8FC20AD3542_1_201_a.jpg",
         "logo_max_width": 185,
         "logo_mobile_max_width": 125,
         "menu": "main-menu",
