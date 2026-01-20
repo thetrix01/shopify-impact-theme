@@ -176,6 +176,7 @@
           "type": "item",
           "settings": {
             "icon": "none",
+            "custom_icon": "shopify://shop_images/video_gif_lampe_etanche.png",
             "icon_width": 48,
             "title": "Heading 1",
             "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
@@ -216,7 +217,9 @@
         "item_WKVYfb": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/Lampe_frontale_LUMI-TREK_en_action_1.png",
             "icon": "none",
+            "custom_icon": "shopify://shop_images/image_lampe_multiple.avif",
             "icon_width": 48,
             "title": "Heading",
             "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
@@ -363,6 +366,8 @@
         "subheading": "",
         "title": " Avant / Après notre micro-infusion Capillia",
         "content": "",
+        "before_image": "shopify://shop_images/ChatGPT_Image_20_janv._2026_19_57_27.png",
+        "after_image": "shopify://shop_images/ChatGPT_Image_20_janv._2026_19_57_27.png",
         "expand_image": false,
         "text_position": "center",
         "before_after_text_position": "top",
