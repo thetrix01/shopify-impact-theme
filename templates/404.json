@@ -166,7 +166,9 @@
         "item_nCcbAA": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/Lampe_frontale_LUMI-TREK_en_action.png",
             "icon": "none",
+            "custom_icon": "shopify://shop_images/Lampe_frontale_LUMI-TREK_en_action.png",
             "icon_width": 48,
             "title": "Heading",
             "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
@@ -228,6 +230,7 @@
         "item_QTfRr6": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/image_lampe_etanche.webp",
             "icon": "none",
             "icon_width": 48,
             "title": "Heading 1",
