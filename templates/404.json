@@ -154,7 +154,7 @@
         "full_width": true,
         "remove_vertical_spacing": false,
         "remove_horizontal_spacing": false,
-        "liquid": "{% comment %}\n  Lumi-Trek – Grid vidéos autoplay\n  Compatible MP4 (Shopify Files)\n{% endcomment %}\n\n{% assign columns = 3 %}\n\n{% assign video_urls = \"\nhttps://cdn.shopify.com/videos/c/o/v/VIDEO1.mp4,\nhttps://cdn.shopify.com/videos/c/o/v/VIDEO2.mp4,\nhttps://cdn.shopify.com/videos/c/o/v/VIDEO3.mp4,\n\n\" | strip | split: \",\" %}\n\n<style>\n  .lt-videos {\n    display: grid;\n    grid-template-columns: repeat({{ columns }}, minmax(0, 1fr));\n    gap: 16px;\n    margin: 32px 0;\n  }\n\n  .lt-video {\n    position: relative;\n    width: 100%;\n    border-radius: 18px;\n    overflow: hidden;\n    background: #000;\n  }\n\n  /* Format vertical 9:16 (TikTok / Reels) */\n  .lt-video::before {\n    content: \"\";\n    display: block;\n    padding-top: 177.78%;\n  }\n\n  .lt-video video {\n    position: absolute;\n    inset: 0;\n    width: 100%;\n    height: 100%;\n    object-fit: cover;\n  }\n\n  /* Responsive */\n  @media (max-width: 990px) {\n    .lt-videos { grid-template-columns: repeat(2, 1fr); }\n  }\n\n  @media (max-width: 560px) {\n    .lt-videos { grid-template-columns: 1fr; }\n  }\n</style>\n\n<div class=\"lt-videos\">\n  {% for url in video_urls %}\n    {% assign u = url | strip %}\n    {% if u == blank %}{% continue %}{% endif %}\n\n    <div class=\"lt-video\">\n      <video\n        src=\"{{ u }}\"\n        autoplay\n        muted\n        loop\n        playsinline\n        preload=\"metadata\">\n      </video>\n    </div>\n  {% endfor %}\n</div>",
+        "liquid": "{% comment %}\n  Lumi-Trek – Grid vidéos autoplay\n  3 vidéos côte à côte même sur mobile\n  Compatible MP4 (Shopify Files)\n{% endcomment %}\n\n{% assign columns = 3 %}\n\n{% assign video_urls = \"\nhttps://cdn.shopify.com/videos/c/o/v/VIDEO1.mp4,\nhttps://cdn.shopify.com/videos/c/o/v/VIDEO2.mp4,\nhttps://cdn.shopify.com/videos/c/o/v/VIDEO3.mp4\n\" | strip | split: \",\" %}\n\n<style>\n  .lt-videos {\n    display: grid;\n    grid-template-columns: repeat({{ columns }}, minmax(0, 1fr));\n    gap: 12px;\n    margin: 24px 0;\n  }\n\n  .lt-video {\n    position: relative;\n    width: 100%;\n    border-radius: 14px;\n    overflow: hidden;\n    background: #000;\n  }\n\n  /* Format vertical 9:16 (TikTok / Reels) */\n  .lt-video::before {\n    content: \"\";\n    display: block;\n    padding-top: 177.78%;\n  }\n\n  .lt-video video {\n    position: absolute;\n    inset: 0;\n    width: 100%;\n    height: 100%;\n    object-fit: cover;\n  }\n\n  /* Mobile tweaks (TOUJOURS 3 COLONNES) */\n  @media (max-width: 768px) {\n    .lt-videos {\n      gap: 8px;\n    }\n\n    .lt-video {\n      border-radius: 10px;\n    }\n  }\n</style>\n\n<div class=\"lt-videos\">\n  {% for url in video_urls %}\n    {% assign u = url | strip %}\n    {% if u == blank %}{% continue %}{% endif %}\n\n    <div class=\"lt-video\">\n      <video\n        src=\"{{ u }}\"\n        autoplay\n        muted\n        loop\n        playsinline\n        preload=\"metadata\">\n      </video>\n    </div>\n  {% endfor %}\n</div>",
         "background": "",
         "background_gradient": "",
         "text_color": ""
@@ -203,7 +203,7 @@
       "name": "Images and text scrolling",
       "settings": {
         "full_width": true,
-        "stack_on_mobile": false,
+        "stack_on_mobile": true,
         "show_counter": false,
         "desktop_image_effect": "fade",
         "image_position": "start",
