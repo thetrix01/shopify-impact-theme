@@ -177,6 +177,7 @@
         "item_N9QcfH": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/video_gif_lampe_etanche_61d84cc7-dc59-4799-a316-4e3c78909b3d.png",
             "icon": "none",
             "custom_icon": "shopify://shop_images/video_gif_lampe_etanche.png",
             "icon_width": 48,
