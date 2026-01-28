@@ -140,6 +140,8 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
+        "image": "shopify://shop_images/ChatGPT_Image_28_janv._2026_08_13_35.png",
+        "mobile_image": "shopify://shop_images/ChatGPT_Image_27_janv._2026_14_22_12.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -176,6 +178,7 @@
         },
         "item_N9QcfH": {
           "type": "item",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/video_gif_lampe_etanche_61d84cc7-dc59-4799-a316-4e3c78909b3d.png",
             "icon": "none",
@@ -188,10 +191,11 @@
         "item_fAKTFb": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/ChatGPT_Image_25_janv._2026_15_44_01.png",
             "icon": "none",
-            "icon_width": 48,
-            "title": "Heading 2",
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+            "icon_width": 24,
+            "title": "Résistante à l’eau & aux chocs",
+            "content": "<p>Pluie, boue, poussière : Lumi-Trek continue d’éclairer quand tu en as besoin.</p>"
           }
         }
       },
@@ -241,6 +245,7 @@
         "item_rRppMy": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/ChatGPT_Image_25_janv._2026_15_34_21.png",
             "icon": "none",
             "icon_width": 48,
             "title": "Heading 2",
