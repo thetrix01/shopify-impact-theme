@@ -17,6 +17,13 @@
     "image_with_text_overlay_VNJRhe": {
       "type": "image-with-text-overlay",
       "blocks": {
+        "liquid_P39aCD": {
+          "type": "liquid",
+          "disabled": true,
+          "settings": {
+            "liquid": "<p>Use this text to output some custom Liquid code to include widget or dynamic code.</p>"
+          }
+        },
         "button_p4r9pk": {
           "type": "button",
           "settings": {
@@ -27,18 +34,11 @@
             "background": "",
             "text_color": ""
           }
-        },
-        "liquid_P39aCD": {
-          "type": "liquid",
-          "disabled": true,
-          "settings": {
-            "liquid": "<p>Use this text to output some custom Liquid code to include widget or dynamic code.</p>"
-          }
         }
       },
       "block_order": [
-        "button_p4r9pk",
-        "liquid_P39aCD"
+        "liquid_P39aCD",
+        "button_p4r9pk"
       ],
       "name": "Image with text overlay",
       "settings": {
@@ -61,28 +61,32 @@
         "logo_pikhi6": {
           "type": "logo",
           "settings": {
-            "logo_width": 120,
+            "logo": "shopify://shop_images/ChatGPT_Image_9_mai_2026_23_06_00.png",
+            "logo_width": 300,
             "link": ""
           }
         },
         "logo_QU4JJV": {
           "type": "logo",
           "settings": {
-            "logo_width": 120,
+            "logo": "shopify://shop_images/ChatGPT_Image_9_mai_2026_23_04_33.png",
+            "logo_width": 300,
             "link": ""
           }
         },
         "logo_GkzDRf": {
           "type": "logo",
           "settings": {
-            "logo_width": 120,
+            "logo": "shopify://shop_images/ChatGPT_Image_9_mai_2026_23_07_53.png",
+            "logo_width": 300,
             "link": ""
           }
         },
         "logo_fNqqLY": {
           "type": "logo",
           "settings": {
-            "logo_width": 120,
+            "logo": "shopify://shop_images/ChatGPT_Image_9_mai_2026_23_04_18.png",
+            "logo_width": 300,
             "link": ""
           }
         }
@@ -97,7 +101,7 @@
       "settings": {
         "full_width": true,
         "stack_mobile": true,
-        "title": "VU SUR \" tf1   rmc sport",
+        "title": "Inspiré par les standards de la beauté premium.",
         "content": "",
         "text_alignment": "center",
         "items_per_row": 5,
@@ -115,6 +119,7 @@
       "blocks": {
         "item_YhabDL": {
           "type": "item",
+          "disabled": true,
           "settings": {
             "title": "100%",
             "subheading": "pourquoi nous choisir :",
@@ -154,6 +159,8 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
+        "image": "shopify://shop_images/ChatGPT_Image_9_mai_2026_18_18_11.png",
+        "mobile_image": "shopify://shop_images/ChatGPT_Image_9_mai_2026_18_18_11.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -161,17 +168,38 @@
         "overlay_opacity": 0
       }
     },
-    "custom_liquid_hzyadc": {
-      "type": "custom-liquid",
-      "name": "Custom Liquid",
+    "image_with_text_overlay_xktxMx": {
+      "type": "image-with-text-overlay",
+      "name": "Image with text overlay",
       "settings": {
         "full_width": true,
-        "remove_vertical_spacing": false,
-        "remove_horizontal_spacing": false,
-        "liquid": "{% comment %}\n  Lumi-Trek – Grid vidéos autoplay\n  3 vidéos côte à côte même sur mobile\n  Compatible MP4 (Shopify Files)\n{% endcomment %}\n\n{% assign columns = 3 %}\n\n{% assign video_urls = \"\nhttps://cdn.shopify.com/videos/c/o/v/3383b6f4ef7544ccb453e2157de4bd8b.mp4,\nhttps://cdn.shopify.com/videos/c/o/v/4f52735e9b39458a8f863a80b9536a87.mp4,\nhttps://cdn.shopify.com/videos/c/o/v/a94f5604d5584465a5f92c82319ff120.mp4\n\" | strip | split: \",\" %}\n\n<style>\n  .lt-videos {\n    display: grid;\n    grid-template-columns: repeat({{ columns }}, minmax(0, 1fr));\n    gap: 12px;\n    margin: 24px 0;\n  }\n\n  .lt-video {\n    position: relative;\n    width: 100%;\n    border-radius: 14px;\n    overflow: hidden;\n    background: #000;\n  }\n\n  /* Format vertical 9:16 (TikTok / Reels) */\n  .lt-video::before {\n    content: \"\";\n    display: block;\n    padding-top: 177.78%;\n  }\n\n  .lt-video video {\n    position: absolute;\n    inset: 0;\n    width: 100%;\n    height: 100%;\n    object-fit: cover;\n  }\n\n  /* Mobile tweaks (TOUJOURS 3 COLONNES) */\n  @media (max-width: 768px) {\n    .lt-videos {\n      gap: 8px;\n    }\n\n    .lt-video {\n      border-radius: 10px;\n    }\n  }\n</style>\n\n<div class=\"lt-videos\">\n  {% for url in video_urls %}\n    {% assign u = url | strip %}\n    {% if u == blank %}{% continue %}{% endif %}\n\n    <div class=\"lt-video\">\n      <video\n        src=\"{{ u }}\"\n        autoplay\n        muted\n        loop\n        playsinline\n        preload=\"metadata\">\n      </video>\n    </div>\n  {% endfor %}\n</div>",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/ChatGPT_Image_9_mai_2026_18_17_44.png",
+        "mobile_image": "shopify://shop_images/ChatGPT_Image_9_mai_2026_18_17_44.png",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
+    "image_with_text_overlay_8VJtQi": {
+      "type": "image-with-text-overlay",
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/ChatGPT_Image_9_mai_2026_18_18_04.png",
+        "mobile_image": "shopify://shop_images/ChatGPT_Image_9_mai_2026_18_18_04.png",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
       }
     },
     "images_with_text_scrolling_HfY398": {
@@ -179,37 +207,17 @@
       "blocks": {
         "item_nCcbAA": {
           "type": "item",
+          "disabled": true,
           "settings": {
             "icon": "none",
             "icon_width": 48,
             "title": "Heading",
             "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
           }
-        },
-        "item_N9QcfH": {
-          "type": "item",
-          "disabled": true,
-          "settings": {
-            "icon": "none",
-            "icon_width": 48,
-            "title": "Heading 1",
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
-          }
-        },
-        "item_fAKTFb": {
-          "type": "item",
-          "settings": {
-            "icon": "none",
-            "icon_width": 24,
-            "title": "Résistante à l’eau & aux chocs",
-            "content": "<p>Pluie, boue, poussière : Lumi-Trek continue d’éclairer quand tu en as besoin.</p>"
-          }
         }
       },
       "block_order": [
-        "item_nCcbAA",
-        "item_N9QcfH",
-        "item_fAKTFb"
+        "item_nCcbAA"
       ],
       "name": "Images and text scrolling",
       "settings": {
@@ -228,38 +236,19 @@
     "images_with_text_scrolling_UUT3wz": {
       "type": "images-with-text-scrolling",
       "blocks": {
-        "item_WKVYfb": {
-          "type": "item",
-          "settings": {
-            "icon": "none",
-            "icon_width": 48,
-            "title": "Heading",
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
-          }
-        },
         "item_QTfRr6": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/ChatGPT_Image_9_mai_2026_18_18_04.png",
             "icon": "none",
             "icon_width": 48,
             "title": "Heading 1",
             "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
           }
-        },
-        "item_rRppMy": {
-          "type": "item",
-          "settings": {
-            "icon": "none",
-            "icon_width": 48,
-            "title": "Heading 2",
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
-          }
         }
       },
       "block_order": [
-        "item_WKVYfb",
-        "item_QTfRr6",
-        "item_rRppMy"
+        "item_QTfRr6"
       ],
       "name": "Images and text scrolling",
       "settings": {
@@ -313,6 +302,7 @@
         "logo_QFdmW3",
         "logo_AKaRBt"
       ],
+      "disabled": true,
       "name": "Logo list",
       "settings": {
         "full_width": true,
@@ -544,7 +534,8 @@
     "logo_list_9DgaLX",
     "impact_text_FfCjLG",
     "image_with_text_overlay_4m7DTH",
-    "custom_liquid_hzyadc",
+    "image_with_text_overlay_xktxMx",
+    "image_with_text_overlay_8VJtQi",
     "images_with_text_scrolling_HfY398",
     "images_with_text_scrolling_UUT3wz",
     "logo_list_9hXY9j",
