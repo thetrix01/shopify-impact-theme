@@ -17,14 +17,27 @@
     "image_with_text_overlay_VNJRhe": {
       "type": "image-with-text-overlay",
       "blocks": {
+        "button_p4r9pk": {
+          "type": "button",
+          "settings": {
+            "style": "fill",
+            "size": "lg",
+            "text": "Découvrir VELOA Pro™",
+            "url": "",
+            "background": "",
+            "text_color": ""
+          }
+        },
         "liquid_P39aCD": {
           "type": "liquid",
+          "disabled": true,
           "settings": {
             "liquid": "<p>Use this text to output some custom Liquid code to include widget or dynamic code.</p>"
           }
         }
       },
       "block_order": [
+        "button_p4r9pk",
         "liquid_P39aCD"
       ],
       "name": "Image with text overlay",
