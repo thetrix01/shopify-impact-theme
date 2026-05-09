@@ -17,7 +17,7 @@
         "message_DmLE7R": {
           "type": "message",
           "settings": {
-            "text": "Satisfait ou Remboursé",
+            "text": "Satisfait ou Remboursé 30 jours",
             "url": ""
           }
         },
@@ -57,8 +57,8 @@
         "enable_sticky": true,
         "hide_on_scroll": false,
         "logo": "shopify://shop_images/veloa-logo-transparent.svg",
-        "logo_max_width": 185,
-        "logo_mobile_max_width": 125,
+        "logo_max_width": 110,
+        "logo_mobile_max_width": 70,
         "menu": "main-menu",
         "sidebar_menu": "",
         "secondary_menu": "",
