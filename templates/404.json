@@ -33,7 +33,8 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/ChatGPT_Image_20_janv._2026_14_34_30.png",
+        "image": "shopify://shop_images/ChatGPT_Image_9_mai_2026_18_39_38.png",
+        "mobile_image": "shopify://shop_images/ChatGPT_Image_9_mai_2026_18_39_38.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -140,8 +141,6 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/ChatGPT_Image_28_janv._2026_08_13_35.png",
-        "mobile_image": "shopify://shop_images/ChatGPT_Image_27_janv._2026_14_22_12.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -168,9 +167,7 @@
         "item_nCcbAA": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Lampe_frontale_LUMI-TREK_en_action.png",
             "icon": "none",
-            "custom_icon": "shopify://shop_images/Lampe_frontale_LUMI-TREK_en_action.png",
             "icon_width": 48,
             "title": "Heading",
             "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
@@ -180,9 +177,7 @@
           "type": "item",
           "disabled": true,
           "settings": {
-            "image": "shopify://shop_images/video_gif_lampe_etanche_61d84cc7-dc59-4799-a316-4e3c78909b3d.png",
             "icon": "none",
-            "custom_icon": "shopify://shop_images/video_gif_lampe_etanche.png",
             "icon_width": 48,
             "title": "Heading 1",
             "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
@@ -191,7 +186,6 @@
         "item_fAKTFb": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/ChatGPT_Image_25_janv._2026_15_44_01.png",
             "icon": "none",
             "icon_width": 24,
             "title": "Résistante à l’eau & aux chocs",
@@ -224,9 +218,7 @@
         "item_WKVYfb": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Lampe_frontale_LUMI-TREK_en_action_1.png",
             "icon": "none",
-            "custom_icon": "shopify://shop_images/image_lampe_multiple.avif",
             "icon_width": 48,
             "title": "Heading",
             "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
@@ -235,7 +227,6 @@
         "item_QTfRr6": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/image_lampe_etanche.webp",
             "icon": "none",
             "icon_width": 48,
             "title": "Heading 1",
@@ -245,7 +236,6 @@
         "item_rRppMy": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/ChatGPT_Image_25_janv._2026_15_34_21.png",
             "icon": "none",
             "icon_width": 48,
             "title": "Heading 2",
@@ -278,7 +268,6 @@
         "logo_RrHGVM": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/image_lampe_multiple.avif",
             "logo_width": 300,
             "link": ""
           }
@@ -286,7 +275,6 @@
         "logo_3fKYEw": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/video_lampe_2.png",
             "logo_width": 120,
             "link": ""
           }
@@ -294,7 +282,6 @@
         "logo_QFdmW3": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/image_lampe_4.webp",
             "logo_width": 120,
             "link": ""
           }
@@ -302,7 +289,6 @@
         "logo_AKaRBt": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/video_lampe_3.png",
             "logo_width": 300,
             "link": ""
           }
@@ -375,8 +361,6 @@
         "subheading": "",
         "title": " Avant / Après notre micro-infusion Capillia",
         "content": "",
-        "before_image": "shopify://shop_images/ChatGPT_Image_20_janv._2026_19_57_27.png",
-        "after_image": "shopify://shop_images/ChatGPT_Image_20_janv._2026_19_57_27.png",
         "expand_image": false,
         "text_position": "center",
         "before_after_text_position": "top",
