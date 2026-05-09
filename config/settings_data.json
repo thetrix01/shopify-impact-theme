@@ -149,7 +149,13 @@
   },
   "platform_customizations": {
     "custom_css": [
-      ".drawer {max-width: 320px !important;}"
+      ".drawer {max-width: 320px !important;}",
+      ".drawer__content a {font-size: 28px !important; font-family: \"Cormorant Garamond\", serif !important; font-weight: 500 !important;}",
+      ".drawer {background: #faf7f2 !important;}",
+      ".drawer__content {padding-top: 80px !important;}",
+      ".drawer__content a {font-size: 24px !important;}",
+      ".drawer__content li {margin-bottom: 10px !important;}",
+      ".drawer {border-right: 1px solid #E8D9BC !important;}"
     ]
   }
 }
