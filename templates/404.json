@@ -187,17 +187,6 @@
     },
     "image_with_text_overlay_8VJtQi": {
       "type": "image-with-text-overlay",
-      "blocks": {
-        "liquid_mjzg49": {
-          "type": "liquid",
-          "settings": {
-            "liquid": "<p>Use this text to output some custom Liquid code to include widget or dynamic code.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "liquid_mjzg49"
-      ],
       "name": "Image with text overlay",
       "settings": {
         "full_width": true,
@@ -219,22 +208,22 @@
         "item_VMwMUE": {
           "type": "item",
           "settings": {
-            "column_size": "3",
-            "title": "Column title",
+            "column_size": "4",
+            "title": "⭐⭐⭐⭐⭐",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "<p>“Le design est magnifique et mes talons sont enfin lisses.”     </p><p>                                    — Nadia, Bruxelles</p>",
             "link_url": "",
             "link_text": "",
-            "link_style": "link"
+            "link_style": "button"
           }
         },
         "item_74GNiP": {
           "type": "item",
           "settings": {
-            "column_size": "3",
-            "title": "Column title",
+            "column_size": "4",
+            "title": "⭐⭐⭐⭐⭐",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "<p>“Simple à utiliser et beaucoup plus efficace qu’une lime classique.”<br/><br/>— Camille, Bordeaux</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -243,10 +232,10 @@
         "item_NnWxUe": {
           "type": "item",
           "settings": {
-            "column_size": "3",
-            "title": "Column title",
+            "column_size": "4",
+            "title": "⭐⭐⭐⭐⭐",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "<p>“Le design est magnifique et mes talons sont enfin lisses.”<br/><br/>— Murielle, Paris</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
