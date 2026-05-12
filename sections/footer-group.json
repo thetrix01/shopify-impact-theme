@@ -273,7 +273,7 @@
           "type": "text",
           "settings": {
             "title": "À propos",
-            "content": "<p><strong>Service</strong> <strong>client</strong>: support@capillia.com</p><p><strong>Horaires</strong>: Du Lun au Ven de 9h à 12h et de 14h à 18h / Sam et Dim de 10h à 12h</p>",
+            "content": "<p>VELOA vous accompagne avec des produits pensés pour rendre vos routines beauté plus simples, douces et efficaces.<br/><br/>Service client :<br/>contact@veloabrand.com<br/><br/>Réponse sous 24 à 48 heures ouvrées.</p>",
             "enable_follow_on_shop": false
           }
         }
