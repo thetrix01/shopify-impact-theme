@@ -16,6 +16,7 @@
       "blocks": {
         "message_qcRNBa": {
           "type": "message",
+          "disabled": true,
           "settings": {
             "text": "Announce something here",
             "url": ""
@@ -54,7 +55,7 @@
         "text_size": "text-xs",
         "navigation_mode": "scrolling",
         "scrolling_speed": 10,
-        "background": "#faf7f2",
+        "background": "#f7efea",
         "background_gradient": "",
         "text_color": "#4a4540"
       }
