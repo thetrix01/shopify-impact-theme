@@ -211,7 +211,7 @@
             "column_size": "4",
             "title": "⭐⭐⭐⭐⭐",
             "heading_tag": "h4",
-            "content": "<p>“Le design est magnifique et mes talons sont enfin lisses.”     </p><p>                                    — Nadia, Bruxelles</p>",
+            "content": "<p>“Je l’utilise chaque semaine, mes pieds restent doux plus longtemps.”</p><p>  </p><p>                                    — Nadia, Bruxelles</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "button"
@@ -235,7 +235,7 @@
             "column_size": "4",
             "title": "⭐⭐⭐⭐⭐",
             "heading_tag": "h4",
-            "content": "<p>“Le design est magnifique et mes talons sont enfin lisses.”<br/><br/>— Murielle, Paris</p>",
+            "content": "<p>“Mes talons sont plus lisses et je me sens plus à l’aise en sandales.”<br/>— Murielle, Paris</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -254,8 +254,8 @@
         "gap": "small",
         "text_alignment": "start",
         "subheading": "⭐⭐⭐⭐⭐",
-        "title": "Elles l’ont adopté",
-        "content": "<p>L’avis de nos clientes sur VELOA Pro.</p>",
+        "title": "Elles ont retrouvé des pieds doux",
+        "content": "<p>Des clientes satisfaites par une routine simple, douce et efficace.</p>",
         "background": "#faf7f2",
         "background_gradient": "",
         "text_color": "#1a1713"
