@@ -250,12 +250,12 @@
       "name": "Multi-column",
       "settings": {
         "full_width": true,
-        "stack_on_mobile": false,
-        "gap": "medium",
+        "stack_on_mobile": true,
+        "gap": "small",
         "text_alignment": "start",
-        "subheading": "“Mes pieds sont beaucoup plus doux dès la première utilisation\".",
-        "title": "⭐⭐⭐⭐⭐",
-        "content": "<p>— Sophie, Lyon</p>",
+        "subheading": "⭐⭐⭐⭐⭐",
+        "title": "Elles l’ont adopté",
+        "content": "<p>L’avis de nos clientes sur VELOA Pro.</p>",
         "background": "#faf7f2",
         "background_gradient": "",
         "text_color": "#1a1713"
