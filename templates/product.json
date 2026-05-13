@@ -178,13 +178,22 @@
     "trustpilot_8iUmmE": {
       "type": "Trustpilot",
       "blocks": {
-        "slide_bX4WPD": {
+        "slide_qF8mtQ": {
           "type": "slide",
           "settings": {
             "stars_count": 5,
-            "heading": "Belle découverte",
-            "text": "La lime est douce mais efficace. Parfaite pour entretenir mes talons à la maison.",
-            "author_date": "Cathrine"
+            "heading": "Résultat visible rapidement",
+            "text": "Après quelques utilisations, mes talons sont plus lisses. C’est parfait pour entretenir ses pieds à la maison.",
+            "author_date": "Camille"
+          }
+        },
+        "slide_QGGpCn": {
+          "type": "slide",
+          "settings": {
+            "stars_count": 5,
+            "heading": "Je recommande",
+            "text": "Très contente de mon achat. Le produit est joli, pratique et fait bien le travail pour garder les pieds doux.",
+            "author_date": "Inès"
           }
         },
         "slide_4iMGj9": {
@@ -205,22 +214,14 @@
             "author_date": "Nadia"
           }
         },
-        "slide_qF8mtQ": {
+        "slide_bX4WPD": {
           "type": "slide",
+          "disabled": true,
           "settings": {
             "stars_count": 5,
-            "heading": "Résultat visible rapidement",
-            "text": "Après quelques utilisations, mes talons sont plus lisses. C’est parfait pour entretenir ses pieds à la maison.",
-            "author_date": "Camille"
-          }
-        },
-        "slide_QGGpCn": {
-          "type": "slide",
-          "settings": {
-            "stars_count": 5,
-            "heading": "Je recommande",
-            "text": "Très contente de mon achat. Le produit est joli, pratique et fait bien le travail pour garder les pieds doux.",
-            "author_date": "Inès"
+            "heading": "Belle découverte",
+            "text": "La lime est douce mais efficace. Parfaite pour entretenir mes talons à la maison.",
+            "author_date": "Cathrine"
           }
         },
         "slide_FHFAtV": {
@@ -234,11 +235,11 @@
         }
       },
       "block_order": [
-        "slide_bX4WPD",
-        "slide_4iMGj9",
-        "slide_n73Lta",
         "slide_qF8mtQ",
         "slide_QGGpCn",
+        "slide_4iMGj9",
+        "slide_n73Lta",
+        "slide_bX4WPD",
         "slide_FHFAtV"
       ],
       "name": "Trustpilot",
