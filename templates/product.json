@@ -243,7 +243,7 @@
       ],
       "name": "Trustpilot",
       "settings": {
-        "heading": "Our customers tell it better than we do!",
+        "heading": "Elles l’ont adopté",
         "heading_custom": false,
         "heading_font": "josefin_sans_n4",
         "heading_size": 40,
@@ -265,7 +265,7 @@
         "stars_size": 28,
         "stars_size_mobile": 24,
         "stars_align": "center",
-        "text": "<p>based on <strong>1 067</strong> reviews</p>",
+        "text": "<p>basé sur <strong>670</strong> avis</p>",
         "text_custom": false,
         "text_font": "josefin_sans_n4",
         "text_size": 20,
