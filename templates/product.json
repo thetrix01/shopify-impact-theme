@@ -182,8 +182,8 @@
           "type": "slide",
           "settings": {
             "stars_count": 5,
-            "heading": "Livraison offerte",
-            "text": "I was initially hesitant to switch from my usual brand to this new one, but I'm so glad I did! This product has exceeded my expectations. It's not only affordable but also incredibly efficient. The quality is top-notch, and it's user-friendly.",
+            "heading": "Belle découverte",
+            "text": "La lime est douce mais efficace. Parfaite pour entretenir mes talons à la maison.",
             "author_date": "Cathrine"
           }
         },
@@ -191,36 +191,36 @@
           "type": "slide",
           "settings": {
             "stars_count": 5,
-            "heading": "I love it! 😍",
-            "text": "I was initially hesitant to switch from my usual brand to this new one, but I'm so glad I did! This product has exceeded my expectations. It's not only affordable but also incredibly efficient. The quality is top-notch, and it's user-friendly.",
-            "author_date": "Cathrine"
+            "heading": "Très pratique",
+            "text": "Je l’utilise une fois par semaine, c’est simple et rapide. Mes pieds sont beaucoup plus doux.",
+            "author_date": "Sarah"
           }
         },
         "slide_n73Lta": {
           "type": "slide",
           "settings": {
             "stars_count": 5,
-            "heading": "I love it! 😍",
-            "text": "I was initially hesitant to switch from my usual brand to this new one, but I'm so glad I did! This product has exceeded my expectations. It's not only affordable but also incredibly efficient. The quality is top-notch, and it's user-friendly.",
-            "author_date": "Cathrine"
+            "heading": "Facile à utiliser",
+            "text": "Rechargeable, légère et agréable à utiliser. Je l’ai intégrée à ma routine beauté.",
+            "author_date": "Nadia"
           }
         },
         "slide_qF8mtQ": {
           "type": "slide",
           "settings": {
             "stars_count": 5,
-            "heading": "I love it! 😍",
-            "text": "I was initially hesitant to switch from my usual brand to this new one, but I'm so glad I did! This product has exceeded my expectations. It's not only affordable but also incredibly efficient. The quality is top-notch, and it's user-friendly.",
-            "author_date": "Cathrine"
+            "heading": "Résultat visible rapidement",
+            "text": "Après quelques utilisations, mes talons sont plus lisses. C’est parfait pour entretenir ses pieds à la maison.",
+            "author_date": "Camille"
           }
         },
         "slide_QGGpCn": {
           "type": "slide",
           "settings": {
             "stars_count": 5,
-            "heading": "I love it! 😍",
-            "text": "I was initially hesitant to switch from my usual brand to this new one, but I'm so glad I did! This product has exceeded my expectations. It's not only affordable but also incredibly efficient. The quality is top-notch, and it's user-friendly.",
-            "author_date": "Cathrine"
+            "heading": "Je recommande",
+            "text": "Très contente de mon achat. Le produit est joli, pratique et fait bien le travail pour garder les pieds doux.",
+            "author_date": "Inès"
           }
         },
         "slide_FHFAtV": {
@@ -359,7 +359,7 @@
         "stars_color": "#FFFFFF",
         "text_color": "#000000",
         "background_color": "#FFFFFF",
-        "background_gradient": "linear-gradient(180deg, rgba(206, 239, 199, 1), rgba(255, 255, 255, 1) 100%)",
+        "background_gradient": "linear-gradient(180deg, rgba(247, 239, 234, 1), rgba(255, 255, 255, 1) 100%)",
         "border_color": "#000000",
         "margin_top": 0,
         "margin_bottom": 0,
