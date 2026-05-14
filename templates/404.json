@@ -23,23 +23,12 @@
           "settings": {
             "liquid": "<p>Use this text to output some custom Liquid code to include widget or dynamic code.</p>"
           }
-        },
-        "button_p4r9pk": {
-          "type": "button",
-          "settings": {
-            "style": "fill",
-            "size": "lg",
-            "text": "Découvrir VELOA Pro™",
-            "url": "",
-            "background": "",
-            "text_color": ""
-          }
         }
       },
       "block_order": [
-        "liquid_P39aCD",
-        "button_p4r9pk"
+        "liquid_P39aCD"
       ],
+      "custom_css": [],
       "name": "Image with text overlay",
       "settings": {
         "full_width": true,
@@ -100,7 +89,7 @@
       "name": "Logo list",
       "settings": {
         "full_width": true,
-        "stack_mobile": true,
+        "stack_mobile": false,
         "title": "Inspiré par les standards de la beauté premium.",
         "content": "",
         "text_alignment": "center",
