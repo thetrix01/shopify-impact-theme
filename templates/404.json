@@ -235,7 +235,7 @@
             "column_size": "4",
             "title": "⭐⭐⭐⭐⭐",
             "heading_tag": "h4",
-            "content": "<p>“Mes talons sont plus lisses et je me sens plus à l’aise en sandales.”<br/>— Murielle, Paris</p>",
+            "content": "<p>“Mes talons sont plus lisses et mes pieds sont beaucoup plus agréables au toucher.”</p><p><br/>— Murielle, Paris</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -247,12 +247,16 @@
         "item_74GNiP",
         "item_NnWxUe"
       ],
+      "custom_css": [
+        "section {max-width: 1050px; margin-left: auto; margin-right: auto; padding-top: 20px !important; padding-bottom: 20px !important;}",
+        ".multi-column {max-width: 1050px; margin-left: auto; margin-right: auto;}"
+      ],
       "name": "Multi-column",
       "settings": {
         "full_width": true,
         "stack_on_mobile": true,
-        "gap": "small",
-        "text_alignment": "start",
+        "gap": "medium",
+        "text_alignment": "center",
         "subheading": "⭐⭐⭐⭐⭐",
         "title": "Elles ont retrouvé des pieds doux",
         "content": "<p>Des clientes satisfaites par une routine simple, douce et efficace.</p>",
