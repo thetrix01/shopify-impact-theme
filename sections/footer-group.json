@@ -34,36 +34,43 @@
         "item_MkxbPH": {
           "type": "item",
           "settings": {
-            "title": "Jusqu’à combien de temps dure une tête abrasive ?",
-            "content": "<p>En moyenne plusieurs semaines selon la fréquence d’utilisation.<br/></p>"
+            "title": "Est-ce que VELOA Pro convient aux talons très secs ?",
+            "content": "<p>Oui, VELOA Pro aide à lisser progressivement les zones sèches et rugueuses. Pour les talons très secs, plusieurs utilisations peuvent être nécessaires.<br/></p><p><br/></p>"
           }
         },
         "item_jixrxe": {
           "type": "item",
           "settings": {
-            "title": "Le produit convient-il aux peaux sensibles ?",
-            "content": "<p>Oui, VELOA Pro™ est conçu pour un soin doux et progressif.</p><p></p>"
+            "title": "Est-ce que l’utilisation fait mal ?",
+            "content": "<p>Non, l’utilisation est douce si l’appareil est utilisé correctement, sans appuyer fortement. Il suffit de passer délicatement la lime sur les zones concernées.<br/></p><p><br/></p><p></p>"
           }
         },
         "item_yKt3Fx": {
           "type": "item",
           "settings": {
-            "title": "Peut-on remplacer les rouleaux abrasifs ?",
-            "content": "<p>Oui, les têtes sont interchangeables et faciles à remplacer.</p>"
+            "title": "Combien de fois par semaine l’utiliser ?",
+            "content": "<p>Nous conseillons une utilisation 1 à 2 fois par semaine, selon vos besoins et la sensibilité de votre peau.</p>"
           }
         },
         "item_CGkEwW": {
           "type": "item",
           "settings": {
             "title": "Le produit est-il rechargeable ?",
-            "content": "<p>Oui, VELOA Pro™ fonctionne avec un câble USB inclus.</p>"
+            "content": "<p>Oui, VELOA Pro est rechargeable par USB, pratique pour une utilisation régulière à la maison.<br/></p><p><br/></p>"
+          }
+        },
+        "item_D8MbDP": {
+          "type": "item",
+          "settings": {
+            "title": "Quand peut-on voir un résultat ?",
+            "content": "<p>La peau peut sembler plus douce dès les premières utilisations. Pour des talons très secs, le résultat s’améliore progressivement avec une utilisation régulière.</p>"
           }
         },
         "item_beh8AG": {
           "type": "item",
           "settings": {
-            "title": "Combien de temps faut-il pour voir un résultat ?",
-            "content": "<p>La plupart des utilisatrices constatent des pieds plus doux dès la première utilisation.</p>"
+            "title": "Peut-on remplacer la tête abrasive ?",
+            "content": "<p>Oui, la tête de limage peut être remplacée selon l’usure et la fréquence d’utilisation.</p>"
           }
         }
       },
@@ -72,6 +79,7 @@
         "item_jixrxe",
         "item_yKt3Fx",
         "item_CGkEwW",
+        "item_D8MbDP",
         "item_beh8AG"
       ],
       "name": "FAQ",
