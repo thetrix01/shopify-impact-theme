@@ -86,13 +86,16 @@
         "logo_GkzDRf",
         "logo_fNqqLY"
       ],
+      "custom_css": [
+        "@media screen and (max-width: 749px) {.logo-list, .logo-list__list, .logo-list__items {display: flex !important; flex-wrap: nowrap !important; overflow-x: auto !important; gap: 10px !important; padding-bottom: 8px !important; } .logo-list__item, .logo-item {flex: 0 0 32% !important; max-width: 32% !important; } .logo-list img, .logo-list__item img {width: 100% !important; height: auto !important; object-fit: contain !important; }}"
+      ],
       "name": "Logo list",
       "settings": {
         "full_width": true,
-        "stack_mobile": false,
+        "stack_mobile": true,
         "title": "Inspiré par les standards de la beauté premium.",
         "content": "",
-        "text_alignment": "center",
+        "text_alignment": "start",
         "items_per_row": 5,
         "background": "",
         "background_gradient": "",
