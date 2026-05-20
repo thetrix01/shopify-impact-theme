@@ -35,8 +35,7 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/Design_sans_titre_2.png",
-        "mobile_image": "shopify://shop_images/ChatGPT_Image_9_mai_2026_18_39_38.png",
+        "image": "shopify://shop_images/ChatGPT_Image_25_janv._2026_14_45_39.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -50,7 +49,6 @@
         "logo_pikhi6": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/ChatGPT_Image_9_mai_2026_23_06_00.png",
             "logo_width": 300,
             "link": ""
           }
@@ -58,7 +56,6 @@
         "logo_QU4JJV": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/ChatGPT_Image_9_mai_2026_23_04_33.png",
             "logo_width": 300,
             "link": ""
           }
@@ -66,7 +63,6 @@
         "logo_GkzDRf": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/ChatGPT_Image_9_mai_2026_23_07_53.png",
             "logo_width": 300,
             "link": ""
           }
@@ -74,7 +70,6 @@
         "logo_fNqqLY": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/ChatGPT_Image_9_mai_2026_23_04_18.png",
             "logo_width": 300,
             "link": ""
           }
@@ -93,7 +88,7 @@
       "settings": {
         "full_width": true,
         "stack_mobile": true,
-        "title": "Inspiré par les standards de la beauté premium.",
+        "title": "Plus de lumière. Plus de liberté...",
         "content": "",
         "text_alignment": "center",
         "items_per_row": 5,
@@ -151,8 +146,6 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/ChatGPT_Image_9_mai_2026_18_18_11.png",
-        "mobile_image": "shopify://shop_images/ChatGPT_Image_9_mai_2026_18_18_11.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -168,8 +161,6 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/comparatif_veloa_lime_manuelle_plus_simple_d0fd2cd2-0baf-43b1-9cd4-bb747d64059b.png",
-        "mobile_image": "shopify://shop_images/comparatif_veloa_lime_manuelle_plus_simple_d0fd2cd2-0baf-43b1-9cd4-bb747d64059b.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -185,8 +176,6 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/ChatGPT_Image_9_mai_2026_18_18_04.png",
-        "mobile_image": "shopify://shop_images/ChatGPT_Image_9_mai_2026_18_18_04.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -356,8 +345,6 @@
         "subheading": "",
         "title": " Avant / Après notre micro-infusion Capillia",
         "content": "",
-        "before_image": "shopify://shop_images/ChatGPT_Image_9_mai_2026_18_18_11.png",
-        "after_image": "shopify://shop_images/ChatGPT_Image_9_mai_2026_18_18_11.png",
         "expand_image": false,
         "text_position": "center",
         "before_after_text_position": "top",

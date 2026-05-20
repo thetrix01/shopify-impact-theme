@@ -55,7 +55,7 @@
         "text_size": "text-xs",
         "navigation_mode": "scrolling",
         "scrolling_speed": 10,
-        "background": "#f7efea",
+        "background": "#ffa500",
         "background_gradient": "",
         "text_color": "#4a4540"
       }
@@ -65,7 +65,7 @@
       "settings": {
         "enable_sticky": true,
         "hide_on_scroll": false,
-        "logo": "shopify://shop_images/veloa-logo-transparent.svg",
+        "logo": "shopify://shop_images/ChatGPT_Image_20_mai_2026_13_13_41.png",
         "logo_max_width": 110,
         "logo_mobile_max_width": 70,
         "menu": "main-menu",

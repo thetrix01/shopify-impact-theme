@@ -16,19 +16,19 @@
     "block_shadow_opacity": 10,
     "block_shadow_vertical_offset": 18,
     "icon_stroke_width": 2,
-    "background": "#faf7f2",
+    "background": "#1b4332",
     "text_color": "#1a1713",
     "success_color": "#c9a96e",
     "warning_color": "#c9a96e",
     "error_color": "#a07840",
-    "header_background": "#faf7f2",
-    "header_text_color": "#1a1a1a",
+    "header_background": "#1b4332",
+    "header_text_color": "#faf7f2",
     "footer_background": "#1a1713",
     "footer_text_color": "#e8d9bc",
     "dialog_background": "#faf7f2",
-    "primary_button_background": "#1a1713",
-    "primary_button_text_color": "#c9a96e",
-    "secondary_button_background": "#faf7f2",
+    "primary_button_background": "#ffa500",
+    "primary_button_text_color": "#ffffff",
+    "secondary_button_background": "#52b788",
     "secondary_button_text_color": "#c9a96e",
     "product_card_background": "#faf7f2",
     "product_card_text_color": "#1a1713",
@@ -155,7 +155,7 @@
       ".drawer__content {padding-top: 80px !important;}",
       ".drawer__content a {font-size: 24px !important;}",
       ".drawer__content li {margin-bottom: 10px !important;}",
-      ".drawer {border-right: 1px solid #E8D9BC !important;}"
+      ".drawer {border-right: 1px solid #e8d9bc !important;}"
     ]
   }
 }
