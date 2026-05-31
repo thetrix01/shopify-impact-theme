@@ -546,6 +546,14 @@
         "input_background": "rgba(0,0,0,0)",
         "input_text_color": ""
       }
+    },
+    "veloa_reassurance_4QDDdE": {
+      "type": "veloa-reassurance",
+      "name": "VELOA — Réassurance",
+      "settings": {
+        "cta_url": "",
+        "cta_label": "Découvrir VELOA Pro™"
+      }
     }
   },
   "order": [
@@ -562,6 +570,7 @@
     "before_after_image_6zReCy",
     "impact_text_94GGCQ",
     "scrolling_text_rfMiXU",
-    "featured_product_ra9bF7"
+    "featured_product_ra9bF7",
+    "veloa_reassurance_4QDDdE"
   ]
 }
