@@ -200,7 +200,7 @@
             "column_size": "4",
             "title": "⭐⭐⭐⭐⭐",
             "heading_tag": "h4",
-            "content": "<p><strong>\"Je ne pensais pas voir une telle différence dès la première utilisation.\"</strong></p><p>Mes talons étaient secs et rugueux depuis des années. En quelques minutes avec VELOA Pro™, ma peau est devenue beaucoup plus douce. Le résultat est vraiment impressionnant.</p><p>  </p><p>                                    — Nadia M.  Bruxelles</p><p>✓ Cliente vérifiée</p>",
+            "content": "<p><strong>\"Je ne pensais pas voir une telle différence.\"</strong></p><p>En quelques minutes seulement, mes pieds sont devenus beaucoup plus doux. Je suis bluffée du résultat.</p><p>  </p><p>                                    — Nadia M.  Bruxelles</p><p>✓ Cliente vérifiée</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "button"
@@ -213,7 +213,7 @@
             "column_size": "4",
             "title": "⭐⭐⭐⭐⭐",
             "heading_tag": "h4",
-            "content": "<p><strong>\"Enfin une solution simple qui fonctionne.\"</strong></p><p>J'avais testé plusieurs râpes manuelles sans grand succès. Avec VELOA Pro™, les peaux mortes disparaissent rapidement et mes pieds restent lisses beaucoup plus longtemps.</p><p><br/>— Camille P. Bordeaux</p><p>✓ Cliente vérifiée</p>",
+            "content": "<p><strong>\"Enfin une solution qui fonctionne.\"</strong></p><p>Simple à utiliser et bien plus efficace qu'une lime classique. Mes talons sont lisses dès la première utilisation.</p><p><br/>— Camille P. Bordeaux</p><p>✓ Cliente vérifiée</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -226,7 +226,7 @@
             "column_size": "4",
             "title": "⭐⭐⭐⭐⭐",
             "heading_tag": "h4",
-            "content": "<p><strong>\"Le meilleur achat beauté que j'ai fait cette année.\"</strong></p><p>Très facile à utiliser, aucune douleur et un résultat digne d'un institut. Mes pieds sont beaucoup plus doux et présentables sans prendre rendez-vous.</p><p><br/>— Murielle D. Paris</p><p>✓ Cliente vérifiée</p>",
+            "content": "<p><strong>\"Mon meilleur achat beauté cette année.\"</strong></p><p>Aucune douleur, utilisation rapide et résultat digne d'un institut à la maison.</p><p><br/>— Murielle D. Paris</p><p>✓ Cliente vérifiée</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -246,7 +246,7 @@
       "settings": {
         "full_width": true,
         "stack_on_mobile": true,
-        "gap": "medium",
+        "gap": "small",
         "text_alignment": "center",
         "subheading": "⭐⭐⭐⭐⭐",
         "title": "Elles ont retrouvé des pieds doux dès la première utilisation",
