@@ -1,0 +1,354 @@
+{% comment %} VELOA — Section Réassurance Premium {% endcomment %}
+
+<section class="vl-trust-section">
+  <div class="vl-inner">
+
+    <span class="vl-eyebrow">Notre engagement</span>
+
+    <h2 class="vl-title">Votre satisfaction<br>avant tout</h2>
+
+    <div class="vl-divider">
+      <span></span>
+      <em>✦</em>
+      <span></span>
+    </div>
+
+    <p class="vl-text">
+      Essayez VELOA Pro™ pendant <strong>30 jours</strong>.<br>
+      Si vous n'êtes pas satisfaite, nous vous remboursons intégralement.
+    </p>
+
+    <div class="vl-card">
+      <div class="vl-grid">
+
+        <div class="vl-item">
+          <div class="vl-icon-wrap">
+            <svg viewBox="0 0 24 24" fill="none" stroke="#C9A96E" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+              <path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/>
+            </svg>
+          </div>
+          <div>
+            <p class="vl-item-title">30 jours d'essai</p>
+            <p class="vl-item-sub">Satisfaite ou remboursée, sans condition</p>
+          </div>
+        </div>
+
+        <div class="vl-item">
+          <div class="vl-icon-wrap">
+            <svg viewBox="0 0 24 24" fill="none" stroke="#C9A96E" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+              <rect x="3" y="11" width="18" height="11" rx="2"/>
+              <path d="M7 11V7a5 5 0 0 1 10 0v4"/>
+            </svg>
+          </div>
+          <div>
+            <p class="vl-item-title">Paiement sécurisé</p>
+            <p class="vl-item-sub">Transactions chiffrées 100 % protégées</p>
+          </div>
+        </div>
+
+        <div class="vl-item">
+          <div class="vl-icon-wrap">
+            <svg viewBox="0 0 24 24" fill="none" stroke="#C9A96E" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+              <path d="M5 12h14M12 5l7 7-7 7"/>
+            </svg>
+          </div>
+          <div>
+            <p class="vl-item-title">Livraison suivie</p>
+            <p class="vl-item-sub">Suivi en temps réel jusqu'à votre porte</p>
+          </div>
+        </div>
+
+        <div class="vl-item">
+          <div class="vl-icon-wrap">
+            <svg viewBox="0 0 24 24" fill="none" stroke="#C9A96E" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+              <path d="M22 16.92v3a2 2 0 0 1-2.18 2A19.79 19.79 0 0 1 11.61 19a19.5 19.5 0 0 1-6-6A19.79 19.79 0 0 1 3.12 4.18 2 2 0 0 1 5.09 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L9.21 9.09a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"/>
+            </svg>
+          </div>
+          <div>
+            <p class="vl-item-title">Service client</p>
+            <p class="vl-item-sub">Réponse sous 24h, 7j/7</p>
+          </div>
+        </div>
+
+      </div>
+    </div>
+
+    <div class="vl-btn-wrap">
+      <a class="vl-btn" href="{{ section.settings.cta_url | default: '#' }}">
+        <svg viewBox="0 0 12 12" fill="#C9A96E"><circle cx="6" cy="6" r="5"/></svg>
+        {{ section.settings.cta_label | default: 'Découvrir VELOA Pro™' }}
+      </a>
+    </div>
+
+    <p class="vl-seal">
+      <svg viewBox="0 0 24 24" fill="none" stroke="#C9A96E" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" width="14" height="14">
+        <polyline points="20 6 9 17 4 12"/>
+      </svg>
+      Marque certifiée — Qualité premium française
+    </p>
+
+  </div>
+</section>
+
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@300;400;500&family=Jost:wght@300;400;500&display=swap');
+
+  .vl-trust-section {
+    background: #FAF7F2;
+    padding: 80px 24px;
+    font-family: 'Jost', sans-serif;
+  }
+
+  .vl-inner {
+    max-width: 680px;
+    margin: 0 auto;
+    text-align: center;
+  }
+
+  /* --- Eyebrow --- */
+  .vl-eyebrow {
+    display: inline-block;
+    font-size: 11px;
+    letter-spacing: 0.22em;
+    text-transform: uppercase;
+    color: #C9A96E;
+    border: 1px solid #E8D9BC;
+    border-radius: 40px;
+    padding: 6px 20px;
+    margin-bottom: 28px;
+    opacity: 0;
+    transform: translateY(14px);
+    transition: opacity 0.75s ease, transform 0.75s ease;
+  }
+
+  /* --- Titre --- */
+  .vl-title {
+    font-family: 'Cormorant Garamond', Georgia, serif;
+    font-size: clamp(30px, 5vw, 44px);
+    font-weight: 300;
+    color: #1A1713;
+    letter-spacing: 0.02em;
+    line-height: 1.2;
+    margin: 0 0 20px;
+    opacity: 0;
+    transform: translateY(14px);
+    transition: opacity 0.75s ease 0.1s, transform 0.75s ease 0.1s;
+  }
+
+  /* --- Divider or --- */
+  .vl-divider {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    justify-content: center;
+    margin-bottom: 24px;
+    opacity: 0;
+    transition: opacity 0.75s ease 0.15s;
+  }
+  .vl-divider span {
+    display: block;
+    width: 48px;
+    height: 1px;
+    background: #C9A96E;
+  }
+  .vl-divider em {
+    font-style: normal;
+    font-size: 16px;
+    color: #C9A96E;
+  }
+
+  /* --- Texte --- */
+  .vl-text {
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 1.9;
+    color: #3d3830;
+    margin: 0 0 52px;
+    opacity: 0;
+    transform: translateY(14px);
+    transition: opacity 0.75s ease 0.2s, transform 0.75s ease 0.2s;
+  }
+  .vl-text strong {
+    color: #1A1713;
+    font-weight: 500;
+  }
+
+  /* --- Card --- */
+  .vl-card {
+    background: #ffffff;
+    border: 1px solid #E8D9BC;
+    border-radius: 16px;
+    padding: 40px 32px;
+    margin-bottom: 44px;
+    opacity: 0;
+    transform: translateY(18px);
+    transition: opacity 0.75s ease 0.3s, transform 0.75s ease 0.3s;
+  }
+
+  /* --- Grid 2 colonnes --- */
+  .vl-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 16px;
+  }
+
+  /* --- Item --- */
+  .vl-item {
+    display: flex;
+    align-items: flex-start;
+    gap: 14px;
+    text-align: left;
+    padding: 20px 16px;
+    background: #FAF7F2;
+    border-radius: 12px;
+    border: 1px solid #f0e6d3;
+    transition: border-color 0.2s ease;
+  }
+  .vl-item:hover { border-color: #C9A96E; }
+
+  /* --- Icône --- */
+  .vl-icon-wrap {
+    flex-shrink: 0;
+    width: 42px;
+    height: 42px;
+    border-radius: 50%;
+    background: rgba(201, 169, 110, 0.1);
+    border: 1px solid rgba(201, 169, 110, 0.35);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .vl-icon-wrap svg {
+    width: 18px;
+    height: 18px;
+  }
+
+  /* --- Textes item --- */
+  .vl-item-title {
+    font-size: 11px;
+    font-weight: 500;
+    color: #1A1713;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    margin: 0 0 4px;
+  }
+  .vl-item-sub {
+    font-size: 13px;
+    color: #8c7e6e;
+    font-weight: 300;
+    line-height: 1.5;
+    margin: 0;
+  }
+
+  /* --- Bouton CTA --- */
+  .vl-btn-wrap {
+    opacity: 0;
+    transform: translateY(14px);
+    transition: opacity 0.75s ease 0.42s, transform 0.75s ease 0.42s;
+  }
+
+  .vl-btn {
+    display: inline-flex;
+    align-items: center;
+    gap: 10px;
+    background: #1A1713;
+    color: #C9A96E;
+    font-family: 'Jost', sans-serif;
+    font-size: 12px;
+    font-weight: 500;
+    letter-spacing: 0.18em;
+    text-transform: uppercase;
+    padding: 18px 44px;
+    border-radius: 8px;
+    border: 1px solid #1A1713;
+    cursor: pointer;
+    text-decoration: none;
+    transition: background 0.28s ease, border-color 0.28s ease;
+  }
+  .vl-btn:hover {
+    background: #2e261d;
+    border-color: #2e261d;
+    color: #C9A96E;
+  }
+
+  /* --- Sceau bas --- */
+  .vl-seal {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+    margin-top: 28px;
+    font-size: 12px;
+    color: #b0a090;
+    font-weight: 300;
+    letter-spacing: 0.08em;
+    opacity: 0;
+    transition: opacity 0.75s ease 0.55s;
+  }
+
+  /* --- Animation au scroll --- */
+  .vl-trust-section.vl-visible .vl-eyebrow,
+  .vl-trust-section.vl-visible .vl-title,
+  .vl-trust-section.vl-visible .vl-text,
+  .vl-trust-section.vl-visible .vl-card,
+  .vl-trust-section.vl-visible .vl-btn-wrap,
+  .vl-trust-section.vl-visible .vl-seal,
+  .vl-trust-section.vl-visible .vl-divider {
+    opacity: 1;
+    transform: translateY(0);
+  }
+
+  /* --- Responsive mobile --- */
+  @media (max-width: 540px) {
+    .vl-trust-section { padding: 56px 16px; }
+    .vl-grid { grid-template-columns: 1fr; }
+    .vl-card { padding: 28px 20px; margin-bottom: 32px; }
+    .vl-btn { padding: 16px 32px; font-size: 11px; }
+    .vl-title { font-size: 28px; }
+  }
+</style>
+
+<script>
+  (function () {
+    var section = document.querySelector('.vl-trust-section');
+    if (!section) return;
+
+    if ('IntersectionObserver' in window) {
+      var observer = new IntersectionObserver(function (entries) {
+        entries.forEach(function (entry) {
+          if (entry.isIntersecting) {
+            section.classList.add('vl-visible');
+            observer.disconnect();
+          }
+        });
+      }, { threshold: 0.12 });
+      observer.observe(section);
+    } else {
+      section.classList.add('vl-visible');
+    }
+  })();
+</script>
+
+{% schema %}
+{
+  "name": "VELOA — Réassurance",
+  "settings": [
+    {
+      "type": "url",
+      "id": "cta_url",
+      "label": "Lien du bouton CTA"
+    },
+    {
+      "type": "text",
+      "id": "cta_label",
+      "label": "Texte du bouton CTA",
+      "default": "Découvrir VELOA Pro™"
+    }
+  ],
+  "presets": [
+    {
+      "name": "VELOA — Réassurance"
+    }
+  ]
+}
+{% endschema %}
