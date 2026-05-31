@@ -124,7 +124,92 @@ quick buy information in a template, that will be extracted in JS, but ensure it
           {%- render 'variant-picker', product: product, form_id: product_form_id, update_url: false, hide_sold_out_variants: block.settings.hide_sold_out_variants, hide_size_chart: true, force_dropdown_as_block: true, block: block -%}
 
         {%- when 'buy_buttons' -%}
-          {%- render 'buy-buttons', product: product, form_id: product_form_id, show_payment_button: block.settings.show_payment_button, button_size: 'lg' -%}
+          {%- render 'buy-buttons', product: product, form_id: product_form_id, show_payment_button: block.settings.show_payment_button, button_size: 'lg' -%}<div class="veloa-checkout-trust">
+  <div class="veloa-secure-line">
+    <span>🔒</span>
+    <strong>Paiement 100% sécurisé</strong>
+  </div>
+
+  <div class="veloa-payment-icons">
+    <span>CB</span>
+    <span>VISA</span>
+    <span>Mastercard</span>
+    <span>PayPal</span>
+    <span>Apple Pay</span>
+  </div>
+
+  <div class="veloa-trust-grid">
+    <div>✓ Livraison suivie</div>
+    <div>✓ Retour 30 jours</div>
+    <div>✓ Support 7j/7</div>
+  </div>
+</div>
+
+<style>
+.veloa-checkout-trust {
+  margin-top: 16px;
+  padding: 16px;
+  background: #FAF7F2;
+  border: 1px solid #E8D9BC;
+  border-radius: 16px;
+  text-align: center;
+}
+
+.veloa-secure-line {
+  color: #1A1713;
+  font-size: 14px;
+  margin-bottom: 12px;
+}
+
+.veloa-secure-line span {
+  color: #C9A96E;
+  margin-right: 6px;
+}
+
+.veloa-payment-icons {
+  display: flex;
+  justify-content: center;
+  gap: 6px;
+  flex-wrap: wrap;
+  margin-bottom: 12px;
+}
+
+.veloa-payment-icons span {
+  border: 1px solid #E8D9BC;
+  background: #fffaf4;
+  color: #4A4540;
+  font-size: 11px;
+  font-weight: 700;
+  padding: 6px 9px;
+  border-radius: 8px;
+}
+
+.veloa-trust-grid {
+  display: flex;
+  justify-content: center;
+  gap: 12px;
+  flex-wrap: wrap;
+  color: #4A4540;
+  font-size: 12.5px;
+}
+
+@media screen and (max-width: 749px) {
+  .veloa-checkout-trust {
+    margin-top: 14px;
+    padding: 14px 12px;
+  }
+
+  .veloa-payment-icons span {
+    font-size: 10px;
+    padding: 5px 7px;
+  }
+
+  .veloa-trust-grid {
+    gap: 8px;
+    font-size: 12px;
+  }
+}
+</style>
       {%- endcase -%}
     {%- endfor -%}
   </div>
