@@ -241,14 +241,15 @@
   }
 
   /* --- Bouton CTA --- */
-  .vl-btn-wrap {
-    opacity: 0;
-    transform: translateY(14px);
-    transition: opacity 0.75s ease 0.42s, transform 0.75s ease 0.42s;
-  }
+.vl-btn-wrap {
+  opacity: 1;
+  transform: translateY(0);
+  display: flex;
+  justify-content: center;
+  margin-top: 32px;
+}
 
-  .vl-btn {
-    .vl-btn {
+.vl-btn {
   display: flex;
   align-items: center;
   justify-content: center;
@@ -265,10 +266,8 @@
   border-radius: 14px;
   border: 1px solid #1A1713;
   text-align: center;
-} {
-    background: #2e261d;
-    border-color: #2e261d;
-    color: #C9A96E;
+  text-decoration: none;
+}
   }
 
   /* --- Sceau bas --- */
