@@ -82,7 +82,6 @@
         "item_D8MbDP",
         "item_beh8AG"
       ],
-      "disabled": true,
       "name": "FAQ",
       "settings": {
         "full_width": true,
@@ -165,6 +164,7 @@
     },
     "contact_mCdkxE": {
       "type": "contact",
+      "disabled": true,
       "name": "Contact form",
       "settings": {
         "full_width": true,
