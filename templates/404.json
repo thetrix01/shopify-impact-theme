@@ -551,7 +551,7 @@
       "type": "veloa-reassurance",
       "name": "VELOA — Réassurance",
       "settings": {
-        "cta_url": "",
+        "cta_url": "shopify://products/veloa-pro-lime-electrique-pieds-doux-soin-domicile",
         "cta_label": "Découvrir VELOA Pro™"
       }
     }
