@@ -76,6 +76,19 @@
         "input_text_color": ""
       }
     },
+    "custom_liquid_fW443M": {
+      "type": "custom-liquid",
+      "name": "Custom Liquid",
+      "settings": {
+        "full_width": false,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "liquid": "<div style=\"background:#FAF7F2;border:1px solid #E8D9BC;border-radius:12px;padding:16px 18px;font-family:'Helvetica Neue',Arial,sans-serif;\">\n\n  <div style=\"display:flex;gap:8px;align-items:center;justify-content:center;margin-bottom:14px;\">\n    <div style=\"background:#fff;border:1px solid #E8D9BC;border-radius:6px;padding:4px 10px;display:flex;align-items:center;\">\n      <span style=\"font-size:12px;font-weight:900;color:#1A1F71;letter-spacing:2px;\">VISA</span>\n    </div>\n    <div style=\"background:#fff;border:1px solid #E8D9BC;border-radius:6px;padding:4px 10px;display:flex;align-items:center;gap:0;\">\n      <span style=\"display:inline-block;width:14px;height:14px;background:#EB001B;border-radius:50%;\"></span>\n      <span style=\"display:inline-block;width:14px;height:14px;background:#F79E1B;border-radius:50%;margin-left:-6px;\"></span>\n    </div>\n    <div style=\"background:#fff;border:1px solid #E8D9BC;border-radius:6px;padding:4px 10px;display:flex;align-items:center;\">\n      <span style=\"font-size:12px;font-weight:900;color:#1A1713;letter-spacing:2px;\">CB</span>\n    </div>\n  </div>\n\n  <div style=\"height:1px;background:#E8D9BC;margin-bottom:14px;\"></div>\n\n  <div style=\"display:grid;grid-template-columns:1fr 1fr;gap:10px;\">\n\n    <div style=\"display:flex;align-items:center;gap:8px;\">\n      <span style=\"font-size:16px;\">🛡️</span>\n      <div>\n        <div style=\"font-size:11px;font-weight:500;color:#1A1713;\">30 jours d'essai</div>\n        <div style=\"font-size:10px;color:#9a8f83;\">Satisfaite ou remboursée</div>\n      </div>\n    </div>\n\n    <div style=\"display:flex;align-items:center;gap:8px;\">\n      <span style=\"font-size:16px;\">🔒</span>\n      <div>\n        <div style=\"font-size:11px;font-weight:500;color:#1A1713;\">Paiement sécurisé</div>\n        <div style=\"font-size:10px;color:#9a8f83;\">SSL 256 bits</div>\n      </div>\n    </div>\n\n    <div style=\"display:flex;align-items:center;gap:8px;\">\n      <span style=\"font-size:16px;\">📦</span>\n      <div>\n        <div style=\"font-size:11px;font-weight:500;color:#1A1713;\">Livraison suivie</div>\n        <div style=\"font-size:10px;color:#9a8f83;\">Suivi en temps réel</div>\n      </div>\n    </div>\n\n    <div style=\"display:flex;align-items:center;gap:8px;\">\n      <span style=\"font-size:16px;\">↩️</span>\n      <div>\n        <div style=\"font-size:11px;font-weight:500;color:#1A1713;\">Retour gratuit</div>\n        <div style=\"font-size:10px;color:#9a8f83;\">Sous 30 jours</div>\n      </div>\n    </div>\n\n  </div>\n</div>",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "related-products": {
       "type": "related-products",
       "settings": {
@@ -119,6 +132,7 @@
       "blocks": {
         "item_b4aFR4": {
           "type": "item",
+          "disabled": true,
           "settings": {
             "icon": "picto-coupon",
             "mobile_icon_width": 24,
@@ -132,6 +146,7 @@
         },
         "item_efFrkF": {
           "type": "item",
+          "disabled": true,
           "settings": {
             "icon": "picto-coupon",
             "mobile_icon_width": 24,
@@ -145,6 +160,7 @@
         },
         "item_HAqpj4": {
           "type": "item",
+          "disabled": true,
           "settings": {
             "icon": "picto-coupon",
             "mobile_icon_width": 24,
@@ -183,7 +199,7 @@
           "settings": {
             "stars_count": 5,
             "heading": "Résultat visible rapidement",
-            "text": "Après quelques utilisations, mes talons sont plus lisses. C’est parfait pour entretenir ses pieds à la maison.",
+            "text": "\"Honnêtement je m'attendais pas à grand chose... mais mes talons sont vraiment plus doux après 2-3 utilisations. Je recommande, c'est simple à utiliser et ça fait le job.\"",
             "author_date": "Camille"
           }
         },
@@ -201,7 +217,7 @@
           "settings": {
             "stars_count": 5,
             "heading": "Très pratique",
-            "text": "Je l’utilise une fois par semaine, c’est simple et rapide. Mes pieds sont beaucoup plus doux.",
+            "text": "\"J'avais des callosités assez marquées, j'étais pas sûre que ça suffise. En fait si, ça marche bien. Faut être régulière mais le résultat est là au bout de 2 semaines.\"",
             "author_date": "Sarah"
           }
         },
@@ -210,8 +226,8 @@
           "settings": {
             "stars_count": 5,
             "heading": "Facile à utiliser",
-            "text": "Rechargeable, légère et agréable à utiliser. Je l’ai intégrée à ma routine beauté.",
-            "author_date": "Nadia"
+            "text": "\"Je l'utilise le dimanche soir, ça prend 5 minutes. Mes pieds sont nickel pour la semaine. Le seul truc c'est de penser à la recharger mais sinon parfait.\"",
+            "author_date": "Monique"
           }
         },
         "slide_bX4WPD": {
@@ -228,8 +244,8 @@
           "type": "slide",
           "settings": {
             "stars_count": 5,
-            "heading": "I love it! 😍",
-            "text": "I was initially hesitant to switch from my usual brand to this new one, but I'm so glad I did! This product has exceeded my expectations. It's not only affordable but also incredibly efficient. The quality is top-notch, and it's user-friendly.",
+            "heading": "Mes talons sont redevenus lisses",
+            "text": "\"Livraison reçue en 1 semaine, emballage soigné. J'avais une question sur l'utilisation, réponse rapide par mail. Produit efficace, je suis contente de mon achat.\".",
             "author_date": "Cathrine"
           }
         }
@@ -242,6 +258,7 @@
         "slide_bX4WPD",
         "slide_FHFAtV"
       ],
+      "custom_css": [],
       "name": "Trustpilot",
       "settings": {
         "heading": "Elles l’ont adopté",
@@ -266,7 +283,7 @@
         "stars_size": 28,
         "stars_size_mobile": 24,
         "stars_align": "center",
-        "text": "<p>basé sur <strong>670</strong> avis</p>",
+        "text": "<p>basé sur 280 avis</p>",
         "text_custom": false,
         "text_font": "josefin_sans_n4",
         "text_size": 20,
@@ -377,6 +394,7 @@
   },
   "order": [
     "main",
+    "custom_liquid_fW443M",
     "related-products",
     "17532211328f1a116e",
     "text_with_icons_KQUbKy",

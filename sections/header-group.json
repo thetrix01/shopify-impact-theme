@@ -111,24 +111,10 @@
         "background_opacity": 100,
         "background_blur_radius": 0
       }
-    },
-    "custom_liquid_q6mqgg": {
-      "type": "custom-liquid",
-      "name": "Custom Liquid",
-      "settings": {
-        "full_width": false,
-        "remove_vertical_spacing": false,
-        "remove_horizontal_spacing": false,
-        "liquid": "<div style=\"background:#FAF7F2;border:1px solid #E8D9BC;border-radius:14px;padding:20px 22px;margin-top:12px;font-family:'Helvetica Neue',Arial,sans-serif;\">\n\n  <!-- Logos paiement -->\n  <div style=\"display:flex;gap:10px;align-items:center;justify-content:center;margin-bottom:16px;\">\n\n    <div style=\"background:#fff;border:1px solid #E8D9BC;border-radius:8px;padding:6px 14px;height:32px;display:flex;align-items:center;justify-content:center;\">\n      <span style=\"font-family:Arial;font-size:14px;font-weight:900;color:#1A1F71;letter-spacing:2px;\">VISA</span>\n    </div>\n\n    <div style=\"background:#fff;border:1px solid #E8D9BC;border-radius:8px;padding:6px 14px;height:32px;display:flex;align-items:center;justify-content:center;gap:2px;\">\n      <span style=\"display:inline-block;width:18px;height:18px;background:#EB001B;border-radius:50%;\"></span>\n      <span style=\"display:inline-block;width:18px;height:18px;background:#F79E1B;border-radius:50%;margin-left:-8px;\"></span>\n    </div>\n\n    <div style=\"background:#fff;border:1px solid #E8D9BC;border-radius:8px;padding:6px 14px;height:32px;display:flex;align-items:center;justify-content:center;\">\n      <span style=\"font-family:Arial;font-size:13px;font-weight:900;color:#1A1713;letter-spacing:2px;\">CB</span>\n    </div>\n\n  </div>\n\n  <!-- Séparateur -->\n  <div style=\"height:1px;background:#E8D9BC;margin-bottom:16px;\"></div>\n\n  <!-- 4 icônes réassurance -->\n  <div style=\"display:grid;grid-template-columns:1fr 1fr;gap:12px;\">\n\n    <div style=\"display:flex;align-items:center;gap:10px;\">\n      <span style=\"font-size:20px;\">🛡️</span>\n      <div>\n        <div style=\"font-size:12px;font-weight:500;color:#1A1713;\">30 jours d'essai</div>\n        <div style=\"font-size:11px;color:#9a8f83;\">Satisfaite ou remboursée</div>\n      </div>\n    </div>\n\n    <div style=\"display:flex;align-items:center;gap:10px;\">\n      <span style=\"font-size:20px;\">🔒</span>\n      <div>\n        <div style=\"font-size:12px;font-weight:500;color:#1A1713;\">Paiement sécurisé</div>\n        <div style=\"font-size:11px;color:#9a8f83;\">SSL 256 bits</div>\n      </div>\n    </div>\n\n    <div style=\"display:flex;align-items:center;gap:10px;\">\n      <span style=\"font-size:20px;\">📦</span>\n      <div>\n        <div style=\"font-size:12px;font-weight:500;color:#1A1713;\">Livraison suivie</div>\n        <div style=\"font-size:11px;color:#9a8f83;\">Suivi en temps réel</div>\n      </div>\n    </div>\n\n    <div style=\"display:flex;align-items:center;gap:10px;\">\n      <span style=\"font-size:20px;\">↩️</span>\n      <div>\n        <div style=\"font-size:12px;font-weight:500;color:#1A1713;\">Retour gratuit</div>\n        <div style=\"font-size:11px;color:#9a8f83;\">Sous 30 jours</div>\n      </div>\n    </div>\n\n  </div>\n</div>",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
     }
   },
   "order": [
     "announcement-bar",
-    "header",
-    "custom_liquid_q6mqgg"
+    "header"
   ]
 }
