@@ -248,25 +248,42 @@
   justify-content: center;
   margin-top: 32px;
 }
-
+.vl-btn-wrap {
+  display: flex;
+  justify-content: center;
+  margin-top: 32px;
+}
 .vl-btn {
   display: flex;
   align-items: center;
   justify-content: center;
+
   width: 85%;
   max-width: 340px;
-  min-height: 64px;
-  margin: 0 auto;
+  height: 68px;
+
   background: #1A1713;
   color: #C9A96E;
-  font-size: 13px;
+
+  border: none;
+  border-radius: 16px;
+
+  font-family: 'Jost', sans-serif;
+  font-size: 14px;
   font-weight: 700;
   letter-spacing: 0.12em;
   text-transform: uppercase;
-  border-radius: 14px;
-  border: 1px solid #1A1713;
-  text-align: center;
+
   text-decoration: none;
+
+  transition: all 0.25s ease;
+  box-shadow: 0 8px 24px rgba(26, 23, 19, 0.18);
+}
+
+.vl-btn:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 12px 30px rgba(26, 23, 19, 0.25);
+}
 }
   }
   /* --- Sceau bas --- */
