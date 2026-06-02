@@ -9,6 +9,19 @@
  */
 {
   "sections": {
+    "custom_liquid_fW443M": {
+      "type": "custom-liquid",
+      "name": "Custom Liquid",
+      "settings": {
+        "full_width": false,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "liquid": "<div style=\"background:#FAF7F2;border:1px solid #E8D9BC;border-radius:12px;padding:16px 18px;font-family:'Helvetica Neue',Arial,sans-serif;\">\n\n  <div style=\"display:flex;gap:8px;align-items:center;justify-content:center;margin-bottom:14px;\">\n    <div style=\"background:#fff;border:1px solid #E8D9BC;border-radius:6px;padding:4px 10px;display:flex;align-items:center;\">\n      <span style=\"font-size:12px;font-weight:900;color:#1A1F71;letter-spacing:2px;\">VISA</span>\n    </div>\n    <div style=\"background:#fff;border:1px solid #E8D9BC;border-radius:6px;padding:4px 10px;display:flex;align-items:center;gap:0;\">\n      <span style=\"display:inline-block;width:14px;height:14px;background:#EB001B;border-radius:50%;\"></span>\n      <span style=\"display:inline-block;width:14px;height:14px;background:#F79E1B;border-radius:50%;margin-left:-6px;\"></span>\n    </div>\n    <div style=\"background:#fff;border:1px solid #E8D9BC;border-radius:6px;padding:4px 10px;display:flex;align-items:center;\">\n      <span style=\"font-size:12px;font-weight:900;color:#1A1713;letter-spacing:2px;\">CB</span>\n    </div>\n  </div>\n\n  <div style=\"height:1px;background:#E8D9BC;margin-bottom:14px;\"></div>\n\n  <div style=\"display:grid;grid-template-columns:1fr 1fr;gap:10px;\">\n\n    <div style=\"display:flex;align-items:center;gap:8px;\">\n      <span style=\"font-size:16px;\">🛡️</span>\n      <div>\n        <div style=\"font-size:11px;font-weight:500;color:#1A1713;\">30 jours d'essai</div>\n        <div style=\"font-size:10px;color:#9a8f83;\">Satisfaite ou remboursée</div>\n      </div>\n    </div>\n\n    <div style=\"display:flex;align-items:center;gap:8px;\">\n      <span style=\"font-size:16px;\">🔒</span>\n      <div>\n        <div style=\"font-size:11px;font-weight:500;color:#1A1713;\">Paiement sécurisé</div>\n        <div style=\"font-size:10px;color:#9a8f83;\">SSL 256 bits</div>\n      </div>\n    </div>\n\n    <div style=\"display:flex;align-items:center;gap:8px;\">\n      <span style=\"font-size:16px;\">📦</span>\n      <div>\n        <div style=\"font-size:11px;font-weight:500;color:#1A1713;\">Livraison suivie</div>\n        <div style=\"font-size:10px;color:#9a8f83;\">Suivi en temps réel</div>\n      </div>\n    </div>\n\n    <div style=\"display:flex;align-items:center;gap:8px;\">\n      <span style=\"font-size:16px;\">↩️</span>\n      <div>\n        <div style=\"font-size:11px;font-weight:500;color:#1A1713;\">Retour gratuit</div>\n        <div style=\"font-size:10px;color:#9a8f83;\">Sous 30 jours</div>\n      </div>\n    </div>\n\n  </div>\n</div>",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "main": {
       "type": "main-product",
       "blocks": {
@@ -74,19 +87,6 @@
         "text_color": "",
         "input_background": "rgba(0,0,0,0)",
         "input_text_color": ""
-      }
-    },
-    "custom_liquid_fW443M": {
-      "type": "custom-liquid",
-      "name": "Custom Liquid",
-      "settings": {
-        "full_width": false,
-        "remove_vertical_spacing": false,
-        "remove_horizontal_spacing": false,
-        "liquid": "<div style=\"background:#FAF7F2;border:1px solid #E8D9BC;border-radius:12px;padding:16px 18px;font-family:'Helvetica Neue',Arial,sans-serif;\">\n\n  <div style=\"display:flex;gap:8px;align-items:center;justify-content:center;margin-bottom:14px;\">\n    <div style=\"background:#fff;border:1px solid #E8D9BC;border-radius:6px;padding:4px 10px;display:flex;align-items:center;\">\n      <span style=\"font-size:12px;font-weight:900;color:#1A1F71;letter-spacing:2px;\">VISA</span>\n    </div>\n    <div style=\"background:#fff;border:1px solid #E8D9BC;border-radius:6px;padding:4px 10px;display:flex;align-items:center;gap:0;\">\n      <span style=\"display:inline-block;width:14px;height:14px;background:#EB001B;border-radius:50%;\"></span>\n      <span style=\"display:inline-block;width:14px;height:14px;background:#F79E1B;border-radius:50%;margin-left:-6px;\"></span>\n    </div>\n    <div style=\"background:#fff;border:1px solid #E8D9BC;border-radius:6px;padding:4px 10px;display:flex;align-items:center;\">\n      <span style=\"font-size:12px;font-weight:900;color:#1A1713;letter-spacing:2px;\">CB</span>\n    </div>\n  </div>\n\n  <div style=\"height:1px;background:#E8D9BC;margin-bottom:14px;\"></div>\n\n  <div style=\"display:grid;grid-template-columns:1fr 1fr;gap:10px;\">\n\n    <div style=\"display:flex;align-items:center;gap:8px;\">\n      <span style=\"font-size:16px;\">🛡️</span>\n      <div>\n        <div style=\"font-size:11px;font-weight:500;color:#1A1713;\">30 jours d'essai</div>\n        <div style=\"font-size:10px;color:#9a8f83;\">Satisfaite ou remboursée</div>\n      </div>\n    </div>\n\n    <div style=\"display:flex;align-items:center;gap:8px;\">\n      <span style=\"font-size:16px;\">🔒</span>\n      <div>\n        <div style=\"font-size:11px;font-weight:500;color:#1A1713;\">Paiement sécurisé</div>\n        <div style=\"font-size:10px;color:#9a8f83;\">SSL 256 bits</div>\n      </div>\n    </div>\n\n    <div style=\"display:flex;align-items:center;gap:8px;\">\n      <span style=\"font-size:16px;\">📦</span>\n      <div>\n        <div style=\"font-size:11px;font-weight:500;color:#1A1713;\">Livraison suivie</div>\n        <div style=\"font-size:10px;color:#9a8f83;\">Suivi en temps réel</div>\n      </div>\n    </div>\n\n    <div style=\"display:flex;align-items:center;gap:8px;\">\n      <span style=\"font-size:16px;\">↩️</span>\n      <div>\n        <div style=\"font-size:11px;font-weight:500;color:#1A1713;\">Retour gratuit</div>\n        <div style=\"font-size:10px;color:#9a8f83;\">Sous 30 jours</div>\n      </div>\n    </div>\n\n  </div>\n</div>",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
       }
     },
     "related-products": {
