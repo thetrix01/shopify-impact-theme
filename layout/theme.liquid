@@ -85,5 +85,57 @@ NOTE TO DEVELOPERS: welcome to Impact theme! We hope that you will enjoy editing
         {%- sections 'footer-group' -%}
       {%- endif -%}
     </main>
-  </body>
+ <!-- VELOA Sticky CTA -->
+<div id="veloa-sticky-cta" style="
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  z-index: 9999;
+  padding: 12px 16px;
+  background: #FAF7F2;
+  border-top: 1px solid #E8D9BC;
+  box-shadow: 0 -2px 12px rgba(0,0,0,0.08);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+">
+  <div style="font-family: 'DM Sans', sans-serif;">
+    <div style="font-size: 11px; color: #888; line-height: 1.2;">VELOA Pro™</div>
+    <div style="font-size: 18px; font-weight: 600; color: #1A1713;">34,90€</div>
+  </div>
+  <a href="https://veloabrand.com/products/veloa-pro-lime-electrique-pieds-doux-soin-domicile?variant=default" style="
+    background: #B76E79;
+    color: white;
+    font-family: 'DM Sans', sans-serif;
+    font-size: 14px;
+    font-weight: 600;
+    letter-spacing: 0.05em;
+    text-decoration: none;
+    padding: 14px 24px;
+    border-radius: 4px;
+    flex: 1;
+    text-align: center;
+    text-transform: uppercase;
+  ">Acheter maintenant</a>
+</div>
+
+<script>
+  (function() {
+    var bar = document.getElementById('veloa-sticky-cta');
+    var lastScroll = 0;
+    window.addEventListener('scroll', function() {
+      var currentScroll = window.pageYOffset;
+      if (currentScroll < 300) {
+        bar.style.display = 'none';
+      } else {
+        bar.style.display = 'flex';
+      }
+      lastScroll = currentScroll;
+    });
+    bar.style.display = 'none';
+  })();
+</script>
+ </body>
 </html>
