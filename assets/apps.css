@@ -302,4 +302,14 @@
   .custom-spr__rating-value {
     font-size: 7.5rem;
   }
+}/* VELOA - Avis en scroll horizontal mobile */
+@media (max-width: 749px) {
+  .multi-column-scroll-area {
+    overflow-x: auto !important;
+    overflow-y: visible !important;
+  }
+  .multi-column-scroll-area .multi-column__item {
+    min-width: 85vw !important;
+    flex-shrink: 0 !important;
+  }
 }
