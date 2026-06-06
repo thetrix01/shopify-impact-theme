@@ -241,7 +241,7 @@
       "custom_css": [
         "section {max-width: 1050px; margin-left: auto; margin-right: auto; padding-top: 20px !important; padding-bottom: 20px !important;}",
         ".multi-column {max-width: 1050px; margin-left: auto; margin-right: auto;}",
-        "@media (max-width: 749px) {.multi-column__grid {display: flex !important; flex-wrap: nowrap !important; overflow-x: auto !important; scroll-snap-type: x mandatory; padding-bottom: 16px; gap: 16px; } .multi-column__grid .multi-column__item {min-width: 85vw !important; flex-shrink: 0; scroll-snap-align: center; }}"
+        "@media (max-width: 749px) {.scroll-area {overflow-x: auto !important; overflow-y: visible !important; } .multi-column__item {min-width: 85vw !important; flex-shrink: 0; }}"
       ],
       "name": "Multi-column",
       "settings": {
