@@ -308,10 +308,6 @@
     overflow-x: auto !important;
     overflow-y: visible !important;
   }
-  .multi-column-scroll-area .multi-column__item {
-    min-width: 85vw !important;
-    flex-shrink: 0 !important;
-  }
 }/* VELOA - Avis scroll mobile */
 @media screen and (max-width: 699px) {
   .multi-column {
