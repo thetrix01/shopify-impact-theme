@@ -301,16 +301,4 @@
 
   .custom-spr__rating-value {
     font-size: 7.5rem;
-  }
-}/* VELOA - Avis en scroll horizontal mobile */
-@media (max-width: 749px) {
-  .multi-column-scroll-area {
-    overflow-x: auto !important;
-    overflow-y: visible !important;
-  }
-}/* VELOA - Avis scroll mobile */
-@media screen and (max-width: 699px) {
-  .multi-column {
-    grid: auto / auto-flow 85vw !important;
-  }
 }
