@@ -36,6 +36,7 @@
         "enable_parallax": false,
         "image_size": "auto",
         "image": "shopify://shop_images/Design_sans_titre_2.png",
+        "mobile_image": "shopify://shop_images/ChatGPT_Image_6_juin_2026_18_57_33.webp",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
